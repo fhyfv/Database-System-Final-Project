@@ -1,0 +1,991 @@
+[
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ291848",
+    "StopID": "291848",
+    "StopName": {
+      "Zh_tw": "馬偕醫院",
+      "En": "Mackay Memorial Hospital, HsinChu"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 788,
+    "StopCountDown": 8,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 9,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "-1",
+    "StopUID": "HSZ296965",
+    "StopID": "296965",
+    "StopName": {
+      "Zh_tw": "北大橋",
+      "En": "Bei-Da Bridge"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "StopCountDown": 0,
+    "CurrentStop": "-1",
+    "DestinationStop": "297013",
+    "StopSequence": 1,
+    "StopStatus": 1,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:36+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296967",
+    "StopID": "296967",
+    "StopName": {
+      "Zh_tw": "地方法院",
+      "En": "District Court"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 63,
+    "StopCountDown": 1,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 2,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296968",
+    "StopID": "296968",
+    "StopName": {
+      "Zh_tw": "東門市場",
+      "En": "Dong  Men Market"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 126,
+    "StopCountDown": 2,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 3,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296970",
+    "StopID": "296970",
+    "StopName": {
+      "Zh_tw": "火車站",
+      "En": "Train Station"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 196,
+    "StopCountDown": 3,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 4,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296972",
+    "StopID": "296972",
+    "StopName": {
+      "Zh_tw": "東區區公所",
+      "En": "East  District  Office"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 355,
+    "StopCountDown": 4,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 5,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296975",
+    "StopID": "296975",
+    "StopName": {
+      "Zh_tw": "公園",
+      "En": "Park"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 487,
+    "StopCountDown": 5,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 6,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296977",
+    "StopID": "296977",
+    "StopName": {
+      "Zh_tw": "二分局",
+      "En": "Second Police Bureau"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 653,
+    "StopCountDown": 6,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 7,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296979",
+    "StopID": "296979",
+    "StopName": {
+      "Zh_tw": "工研院光復院區",
+      "En": "ITRI Kuang fu Compound"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 764,
+    "StopCountDown": 7,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 8,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296982",
+    "StopID": "296982",
+    "StopName": {
+      "Zh_tw": "海軍新村",
+      "En": "Hai Jun Xin Village"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 847,
+    "StopCountDown": 9,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 10,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296983",
+    "StopID": "296983",
+    "StopName": {
+      "Zh_tw": "光復中學",
+      "En": "Hsinchu Kuang-Fu Senior High School"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 883,
+    "StopCountDown": 10,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 11,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296985",
+    "StopID": "296985",
+    "StopName": {
+      "Zh_tw": "清華大學",
+      "En": "National Tsing Hua University"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 983,
+    "StopCountDown": 11,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 12,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296987",
+    "StopID": "296987",
+    "StopName": {
+      "Zh_tw": "金城新村口",
+      "En": "Jin Cheng Xin Village Kou"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1053,
+    "StopCountDown": 12,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 13,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296989",
+    "StopID": "296989",
+    "StopName": {
+      "Zh_tw": "過溝",
+      "En": "Guo Gou"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1104,
+    "StopCountDown": 13,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 14,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296991",
+    "StopID": "296991",
+    "StopName": {
+      "Zh_tw": "科學園區",
+      "En": "Hsinchu Science Park"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1225,
+    "StopCountDown": 14,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 15,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ296997",
+    "StopID": "296997",
+    "StopName": {
+      "Zh_tw": "慈雲埔頂二路口",
+      "En": "Ciyun Puding 2nd Rd. Entrance"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1541,
+    "StopCountDown": 16,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 17,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ297000",
+    "StopID": "297000",
+    "StopName": {
+      "Zh_tw": "好市多",
+      "En": "Costco"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1606,
+    "StopCountDown": 17,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 18,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ297003",
+    "StopID": "297003",
+    "StopName": {
+      "Zh_tw": "文興嘉興路口",
+      "En": "Wenxing Jiaxing Rd. Entrance"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1920,
+    "StopCountDown": 18,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 19,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ297007",
+    "StopID": "297007",
+    "StopName": {
+      "Zh_tw": "新瓦屋(文興路)",
+      "En": "New Tile House Hakka Cultural Distric (Wenxing Rd.)"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1981,
+    "StopCountDown": 19,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 20,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-519",
+    "StopUID": "HSZ297010",
+    "StopID": "297010",
+    "StopName": {
+      "Zh_tw": "哈洛德(嘉豐十一路)",
+      "En": "Harrods (Jiafeng 11th Rd.)"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 116,
+    "StopCountDown": 1,
+    "CurrentStop": "297014",
+    "DestinationStop": "297013",
+    "StopSequence": 22,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:08+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-519",
+    "StopUID": "HSZ297013",
+    "StopID": "297013",
+    "StopName": {
+      "Zh_tw": "高鐵新竹站",
+      "En": "THSR Hsinchu Station"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 323,
+    "StopCountDown": 2,
+    "CurrentStop": "297014",
+    "DestinationStop": "297013",
+    "StopSequence": 23,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:08+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ297014",
+    "StopID": "297014",
+    "StopName": {
+      "Zh_tw": "文興嘉豐南路口",
+      "En": "Wenxing Jiafeng S. Rd. Entrance"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 2094,
+    "StopCountDown": 20,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 21,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "FAB-520",
+    "StopUID": "HSZ299891",
+    "StopID": "299891",
+    "StopName": {
+      "Zh_tw": "龍山里",
+      "En": "Longshan Village"
+    },
+    "RouteUID": "HSZ0182",
+    "RouteID": "0182",
+    "RouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "SubRouteUID": "HSZ018201",
+    "SubRouteID": "018201",
+    "SubRouteName": {
+      "Zh_tw": "182",
+      "En": "182"
+    },
+    "Direction": 0,
+    "EstimateTime": 1462,
+    "StopCountDown": 15,
+    "CurrentStop": "296965",
+    "DestinationStop": "297013",
+    "StopSequence": 16,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:19+08:00",
+    "SrcTransTime": "2023-12-10T09:30:36+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291224",
+    "StopID": "291224",
+    "StopName": {
+      "Zh_tw": "日光燈",
+      "En": "Ri Guang Deng"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 980,
+    "StopCountDown": 15,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 19,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291227",
+    "StopID": "291227",
+    "StopName": {
+      "Zh_tw": "世界高中",
+      "En": "World Senior High School"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 1060,
+    "StopCountDown": 17,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 21,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291228",
+    "StopID": "291228",
+    "StopName": {
+      "Zh_tw": "仙水",
+      "En": "Xian Shui"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 1035,
+    "StopCountDown": 16,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 20,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291229",
+    "StopID": "291229",
+    "StopName": {
+      "Zh_tw": "光武國中",
+      "En": "Guang Wu Junior High School"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 892,
+    "StopCountDown": 13,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 17,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291233",
+    "StopID": "291233",
+    "StopName": {
+      "Zh_tw": "和平",
+      "En": "He Ping"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 869,
+    "StopCountDown": 12,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 16,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291239",
+    "StopID": "291239",
+    "StopName": {
+      "Zh_tw": "科學園區別墅",
+      "En": "Hsinchu Science Park Villa"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 943,
+    "StopCountDown": 14,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 18,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  },
+  {
+    "PlateNumb": "940-FL",
+    "StopUID": "HSZ291257",
+    "StopID": "291257",
+    "StopName": {
+      "Zh_tw": "世界高中",
+      "En": "World Senior High School"
+    },
+    "RouteUID": "HSZ0573",
+    "RouteID": "0573",
+    "RouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "SubRouteUID": "HSZ057301",
+    "SubRouteID": "057301",
+    "SubRouteName": {
+      "Zh_tw": "世博3號",
+      "En": "世博3號"
+    },
+    "Direction": 0,
+    "EstimateTime": 1551,
+    "StopCountDown": 24,
+    "CurrentStop": "293661",
+    "DestinationStop": "293674",
+    "StopSequence": 28,
+    "StopStatus": 0,
+    "MessageType": 2,
+    "IsLastBus": false,
+    "DataTime": "2023-12-10T09:30:14+08:00",
+    "SrcTransTime": "2023-12-10T09:30:37+08:00",
+    "UpdateTime": "2023-12-10T09:30:40+08:00"
+  }
+]

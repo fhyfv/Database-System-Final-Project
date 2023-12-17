@@ -1,0 +1,692 @@
+[
+  {
+    "StopUID": "HSZ222237",
+    "StopID": "222237",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "二分局",
+      "En": "Second Police District"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9858828,
+      "PositionLat": 24.80133317,
+      "GeoHash": "wsqj14gnp"
+    },
+    "StopAddress": "新竹市東區光復路二段395號",
+    "Bearing": "E",
+    "StationID": "35049",
+    "StationGroupID": "300－076",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291222",
+    "StopID": "291222",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "工研院光復院區",
+      "En": "ITRI Kuang fu Compound"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9887464,
+      "PositionLat": 24.80039182,
+      "GeoHash": "wsqj14v2f"
+    },
+    "StopAddress": "新竹市光復路二段321號(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130205",
+    "StationGroupID": "300－246",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291223",
+    "StopID": "291223",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "公園",
+      "En": "Park"
+    },
+    "StopPosition": {
+      "PositionLon": 120.97654,
+      "PositionLat": 24.80104,
+      "GeoHash": "wsqj0fukt"
+    },
+    "StopAddress": "新竹市公園路公園大門（大器四方前）",
+    "Bearing": "SW",
+    "StationID": "130198",
+    "StationGroupID": "300－239",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291224",
+    "StopID": "291224",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "日光燈",
+      "En": "Ri Guang Deng"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0160677,
+      "PositionLat": 24.78385101,
+      "GeoHash": "wsqhczc0q"
+    },
+    "StopAddress": "新竹市光復路一段421號",
+    "Bearing": "E",
+    "StationID": "130216",
+    "StationGroupID": "300－257",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291225",
+    "StopID": "291225",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "水源地",
+      "En": "Shui Yuan Di"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9858361,
+      "PositionLat": 24.79784722,
+      "GeoHash": "wsqj1471y"
+    },
+    "StopAddress": "新竹市學府路與博愛街交叉口(候車亭)",
+    "Bearing": "N",
+    "StationID": "130203",
+    "StationGroupID": "300－244",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291226",
+    "StopID": "291226",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "火車站",
+      "En": "Train Station"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9719911,
+      "PositionLat": 24.80325826,
+      "GeoHash": "wsqj0g317"
+    },
+    "StopAddress": "新竹市民族路16號",
+    "Bearing": "N",
+    "StationID": "130195",
+    "StationGroupID": "300－156",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291227",
+    "StopID": "291227",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "世界高中",
+      "En": "World Senior High School"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0200794,
+      "PositionLat": 24.78210329,
+      "GeoHash": "wsqhczknh"
+    },
+    "StopAddress": "新竹市光復路一段257號",
+    "Bearing": "E",
+    "StationID": "130218",
+    "StationGroupID": "300－259",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291228",
+    "StopID": "291228",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "仙水",
+      "En": "Xian Shui"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0185001,
+      "PositionLat": 24.78284215,
+      "GeoHash": "wsqhczdfx"
+    },
+    "StopAddress": "新竹市光復路一段327號",
+    "Bearing": "E",
+    "StationID": "130217",
+    "StationGroupID": "300－258",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291229",
+    "StopID": "291229",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "光武國中",
+      "En": "Guang Wu Junior High School"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0120782,
+      "PositionLat": 24.78553661,
+      "GeoHash": "wsqj18n61"
+    },
+    "StopAddress": "新竹市光復路一段571號",
+    "Bearing": "SE",
+    "StationID": "130214",
+    "StationGroupID": "300－255",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291230",
+    "StopID": "291230",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "光復中學",
+      "En": "Kuang-Fu Senior High School"
+    },
+    "StopPosition": {
+      "PositionLon": 120.99456,
+      "PositionLat": 24.79824,
+      "GeoHash": "wsqj163s1"
+    },
+    "StopAddress": "新竹市光復路二段153號(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130208",
+    "StationGroupID": "300－249",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291231",
+    "StopID": "291231",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "竹中",
+      "En": "Zhu Zhong"
+    },
+    "StopPosition": {
+      "PositionLon": 121.031,
+      "PositionLat": 24.781215,
+      "GeoHash": "wsqhfpk14"
+    },
+    "StopAddress": "新竹縣竹東鎮竹中路135號(候車亭)",
+    "Bearing": "W",
+    "StationID": "130222",
+    "StationGroupID": "310－097",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSQ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291232",
+    "StopID": "291232",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "竹中口",
+      "En": "Zhu Zhong Kou"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0285771,
+      "PositionLat": 24.7807872,
+      "GeoHash": "wsqhfp4qd"
+    },
+    "StopAddress": "新竹縣竹東鎮竹中路38號",
+    "Bearing": "E",
+    "StationID": "130221",
+    "StationGroupID": "310－096",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSQ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291233",
+    "StopID": "291233",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "和平",
+      "En": "He Ping"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0107209,
+      "PositionLat": 24.78657602,
+      "GeoHash": "wsqj18m26"
+    },
+    "StopAddress": "新竹市光復路一段647號",
+    "Bearing": "SE",
+    "StationID": "130213",
+    "StationGroupID": "300－254",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291234",
+    "StopID": "291234",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "東山文教院",
+      "En": "Dong Shan Wen Jiao Yuan"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9788372,
+      "PositionLat": 24.7974216,
+      "GeoHash": "wsqj0fnp7"
+    },
+    "StopAddress": "新竹市東區東山街77號",
+    "Bearing": "SE",
+    "StationID": "130200",
+    "StationGroupID": "300－241",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291235",
+    "StopID": "291235",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "東門市場",
+      "En": "Dong Men Market"
+    },
+    "StopPosition": {
+      "PositionLon": 120.969717,
+      "PositionLat": 24.805299,
+      "GeoHash": "wsqj0exmq"
+    },
+    "StopAddress": "新竹市中正路84號",
+    "Bearing": "NW",
+    "StationID": "130082",
+    "StationGroupID": "300－157",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291236",
+    "StopID": "291236",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "東門國小",
+      "En": "Tung Men Primary School"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9733205,
+      "PositionLat": 24.8062327,
+      "GeoHash": "wsqj0gf4f"
+    },
+    "StopAddress": "新竹市東大路10號對面(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130197",
+    "StationGroupID": "300－238",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291237",
+    "StopID": "291237",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "金城新村口",
+      "En": "Jin Cheng Xin Village Kou"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0005388,
+      "PositionLat": 24.79371669,
+      "GeoHash": "wsqj13tcu"
+    },
+    "StopAddress": "新竹市東區光復路二段186號對面(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130210",
+    "StationGroupID": "300－251",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291238",
+    "StopID": "291238",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "科學園區",
+      "En": "Hsinchu Science Park"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0083312,
+      "PositionLat": 24.78827896,
+      "GeoHash": "wsqj18ed4"
+    },
+    "StopAddress": "新竹市東區光復路一段681號(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130212",
+    "StationGroupID": "300－253",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291239",
+    "StopID": "291239",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "科學園區別墅",
+      "En": "Hsinchu Science Park Villa"
+    },
+    "StopPosition": {
+      "PositionLon": 121.01423,
+      "PositionLat": 24.784533,
+      "GeoHash": "wsqhcxzu7"
+    },
+    "StopAddress": "新竹市光復路一段505號",
+    "Bearing": "E",
+    "StationID": "130215",
+    "StationGroupID": "300－256",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291240",
+    "StopID": "291240",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "海軍新村",
+      "En": "Hai Jun Xin Village"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9921951,
+      "PositionLat": 24.79924913,
+      "GeoHash": "wsqj14xf4"
+    },
+    "StopAddress": "新竹市東區新竹市光復路二段171號",
+    "Bearing": "E",
+    "StationID": "130207",
+    "StationGroupID": "300－248",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291241",
+    "StopID": "291241",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "馬偕醫院",
+      "En": "Mackay Memorial Hospital, HsinChu"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9904029,
+      "PositionLat": 24.79981956,
+      "GeoHash": "wsqj14wt2"
+    },
+    "StopAddress": "新竹市光復路二段257號",
+    "Bearing": "E",
+    "StationID": "130206",
+    "StationGroupID": "300－247",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291242",
+    "StopID": "291242",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "清華大學",
+      "En": "National Tsing Hua University"
+    },
+    "StopPosition": {
+      "PositionLon": 120.997466,
+      "PositionLat": 24.796259,
+      "GeoHash": "wsqj1658t"
+    },
+    "StopAddress": "新竹市光復路二段354號對面(候車亭)",
+    "Bearing": "SE",
+    "StationID": "130209",
+    "StationGroupID": "300－250",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291243",
+    "StopID": "291243",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "新竹高中",
+      "En": "National Hsinchu Senior High School"
+    },
+    "StopPosition": {
+      "PositionLon": 120.981185,
+      "PositionLat": 24.7956153,
+      "GeoHash": "wsqj0czuc"
+    },
+    "StopAddress": "新竹市學府路36號新竹高中大門邊(候車亭)",
+    "Bearing": "E",
+    "StationID": "130201",
+    "StationGroupID": "300－242",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291244",
+    "StopID": "291244",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "新竹高商",
+      "En": "National Hsinchu Commercial &amp; Vocational High School"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9845572,
+      "PositionLat": 24.79684152,
+      "GeoHash": "wsqj144k0"
+    },
+    "StopAddress": "新竹市學府路128號",
+    "Bearing": "E",
+    "StationID": "130202",
+    "StationGroupID": "300－243",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291246",
+    "StopID": "291246",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "學府路口",
+      "En": "Xue Fu Road Entrance"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9869173,
+      "PositionLat": 24.80044104,
+      "GeoHash": "wsqj14gcp"
+    },
+    "StopAddress": "新竹市學府路393-1號(候車亭)",
+    "Bearing": "N",
+    "StationID": "130204",
+    "StationGroupID": "300－245",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291247",
+    "StopID": "291247",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "學園商場",
+      "En": "Xue Yuan Market"
+    },
+    "StopPosition": {
+      "PositionLon": 120.97773,
+      "PositionLat": 24.79862,
+      "GeoHash": "wsqj0fmq3"
+    },
+    "StopAddress": "新竹市東山街與食品街交叉口",
+    "Bearing": "SE",
+    "StationID": "130199",
+    "StationGroupID": "300－240",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291248",
+    "StopID": "291248",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "親仁里",
+      "En": "Qin Ren Village"
+    },
+    "StopPosition": {
+      "PositionLon": 120.97158,
+      "PositionLat": 24.80738,
+      "GeoHash": "wsqj0u0c6"
+    },
+    "StopAddress": "新竹市中央路146號",
+    "Bearing": "E",
+    "StationID": "130196",
+    "StationGroupID": "300－237",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291249",
+    "StopID": "291249",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "關東新村",
+      "En": "Guan Dong Xin Village"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0255648,
+      "PositionLat": 24.78112138,
+      "GeoHash": "wsqhfp20k"
+    },
+    "StopAddress": "新竹市光復路一段33號",
+    "Bearing": "E",
+    "StationID": "130220",
+    "StationGroupID": "300－261",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291250",
+    "StopID": "291250",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "關東橋",
+      "En": "Guan Dong Qiao"
+    },
+    "StopPosition": {
+      "PositionLon": 121.0229651,
+      "PositionLat": 24.78139049,
+      "GeoHash": "wsqhczq4p"
+    },
+    "StopAddress": "新竹市光復路一段139巷口",
+    "Bearing": "E",
+    "StationID": "130219",
+    "StationGroupID": "300－260",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  },
+  {
+    "StopUID": "HSZ291251",
+    "StopID": "291251",
+    "AuthorityID": "012",
+    "StopName": {
+      "Zh_tw": "工研院光復院區",
+      "En": "ITRI Kuang fu Compound"
+    },
+    "StopPosition": {
+      "PositionLon": 120.9892205,
+      "PositionLat": 24.80045948,
+      "GeoHash": "wsqj14v9j"
+    },
+    "StopAddress": "新竹市光復路二段730-732號",
+    "Bearing": "NW",
+    "StationID": "130239",
+    "StationGroupID": "300－246",
+    "City": "Hsinchu",
+    "CityCode": "HSZ",
+    "LocationCityCode": "HSZ",
+    "UpdateTime": "2023-12-09T20:04:15+08:00",
+    "VersionID": 2096
+  }
+]

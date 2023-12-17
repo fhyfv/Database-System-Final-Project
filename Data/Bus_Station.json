@@ -1,0 +1,2210 @@
+[
+    {
+      "StationUID": "HSZ130080",
+      "StationID": "130080",
+      "StationName": {
+        "Zh_tw": "總站"
+      },
+      "StationPosition": {
+        "PositionLon": 120.9705745,
+        "PositionLat": 24.80140496,
+        "GeoHash": "wsqj0fbnd"
+      },
+      "StationGroupID": "300－155",
+      "Stops": [
+        {
+          "StopUID": "HSZ291311",
+          "StopID": "291311",
+          "StopName": {
+            "Zh_tw": "總站",
+            "En": "Terminal"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291311",
+          "StopID": "291311",
+          "StopName": {
+            "Zh_tw": "總站",
+            "En": "Terminal"
+          },
+          "RouteUID": "HSZ0120",
+          "RouteID": "0120",
+          "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+          }
+        },
+        {
+          "StopUID": "HSZ291311",
+          "StopID": "291311",
+          "StopName": {
+            "Zh_tw": "總站",
+            "En": "Terminal"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291311",
+          "StopID": "291311",
+          "StopName": {
+            "Zh_tw": "總站",
+            "En": "Terminal"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130081",
+      "StationID": "130081",
+      "StationName": {
+        "Zh_tw": "火車站"
+      },
+      "StationPosition": {
+        "PositionLon": 120.9711722,
+        "PositionLat": 24.80333322,
+        "GeoHash": "wsqj0g29b"
+      },
+      "StationGroupID": "300－156",
+      "Stops": [
+        {
+          "StopUID": "HSZ291740",
+          "StopID": "291740",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291301",
+          "StopID": "291301",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291301",
+          "StopID": "291301",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291405",
+          "StopID": "291405",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0120",
+          "RouteID": "0120",
+          "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+          }
+        },
+        {
+          "StopUID": "HSZ291405",
+          "StopID": "291405",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0160",
+          "RouteID": "0160",
+          "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+          }
+        },
+        {
+          "StopUID": "HSZ296971",
+          "StopID": "296971",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0182",
+          "RouteID": "0182",
+          "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+          }
+        },
+        {
+          "StopUID": "HSZ291740",
+          "StopID": "291740",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291301",
+          "StopID": "291301",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291301",
+          "StopID": "291301",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0575",
+          "RouteID": "0575",
+          "RouteName": {
+            "Zh_tw": "世博5號",
+            "En": "世博5號"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "N",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130082",
+      "StationID": "130082",
+      "StationName": {
+        "Zh_tw": "東門市場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96964,
+        "PositionLat": 24.80521,
+        "GeoHash": "wsqj0exku"
+      },
+      "StationGroupID": "300－157",
+      "Stops": [
+        {
+          "StopUID": "HSZ291741",
+          "StopID": "291741",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0010",
+          "RouteID": "0010",
+          "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+          }
+        },
+        {
+          "StopUID": "HSZ291741",
+          "StopID": "291741",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0020",
+          "RouteID": "0020",
+          "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+          }
+        },
+        {
+          "StopUID": "HSZ291306",
+          "StopID": "291306",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291742",
+          "StopID": "291742",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291306",
+          "StopID": "291306",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291336",
+          "StopID": "291336",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0120",
+          "RouteID": "0120",
+          "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+          }
+        },
+        {
+          "StopUID": "HSZ291743",
+          "StopID": "291743",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0150",
+          "RouteID": "0150",
+          "RouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+          }
+        },
+        {
+          "StopUID": "HSZ291743",
+          "StopID": "291743",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0160",
+          "RouteID": "0160",
+          "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+          }
+        },
+        {
+          "StopUID": "HSZ296969",
+          "StopID": "296969",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0182",
+          "RouteID": "0182",
+          "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+          }
+        },
+        {
+          "StopUID": "HSZ291743",
+          "StopID": "291743",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291306",
+          "StopID": "291306",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291743",
+          "StopID": "291743",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0270",
+          "RouteID": "0270",
+          "RouteName": {
+            "Zh_tw": "27",
+            "En": "27"
+          }
+        },
+        {
+          "StopUID": "HSZ291235",
+          "StopID": "291235",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0310",
+          "RouteID": "0310",
+          "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+          }
+        },
+        {
+          "StopUID": "HSZ298897",
+          "StopID": "298897",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0739",
+          "RouteID": "0739",
+          "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+          }
+        },
+        {
+          "StopUID": "HSZ291742",
+          "StopID": "291742",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        },
+        {
+          "StopUID": "HSZ291743",
+          "StopID": "291743",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130083",
+      "StationID": "130083",
+      "StationName": {
+        "Zh_tw": "城隍廟"
+      },
+      "StationPosition": {
+        "PositionLon": 120.966176,
+        "PositionLat": 24.805088,
+        "GeoHash": "wsqj0esuh"
+      },
+      "StationGroupID": "300－158",
+      "Stops": [
+        {
+          "StopUID": "HSZ291307",
+          "StopID": "291307",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291307",
+          "StopID": "291307",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291307",
+          "StopID": "291307",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291307",
+          "StopID": "291307",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291307",
+          "StopID": "291307",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130084",
+      "StationID": "130084",
+      "StationName": {
+        "Zh_tw": "西門市場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96385,
+        "PositionLat": 24.80438,
+        "GeoHash": "wsqj0e7pv"
+      },
+      "StationGroupID": "300－159",
+      "Stops": [
+        {
+          "StopUID": "HSZ291304",
+          "StopID": "291304",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291304",
+          "StopID": "291304",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291665",
+          "StopID": "291665",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0510",
+          "RouteID": "0510",
+          "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "N",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130085",
+      "StationID": "130085",
+      "StationName": {
+        "Zh_tw": "棒球場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96201,
+        "PositionLat": 24.80601,
+        "GeoHash": "wsqj0ecc7"
+      },
+      "StationGroupID": "300－160",
+      "Stops": [
+        {
+          "StopUID": "HSZ291308",
+          "StopID": "291308",
+          "StopName": {
+            "Zh_tw": "棒球場",
+            "En": "Baseball Field"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291308",
+          "StopID": "291308",
+          "StopName": {
+            "Zh_tw": "棒球場",
+            "En": "Baseball Field"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "W",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130086",
+      "StationID": "130086",
+      "StationName": {
+        "Zh_tw": "服務中心"
+      },
+      "StationPosition": {
+        "PositionLon": 120.960665,
+        "PositionLat": 24.804115,
+        "GeoHash": "wsqj0e2y7"
+      },
+      "StationGroupID": "300－161",
+      "Stops": [
+        {
+          "StopUID": "HSZ291305",
+          "StopID": "291305",
+          "StopName": {
+            "Zh_tw": "服務中心",
+            "En": "Service Center"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291305",
+          "StopID": "291305",
+          "StopName": {
+            "Zh_tw": "服務中心",
+            "En": "Service Center"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "S",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130087",
+      "StationID": "130087",
+      "StationName": {
+        "Zh_tw": "新竹監獄"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95898,
+        "PositionLat": 24.803827,
+        "GeoHash": "wsqj07rsu"
+      },
+      "StationGroupID": "300－162",
+      "Stops": [
+        {
+          "StopUID": "HSZ291300",
+          "StopID": "291300",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291300",
+          "StopID": "291300",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291300",
+          "StopID": "291300",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291300",
+          "StopID": "291300",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "W",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130088",
+      "StationID": "130088",
+      "StationName": {
+        "Zh_tw": "監獄邊"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95726,
+        "PositionLat": 24.804348,
+        "GeoHash": "wsqj07qru"
+      },
+      "StationGroupID": "300－163",
+      "Stops": [
+        {
+          "StopUID": "HSZ291310",
+          "StopID": "291310",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291310",
+          "StopID": "291310",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291310",
+          "StopID": "291310",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291310",
+          "StopID": "291310",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130089",
+      "StationID": "130089",
+      "StationName": {
+        "Zh_tw": "三廠"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95534,
+        "PositionLat": 24.80461,
+        "GeoHash": "wsqj07scr"
+      },
+      "StationGroupID": "300－164",
+      "Stops": [
+        {
+          "StopUID": "HSZ291297",
+          "StopID": "291297",
+          "StopName": {
+            "Zh_tw": "三廠",
+            "En": "SanChang"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291297",
+          "StopID": "291297",
+          "StopName": {
+            "Zh_tw": "三廠",
+            "En": "SanChang"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130090",
+      "StationID": "130090",
+      "StationName": {
+        "Zh_tw": "台貿四村"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95534,
+        "PositionLat": 24.80184,
+        "GeoHash": "wsqj07hcp"
+      },
+      "StationGroupID": "300－165",
+      "Stops": [
+        {
+          "StopUID": "HSZ291302",
+          "StopID": "291302",
+          "StopName": {
+            "Zh_tw": "台貿四村",
+            "En": "Taimao 4th Village"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291317",
+          "StopID": "291317",
+          "StopName": {
+            "Zh_tw": "台貿四村",
+            "En": "Taimao 4th Village"
+          },
+          "RouteUID": "HSZ0510",
+          "RouteID": "0510",
+          "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "E",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130091",
+      "StationID": "130091",
+      "StationName": {
+        "Zh_tw": "中和路"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95647,
+        "PositionLat": 24.80135,
+        "GeoHash": "wsqj06vy6"
+      },
+      "StationGroupID": "300－166",
+      "Stops": [
+        {
+          "StopUID": "HSZ291298",
+          "StopID": "291298",
+          "StopName": {
+            "Zh_tw": "中和路",
+            "En": "ZhongHe Rd."
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130092",
+      "StationID": "130092",
+      "StationName": {
+        "Zh_tw": "天公壇"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95779,
+        "PositionLat": 24.80005,
+        "GeoHash": "wsqj06wyb"
+      },
+      "StationGroupID": "300－167",
+      "Stops": [
+        {
+          "StopUID": "HSZ291299",
+          "StopID": "291299",
+          "StopName": {
+            "Zh_tw": "天公壇",
+            "En": "Tiangongtan"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130093",
+      "StationID": "130093",
+      "StationName": {
+        "Zh_tw": "警光一村"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95605,
+        "PositionLat": 24.79733,
+        "GeoHash": "wsqj06jwb"
+      },
+      "StationGroupID": "300－168",
+      "Stops": [
+        {
+          "StopUID": "HSZ291312",
+          "StopID": "291312",
+          "StopName": {
+            "Zh_tw": "警光一村",
+            "En": "JingGuang 1st Village"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "S",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130094",
+      "StationID": "130094",
+      "StationName": {
+        "Zh_tw": "榮民之家"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95518,
+        "PositionLat": 24.7948,
+        "GeoHash": "wsqj03ub5"
+      },
+      "StationGroupID": "300－169",
+      "Stops": [
+        {
+          "StopUID": "HSZ291309",
+          "StopID": "291309",
+          "StopName": {
+            "Zh_tw": "榮民之家",
+            "En": "Veterans Home"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130095",
+      "StationID": "130095",
+      "StationName": {
+        "Zh_tw": "成德高中"
+      },
+      "StationPosition": {
+        "PositionLon": 120.9527688,
+        "PositionLat": 24.79319553,
+        "GeoHash": "wsqj037ng"
+      },
+      "StationGroupID": "300－170",
+      "Stops": [
+        {
+          "StopUID": "HSZ291303",
+          "StopID": "291303",
+          "StopName": {
+            "Zh_tw": "成德高中",
+            "En": "Chengte High School"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "N",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130096",
+      "StationID": "130096",
+      "StationName": {
+        "Zh_tw": "榮民之家"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95525,
+        "PositionLat": 24.79472,
+        "GeoHash": "wsqj03szt"
+      },
+      "StationGroupID": "300－169",
+      "Stops": [
+        {
+          "StopUID": "HSZ291324",
+          "StopID": "291324",
+          "StopName": {
+            "Zh_tw": "榮民之家",
+            "En": "Veterans Home"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130097",
+      "StationID": "130097",
+      "StationName": {
+        "Zh_tw": "警光一村"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95615,
+        "PositionLat": 24.79743,
+        "GeoHash": "wsqj06jx6"
+      },
+      "StationGroupID": "300－168",
+      "Stops": [
+        {
+          "StopUID": "HSZ291326",
+          "StopID": "291326",
+          "StopName": {
+            "Zh_tw": "警光一村",
+            "En": "JingGuang 1st Village"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "N",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130098",
+      "StationID": "130098",
+      "StationName": {
+        "Zh_tw": "天公壇"
+      },
+      "StationPosition": {
+        "PositionLon": 120.957524,
+        "PositionLat": 24.79957,
+        "GeoHash": "wsqj06wef"
+      },
+      "StationGroupID": "300－167",
+      "Stops": [
+        {
+          "StopUID": "HSZ291315",
+          "StopID": "291315",
+          "StopName": {
+            "Zh_tw": "天公壇",
+            "En": "Tiangongtan"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130099",
+      "StationID": "130099",
+      "StationName": {
+        "Zh_tw": "中和路"
+      },
+      "StationPosition": {
+        "PositionLon": 120.956479,
+        "PositionLat": 24.801353,
+        "GeoHash": "wsqj06vy6"
+      },
+      "StationGroupID": "300－166",
+      "Stops": [
+        {
+          "StopUID": "HSZ291314",
+          "StopID": "291314",
+          "StopName": {
+            "Zh_tw": "中和路",
+            "En": "ZhongHe Rd."
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NW",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130100",
+      "StationID": "130100",
+      "StationName": {
+        "Zh_tw": "台貿四村"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95549,
+        "PositionLat": 24.80192,
+        "GeoHash": "wsqj07j1e"
+      },
+      "StationGroupID": "300－165",
+      "Stops": [
+        {
+          "StopUID": "HSZ291744",
+          "StopID": "291744",
+          "StopName": {
+            "Zh_tw": "台貿四村",
+            "En": "Taimao 4th Village"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291745",
+          "StopID": "291745",
+          "StopName": {
+            "Zh_tw": "台貿四村",
+            "En": "Taimao 4th Village"
+          },
+          "RouteUID": "HSZ0500",
+          "RouteID": "0500",
+          "RouteName": {
+            "Zh_tw": "50",
+            "En": "50"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "W",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130101",
+      "StationID": "130101",
+      "StationName": {
+        "Zh_tw": "三廠"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95539,
+        "PositionLat": 24.80435,
+        "GeoHash": "wsqj07mpb"
+      },
+      "StationGroupID": "300－164",
+      "Stops": [
+        {
+          "StopUID": "HSZ291313",
+          "StopID": "291313",
+          "StopName": {
+            "Zh_tw": "三廠",
+            "En": "SanChang"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291313",
+          "StopID": "291313",
+          "StopName": {
+            "Zh_tw": "三廠",
+            "En": "SanChang"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130102",
+      "StationID": "130102",
+      "StationName": {
+        "Zh_tw": "監獄邊"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95727,
+        "PositionLat": 24.80424,
+        "GeoHash": "wsqj07qrh"
+      },
+      "StationGroupID": "300－163",
+      "Stops": [
+        {
+          "StopUID": "HSZ291325",
+          "StopID": "291325",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291325",
+          "StopID": "291325",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291325",
+          "StopID": "291325",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291325",
+          "StopID": "291325",
+          "StopName": {
+            "Zh_tw": "監獄邊",
+            "En": "Prison side"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "E",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130103",
+      "StationID": "130103",
+      "StationName": {
+        "Zh_tw": "新竹監獄"
+      },
+      "StationPosition": {
+        "PositionLon": 120.95928,
+        "PositionLat": 24.80359,
+        "GeoHash": "wsqj07rg7"
+      },
+      "StationGroupID": "300－162",
+      "Stops": [
+        {
+          "StopUID": "HSZ291316",
+          "StopID": "291316",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291316",
+          "StopID": "291316",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291316",
+          "StopID": "291316",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291316",
+          "StopID": "291316",
+          "StopName": {
+            "Zh_tw": "新竹監獄",
+            "En": "Hsinchu Prison"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "E",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130104",
+      "StationID": "130104",
+      "StationName": {
+        "Zh_tw": "服務中心"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96084,
+        "PositionLat": 24.80441,
+        "GeoHash": "wsqj0e8bp"
+      },
+      "StationGroupID": "300－161",
+      "Stops": [
+        {
+          "StopUID": "HSZ291320",
+          "StopID": "291320",
+          "StopName": {
+            "Zh_tw": "服務中心",
+            "En": "Service Center"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291320",
+          "StopID": "291320",
+          "StopName": {
+            "Zh_tw": "服務中心",
+            "En": "Service Center"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "N",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130105",
+      "StationID": "130105",
+      "StationName": {
+        "Zh_tw": "棒球場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96172,
+        "PositionLat": 24.80623,
+        "GeoHash": "wsqj0ecdu"
+      },
+      "StationGroupID": "300－160",
+      "Stops": [
+        {
+          "StopUID": "HSZ291323",
+          "StopID": "291323",
+          "StopName": {
+            "Zh_tw": "棒球場",
+            "En": "Baseball Field"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291323",
+          "StopID": "291323",
+          "StopName": {
+            "Zh_tw": "棒球場",
+            "En": "Baseball Field"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130106",
+      "StationID": "130106",
+      "StationName": {
+        "Zh_tw": "西門市場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96402,
+        "PositionLat": 24.80415,
+        "GeoHash": "wsqj0e7q9"
+      },
+      "StationGroupID": "300－159",
+      "Stops": [
+        {
+          "StopUID": "HSZ291319",
+          "StopID": "291319",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291319",
+          "StopID": "291319",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291583",
+          "StopID": "291583",
+          "StopName": {
+            "Zh_tw": "西門市場",
+            "En": "Xi Men Market"
+          },
+          "RouteUID": "HSZ0500",
+          "RouteID": "0500",
+          "RouteName": {
+            "Zh_tw": "50",
+            "En": "50"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "S",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130107",
+      "StationID": "130107",
+      "StationName": {
+        "Zh_tw": "城隍廟"
+      },
+      "StationPosition": {
+        "PositionLon": 120.96647,
+        "PositionLat": 24.80517,
+        "GeoHash": "wsqj0ethe"
+      },
+      "StationGroupID": "300－158",
+      "Stops": [
+        {
+          "StopUID": "HSZ291322",
+          "StopID": "291322",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291322",
+          "StopID": "291322",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291322",
+          "StopID": "291322",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291322",
+          "StopID": "291322",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291322",
+          "StopID": "291322",
+          "StopName": {
+            "Zh_tw": "城隍廟",
+            "En": "Chenghuang Temple"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "NE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130108",
+      "StationID": "130108",
+      "StationName": {
+        "Zh_tw": "東門市場"
+      },
+      "StationPosition": {
+        "PositionLon": 120.9693399,
+        "PositionLat": 24.80548657,
+        "GeoHash": "wsqj0exnm"
+      },
+      "StationGroupID": "300－157",
+      "Stops": [
+        {
+          "StopUID": "HSZ304261",
+          "StopID": "304261",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0010",
+          "RouteID": "0010",
+          "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+          }
+        },
+        {
+          "StopUID": "HSZ304261",
+          "StopID": "304261",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0020",
+          "RouteID": "0020",
+          "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0120",
+          "RouteID": "0120",
+          "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0150",
+          "RouteID": "0150",
+          "RouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0160",
+          "RouteID": "0160",
+          "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+          }
+        },
+        {
+          "StopUID": "HSZ296968",
+          "StopID": "296968",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0182",
+          "RouteID": "0182",
+          "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0270",
+          "RouteID": "0270",
+          "RouteName": {
+            "Zh_tw": "27",
+            "En": "27"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0310",
+          "RouteID": "0310",
+          "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+          }
+        },
+        {
+          "StopUID": "HSZ304262",
+          "StopID": "304262",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong  Men Market"
+          },
+          "RouteUID": "HSZ0739",
+          "RouteID": "0739",
+          "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+          }
+        },
+        {
+          "StopUID": "HSZ291265",
+          "StopID": "291265",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        },
+        {
+          "StopUID": "HSZ299168",
+          "StopID": "299168",
+          "StopName": {
+            "Zh_tw": "東門市場",
+            "En": "Dong Men Market"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    },
+    {
+      "StationUID": "HSZ130109",
+      "StationID": "130109",
+      "StationName": {
+        "Zh_tw": "火車站"
+      },
+      "StationPosition": {
+        "PositionLon": 120.971034,
+        "PositionLat": 24.803483,
+        "GeoHash": "wsqj0g26v"
+      },
+      "StationGroupID": "300－156",
+      "Stops": [
+        {
+          "StopUID": "HSZ304259",
+          "StopID": "304259",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0010",
+          "RouteID": "0010",
+          "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+          }
+        },
+        {
+          "StopUID": "HSZ304259",
+          "StopID": "304259",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0020",
+          "RouteID": "0020",
+          "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+          }
+        },
+        {
+          "StopUID": "HSZ291256",
+          "StopID": "291256",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0100",
+          "RouteID": "0100",
+          "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+          }
+        },
+        {
+          "StopUID": "HSZ291747",
+          "StopID": "291747",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0110",
+          "RouteID": "0110",
+          "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+          }
+        },
+        {
+          "StopUID": "HSZ291747",
+          "StopID": "291747",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0113",
+          "RouteID": "0113",
+          "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+          }
+        },
+        {
+          "StopUID": "HSZ291746",
+          "StopID": "291746",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0120",
+          "RouteID": "0120",
+          "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+          }
+        },
+        {
+          "StopUID": "HSZ291256",
+          "StopID": "291256",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0150",
+          "RouteID": "0150",
+          "RouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+          }
+        },
+        {
+          "StopUID": "HSZ291746",
+          "StopID": "291746",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0160",
+          "RouteID": "0160",
+          "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+          }
+        },
+        {
+          "StopUID": "HSZ296970",
+          "StopID": "296970",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0182",
+          "RouteID": "0182",
+          "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+          }
+        },
+        {
+          "StopUID": "HSZ291256",
+          "StopID": "291256",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0200",
+          "RouteID": "0200",
+          "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+          }
+        },
+        {
+          "StopUID": "HSZ291748",
+          "StopID": "291748",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0230",
+          "RouteID": "0230",
+          "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+          }
+        },
+        {
+          "StopUID": "HSZ291256",
+          "StopID": "291256",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0270",
+          "RouteID": "0270",
+          "RouteName": {
+            "Zh_tw": "27",
+            "En": "27"
+          }
+        },
+        {
+          "StopUID": "HSZ291256",
+          "StopID": "291256",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0310",
+          "RouteID": "0310",
+          "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+          }
+        },
+        {
+          "StopUID": "HSZ299153",
+          "StopID": "299153",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        },
+        {
+          "StopUID": "HSZ299155",
+          "StopID": "299155",
+          "StopName": {
+            "Zh_tw": "火車站",
+            "En": "Train Station"
+          },
+          "RouteUID": "HSZ0743",
+          "RouteID": "0743",
+          "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+          }
+        }
+      ],
+      "LocationCityCode": "HSZ",
+      "Bearing": "SE",
+      "UpdateTime": "2023-12-10T08:24:13+08:00",
+      "VersionID": 2099
+    }
+  ]
