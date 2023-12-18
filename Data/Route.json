@@ -1,1641 +1,1641 @@
 [
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Ku Chi Peak",
-        "DepartureStopNameZh": "古奇峰",
-        "DestinationStopNameEn": "Xinzhuang Station",
-        "DestinationStopNameZh": "新莊車站",
+        "RouteUID": "HSZ0007",
+        "RouteID": "0007",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "KJ-StarBus",
                 "OperatorID": "18",
                 "OperatorName": {
-                    "En": "KJ-Star Bus Co., Ltd.",
-                    "Zh_tw": "科技之星交通"
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
                 },
+                "OperatorCode": "KJ-StarBus",
                 "OperatorNo": "0909"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0007",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0007.jpg",
-        "RouteName": {
-            "En": "81",
-            "Zh_tw": "81"
-        },
-        "RouteUID": "HSZ0007",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ000701",
+                "SubRouteID": "000701",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "81",
+                    "En": "81"
+                },
                 "Headsign": "古奇峰→新莊車站",
                 "HeadsignEn": "Ku Chi Peak→Xinzhuang Station",
-                "OperatorIDs": [
-                    "18"
-                ],
-                "SubRouteID": "000701",
-                "SubRouteName": {
-                    "En": "81",
-                    "Zh_tw": "81"
-                },
-                "SubRouteUID": "HSZ000701"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "新莊車站→古奇峰",
-                "HeadsignEn": "Xinzhuang Station→Ku Chi Peak",
+                "SubRouteUID": "HSZ000702",
+                "SubRouteID": "000702",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "000702",
                 "SubRouteName": {
-                    "En": "81",
-                    "Zh_tw": "81"
+                    "Zh_tw": "81",
+                    "En": "81"
                 },
-                "SubRouteUID": "HSZ000702"
+                "Headsign": "新莊車站→古奇峰",
+                "HeadsignEn": "Xinzhuang Station→Ku Chi Peak",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "81",
+            "En": "81"
+        },
+        "DepartureStopNameZh": "古奇峰",
+        "DepartureStopNameEn": "Ku Chi Peak",
+        "DestinationStopNameZh": "新莊車站",
+        "DestinationStopNameEn": "Xinzhuang Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0007.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Chengde Road",
-        "DepartureStopNameZh": "成德路",
-        "DestinationStopNameEn": "North Campus",
-        "DestinationStopNameZh": "北校門",
+        "RouteUID": "HSZ0008",
+        "RouteID": "0008",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "KJ-StarBus",
                 "OperatorID": "18",
                 "OperatorName": {
-                    "En": "KJ-Star Bus Co., Ltd.",
-                    "Zh_tw": "科技之星交通"
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
                 },
+                "OperatorCode": "KJ-StarBus",
                 "OperatorNo": "0909"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0008",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0008.jpg",
-        "RouteName": {
-            "En": "83",
-            "Zh_tw": "83"
-        },
-        "RouteUID": "HSZ0008",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ000801",
+                "SubRouteID": "000801",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "83",
+                    "En": "83"
+                },
                 "Headsign": "成德路─清華大學",
                 "HeadsignEn": "ChengDe Rd-National Tsing Hua University",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ000802",
+                "SubRouteID": "000802",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "000801",
                 "SubRouteName": {
-                    "En": "83",
-                    "Zh_tw": "83"
+                    "Zh_tw": "83",
+                    "En": "83"
                 },
-                "SubRouteUID": "HSZ000801"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "清華大學─成德路",
                 "HeadsignEn": "National Tsing Hua University-ChengDe Rd",
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "HSZ0008A1",
+                "SubRouteID": "0008A1",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "000802",
                 "SubRouteName": {
-                    "En": "83",
-                    "Zh_tw": "83"
+                    "Zh_tw": "83支A",
+                    "En": "83支A"
                 },
-                "SubRouteUID": "HSZ000802"
-            },
-            {
-                "Direction": 0,
                 "Headsign": "成德路─清華大學(區)",
                 "HeadsignEn": "ChengDe Rd-National Tsing Hua University",
-                "OperatorIDs": [
-                    "18"
-                ],
-                "SubRouteID": "0008A1",
-                "SubRouteName": {
-                    "En": "83支A",
-                    "Zh_tw": "83支A"
-                },
-                "SubRouteUID": "HSZ0008A1"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "清華大學─成德路(區)",
-                "HeadsignEn": "National Tsing Hua University-ChengDe Rd",
+                "SubRouteUID": "HSZ0008A2",
+                "SubRouteID": "0008A2",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "0008A2",
                 "SubRouteName": {
-                    "En": "83支A",
-                    "Zh_tw": "83支A"
+                    "Zh_tw": "83支A",
+                    "En": "83支A"
                 },
-                "SubRouteUID": "HSZ0008A2"
+                "Headsign": "清華大學─成德路(區)",
+                "HeadsignEn": "National Tsing Hua University-ChengDe Rd",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "83",
+            "En": "83"
+        },
+        "DepartureStopNameZh": "成德路",
+        "DepartureStopNameEn": "Chengde Road",
+        "DestinationStopNameZh": "北校門",
+        "DestinationStopNameEn": "North Campus",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0008.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Train Station",
-        "DestinationStopNameZh": "火車站",
+        "RouteUID": "HSZ0010",
+        "RouteID": "0010",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0010",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0010.jpg",
-        "RouteName": {
-            "En": "藍線1區",
-            "Zh_tw": "藍線1區"
-        },
-        "RouteUID": "HSZ0010",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ001001",
+                "SubRouteID": "001001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍線1區",
+                    "En": "藍線1區"
+                },
                 "Headsign": "火車站→竹中[循環線]",
                 "HeadsignEn": "Train Station→Zhu Zhong→Train Station",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "001001",
-                "SubRouteName": {
-                    "En": "藍線1區",
-                    "Zh_tw": "藍線1區"
-                },
-                "SubRouteUID": "HSZ001001"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "火車站",
+        "DestinationStopNameEn": "Train Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0010.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "National Chiao Tung University Guangfu Campus",
-        "DestinationStopNameZh": "交大光復校區",
+        "RouteUID": "HSZ0020",
+        "RouteID": "0020",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0020",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0020.jpg",
-        "RouteName": {
-            "En": "2",
-            "Zh_tw": "2"
-        },
-        "RouteUID": "HSZ0020",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ002001",
+                "SubRouteID": "002001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2",
+                    "En": "2"
+                },
                 "Headsign": "火車站→交大",
                 "HeadsignEn": "Train Station→National Chiao Tung University",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ002002",
+                "SubRouteID": "002002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "002001",
                 "SubRouteName": {
-                    "En": "2",
-                    "Zh_tw": "2"
+                    "Zh_tw": "2",
+                    "En": "2"
                 },
-                "SubRouteUID": "HSZ002001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "交大→火車站",
                 "HeadsignEn": "National Chiao Tung University→Train Station",
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "HSZ0020A1",
+                "SubRouteID": "0020A1",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "002002",
                 "SubRouteName": {
-                    "En": "2",
-                    "Zh_tw": "2"
+                    "Zh_tw": "2支A",
+                    "En": "2支A"
                 },
-                "SubRouteUID": "HSZ002002"
-            },
-            {
-                "Direction": 0,
                 "Headsign": "火車站→交大[繞建功路]",
                 "HeadsignEn": "Train Station→National Chiao Tung University[via Chien Kung Rd.]",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ0020A2",
+                "SubRouteID": "0020A2",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "0020A1",
                 "SubRouteName": {
-                    "En": "2支A",
-                    "Zh_tw": "2支A"
+                    "Zh_tw": "2支A",
+                    "En": "2支A"
                 },
-                "SubRouteUID": "HSZ0020A1"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "交大→火車站[繞建功路]",
                 "HeadsignEn": "National Chiao Tung University→Train Station[via Chien Kung Rd.]",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "0020A2",
-                "SubRouteName": {
-                    "En": "2支A",
-                    "Zh_tw": "2支A"
-                },
-                "SubRouteUID": "HSZ0020A2"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "交大光復校區",
+        "DestinationStopNameEn": "National Chiao Tung University Guangfu Campus",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0020.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Terminal",
-        "DepartureStopNameZh": "總站",
-        "DestinationStopNameEn": "Chengte High School",
-        "DestinationStopNameZh": "成德高中",
+        "RouteUID": "HSZ0100",
+        "RouteID": "0100",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0100",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0100.jpg",
-        "RouteName": {
-            "En": "10",
-            "Zh_tw": "10"
-        },
-        "RouteUID": "HSZ0100",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ010001",
+                "SubRouteID": "010001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10",
+                    "En": "10"
+                },
                 "Headsign": "總站→成德高中",
                 "HeadsignEn": "Terminus→Hsinchu Municipal Chen De High School",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ010002",
+                "SubRouteID": "010002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "010001",
                 "SubRouteName": {
-                    "En": "10",
-                    "Zh_tw": "10"
+                    "Zh_tw": "10",
+                    "En": "10"
                 },
-                "SubRouteUID": "HSZ010001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "成德高中→總站",
                 "HeadsignEn": "Hsinchu Municipal Chen De High School →Terminus",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "010002",
-                "SubRouteName": {
-                    "En": "10",
-                    "Zh_tw": "10"
-                },
-                "SubRouteUID": "HSZ010002"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+        },
+        "DepartureStopNameZh": "總站",
+        "DepartureStopNameEn": "Terminal",
+        "DestinationStopNameZh": "成德高中",
+        "DestinationStopNameEn": "Chengte High School",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0100.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Shuntian Temple",
-        "DestinationStopNameZh": "順天宮",
+        "RouteUID": "HSZ0110",
+        "RouteID": "0110",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0110",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0110.jpg",
-        "RouteName": {
-            "En": "11",
-            "Zh_tw": "11"
-        },
-        "RouteUID": "HSZ0110",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ0110A1",
+                "SubRouteID": "0110A1",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11A",
+                    "En": "11A"
+                },
                 "Headsign": "火車站→順天宮",
                 "HeadsignEn": "Train Station→Shuntian Temple",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ0110A2",
+                "SubRouteID": "0110A2",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "0110A1",
                 "SubRouteName": {
-                    "En": "11A",
-                    "Zh_tw": "11A"
+                    "Zh_tw": "11A",
+                    "En": "11A"
                 },
-                "SubRouteUID": "HSZ0110A1"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "順天宫→火車站",
                 "HeadsignEn": "Shuntian Temple→Train Station",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "0110A2",
-                "SubRouteName": {
-                    "En": "11A",
-                    "Zh_tw": "11A"
-                },
-                "SubRouteUID": "HSZ0110A2"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "順天宮",
+        "DestinationStopNameEn": "Shuntian Temple",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0110.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Shangliao",
-        "DestinationStopNameZh": "上寮",
+        "RouteUID": "HSZ0113",
+        "RouteID": "0113",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0113",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0113.jpg",
-        "RouteName": {
-            "En": "11甲",
-            "Zh_tw": "11甲"
-        },
-        "RouteUID": "HSZ0113",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ011301",
+                "SubRouteID": "011301",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11甲",
+                    "En": "11甲"
+                },
                 "Headsign": "火車站→上寮",
                 "HeadsignEn": "Train Station→shang liao",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ011302",
+                "SubRouteID": "011302",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "011301",
                 "SubRouteName": {
-                    "En": "11甲",
-                    "Zh_tw": "11甲"
+                    "Zh_tw": "11甲",
+                    "En": "11甲"
                 },
-                "SubRouteUID": "HSZ011301"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "上寮→火車站",
                 "HeadsignEn": "shang liao→Train Station",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "011302",
-                "SubRouteName": {
-                    "En": "11甲",
-                    "Zh_tw": "11甲"
-                },
-                "SubRouteUID": "HSZ011302"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "上寮",
+        "DestinationStopNameEn": "Shangliao",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0113.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Terminal",
-        "DepartureStopNameZh": "總站",
-        "DestinationStopNameEn": "Zhuangcuo",
-        "DestinationStopNameZh": "莊厝",
+        "RouteUID": "HSZ0120",
+        "RouteID": "0120",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0120",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0120.jpg",
-        "RouteName": {
-            "En": "12",
-            "Zh_tw": "12"
-        },
-        "RouteUID": "HSZ0120",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ012001",
+                "SubRouteID": "012001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12",
+                    "En": "12"
+                },
                 "Headsign": "總站→莊厝",
                 "HeadsignEn": "Terminus→zhuang cuo",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ012002",
+                "SubRouteID": "012002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "012001",
                 "SubRouteName": {
-                    "En": "12",
-                    "Zh_tw": "12"
+                    "Zh_tw": "12",
+                    "En": "12"
                 },
-                "SubRouteUID": "HSZ012001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "莊厝→總站",
                 "HeadsignEn": "zhuang cuo→Terminus",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "012002",
-                "SubRouteName": {
-                    "En": "12",
-                    "Zh_tw": "12"
-                },
-                "SubRouteUID": "HSZ012002"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+        },
+        "DepartureStopNameZh": "總站",
+        "DepartureStopNameEn": "Terminal",
+        "DestinationStopNameZh": "莊厝",
+        "DestinationStopNameEn": "Zhuangcuo",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0120.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Nan Liao",
-        "DestinationStopNameZh": "南寮",
+        "RouteUID": "HSZ0150",
+        "RouteID": "0150",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0150",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0150.jpg",
-        "RouteName": {
-            "En": "藍15區",
-            "Zh_tw": "藍15區"
-        },
-        "RouteUID": "HSZ0150",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ015001",
+                "SubRouteID": "015001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍15區",
+                    "En": "藍15區"
+                },
                 "Headsign": "火車站→南寮",
                 "HeadsignEn": "Train Station—Nan Liao",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ015002",
+                "SubRouteID": "015002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "015001",
                 "SubRouteName": {
-                    "En": "藍15區",
-                    "Zh_tw": "藍15區"
+                    "Zh_tw": "藍15區",
+                    "En": "藍15區"
                 },
-                "SubRouteUID": "HSZ015001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "南寮→火車站",
                 "HeadsignEn": "Nan Liao—Train Station",
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "HSZ0150B1",
+                "SubRouteID": "0150B1",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "015002",
                 "SubRouteName": {
-                    "En": "藍15區",
-                    "Zh_tw": "藍15區"
+                    "Zh_tw": "藍15區B",
+                    "En": "藍15區B"
                 },
-                "SubRouteUID": "HSZ015002"
-            },
-            {
-                "Direction": 0,
                 "Headsign": "火車站→新竹區漁會",
                 "HeadsignEn": "Train Station—Hsinchu District Fisheries Association",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "0150B1",
-                "SubRouteName": {
-                    "En": "藍15區B",
-                    "Zh_tw": "藍15區B"
-                },
-                "SubRouteUID": "HSZ0150B1"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "新竹區漁會→火車站",
-                "HeadsignEn": "Hsinchu District Fisheries Association→Train Station",
+                "SubRouteUID": "HSZ0150B2",
+                "SubRouteID": "0150B2",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "0150B2",
                 "SubRouteName": {
-                    "En": "藍15區B",
-                    "Zh_tw": "藍15區B"
+                    "Zh_tw": "藍15區B",
+                    "En": "藍15區B"
                 },
-                "SubRouteUID": "HSZ0150B2"
+                "Headsign": "新竹區漁會→火車站",
+                "HeadsignEn": "Hsinchu District Fisheries Association→Train Station",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "南寮",
+        "DestinationStopNameEn": "Nan Liao",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0150.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "National Taiwan University Hospital Hsin-Chu Branc",
-        "DestinationStopNameZh": "台大醫院新竹分院",
+        "RouteUID": "HSZ0160",
+        "RouteID": "0160",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0160",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0160.jpg",
-        "RouteName": {
-            "En": "16",
-            "Zh_tw": "16"
-        },
-        "RouteUID": "HSZ0160",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ016001",
+                "SubRouteID": "016001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "16",
+                    "En": "16"
+                },
                 "Headsign": "火車站→台大分院",
                 "HeadsignEn": "Train Station→NTUH HsinChu Branch",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "016001",
-                "SubRouteName": {
-                    "En": "16",
-                    "Zh_tw": "16"
-                },
-                "SubRouteUID": "HSZ016001"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "台大分院→火車站",
-                "HeadsignEn": "Train Station→NTUH HsinChu Branch",
+                "SubRouteUID": "HSZ016002",
+                "SubRouteID": "016002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "016002",
                 "SubRouteName": {
-                    "En": "16",
-                    "Zh_tw": "16"
+                    "Zh_tw": "16",
+                    "En": "16"
                 },
-                "SubRouteUID": "HSZ016002"
+                "Headsign": "台大分院→火車站",
+                "HeadsignEn": "Train Station→NTUH HsinChu Branch",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "台大醫院新竹分院",
+        "DestinationStopNameEn": "National Taiwan University Hospital Hsin-Chu Branc",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0160.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Bei-Da Bridge",
-        "DepartureStopNameZh": "北大橋",
-        "DestinationStopNameEn": "THSR Hsinchu Station",
-        "DestinationStopNameZh": "高鐵新竹站",
+        "RouteUID": "HSZ0182",
+        "RouteID": "0182",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "KuoKuangBus",
                 "OperatorID": "45",
                 "OperatorName": {
-                    "En": "Kuo-Kuang Bus Co., Ltd.",
-                    "Zh_tw": "國光客運"
+                    "Zh_tw": "國光客運",
+                    "En": "Kuo-Kuang Bus Co., Ltd."
                 },
+                "OperatorCode": "KuoKuangBus",
                 "OperatorNo": "1101"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0182",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0182.jpg",
-        "RouteName": {
-            "En": "182",
-            "Zh_tw": "182"
-        },
-        "RouteUID": "HSZ0182",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ018201",
+                "SubRouteID": "018201",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "182",
+                    "En": "182"
+                },
                 "Headsign": "北大橋→高鐵新竹站",
                 "HeadsignEn": "Bei-Da Bridge→THSR Hsinchu Station",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ018202",
+                "SubRouteID": "018202",
                 "OperatorIDs": [
                     "45"
                 ],
-                "SubRouteID": "018201",
                 "SubRouteName": {
-                    "En": "182",
-                    "Zh_tw": "182"
+                    "Zh_tw": "182",
+                    "En": "182"
                 },
-                "SubRouteUID": "HSZ018201"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "高鐵新竹站→北大橋",
                 "HeadsignEn": "THSR Hsinchu Station →Bei—Da Bridge",
-                "OperatorIDs": [
-                    "45"
-                ],
-                "SubRouteID": "018202",
-                "SubRouteName": {
-                    "En": "182",
-                    "Zh_tw": "182"
-                },
-                "SubRouteUID": "HSZ018202"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "DepartureStopNameZh": "北大橋",
+        "DepartureStopNameEn": "Bei-Da Bridge",
+        "DestinationStopNameZh": "高鐵新竹站",
+        "DestinationStopNameEn": "THSR Hsinchu Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0182.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Terminal",
-        "DepartureStopNameZh": "總站",
-        "DestinationStopNameEn": "Pu Tian Temple",
-        "DestinationStopNameZh": "普天宮",
+        "RouteUID": "HSZ0200",
+        "RouteID": "0200",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0200",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0200.jpg",
-        "RouteName": {
-            "En": "20",
-            "Zh_tw": "20"
-        },
-        "RouteUID": "HSZ0200",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ020001",
+                "SubRouteID": "020001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20",
+                    "En": "20"
+                },
                 "Headsign": "總站→普天宮",
                 "HeadsignEn": "Main Station→Putian Temple",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ020002",
+                "SubRouteID": "020002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "020001",
                 "SubRouteName": {
-                    "En": "20",
-                    "Zh_tw": "20"
+                    "Zh_tw": "20",
+                    "En": "20"
                 },
-                "SubRouteUID": "HSZ020001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "普天宮→總站",
                 "HeadsignEn": "Main Station→Putian Temple",
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "HSZ0200A1",
+                "SubRouteID": "0200A1",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "020002",
                 "SubRouteName": {
-                    "En": "20",
-                    "Zh_tw": "20"
+                    "Zh_tw": "20支A",
+                    "En": "20支A"
                 },
-                "SubRouteUID": "HSZ020002"
-            },
-            {
-                "Direction": 0,
                 "Headsign": "總站→普天宮[繞建華國中]",
                 "HeadsignEn": "Main Station→Putian Temple[via Chien Hua Junior High School]",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "0200A1",
-                "SubRouteName": {
-                    "En": "20支A",
-                    "Zh_tw": "20支A"
-                },
-                "SubRouteUID": "HSZ0200A1"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+        },
+        "DepartureStopNameZh": "總站",
+        "DepartureStopNameEn": "Terminal",
+        "DestinationStopNameZh": "普天宮",
+        "DestinationStopNameEn": "Pu Tian Temple",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0200.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Terminal",
-        "DepartureStopNameZh": "總站",
-        "DestinationStopNameEn": "Hsuan Chuang University",
-        "DestinationStopNameZh": "玄奘大學",
+        "RouteUID": "HSZ0230",
+        "RouteID": "0230",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0230",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0230.jpg",
-        "RouteName": {
-            "En": "23",
-            "Zh_tw": "23"
-        },
-        "RouteUID": "HSZ0230",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ023001",
+                "SubRouteID": "023001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23",
+                    "En": "23"
+                },
                 "Headsign": "總站→玄奘大學[經中華路]",
                 "HeadsignEn": "Main Station→Hsuan Chuang University[via Zhonghua Rd.]",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ023002",
+                "SubRouteID": "023002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "023001",
                 "SubRouteName": {
-                    "En": "23",
-                    "Zh_tw": "23"
+                    "Zh_tw": "23",
+                    "En": "23"
                 },
-                "SubRouteUID": "HSZ023001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "玄奘大學→總站[經中華路]",
                 "HeadsignEn": "Hsuan Chuang University→Main Station[via Zhonghua Rd.]",
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "HSZ0230A1",
+                "SubRouteID": "0230A1",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "023002",
                 "SubRouteName": {
-                    "En": "23",
-                    "Zh_tw": "23"
+                    "Zh_tw": "23支A",
+                    "En": "23支A"
                 },
-                "SubRouteUID": "HSZ023002"
-            },
-            {
-                "Direction": 0,
                 "Headsign": "總站→玄奘大學[經牛埔路]",
                 "HeadsignEn": "Main Station→Hsuan Chuang University [via Niupu Rd.]",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ0230A2",
+                "SubRouteID": "0230A2",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "0230A1",
                 "SubRouteName": {
-                    "En": "23支A",
-                    "Zh_tw": "23支A"
+                    "Zh_tw": "23支A",
+                    "En": "23支A"
                 },
-                "SubRouteUID": "HSZ0230A1"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "玄奘大學→總站[經牛埔路]",
                 "HeadsignEn": "Hsuan Chuang University→Main Station[via Niupu Rd.]",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "0230A2",
-                "SubRouteName": {
-                    "En": "23支A",
-                    "Zh_tw": "23支A"
-                },
-                "SubRouteUID": "HSZ0230A2"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "DepartureStopNameZh": "總站",
+        "DepartureStopNameEn": "Terminal",
+        "DestinationStopNameZh": "玄奘大學",
+        "DestinationStopNameEn": "Hsuan Chuang University",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0230.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Train Station",
-        "DestinationStopNameZh": "火車站",
+        "RouteUID": "HSZ0270",
+        "RouteID": "0270",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0270",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0270.jpg",
-        "RouteName": {
-            "En": "27",
-            "Zh_tw": "27"
-        },
-        "RouteUID": "HSZ0270",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ027001",
+                "SubRouteID": "027001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27",
+                    "En": "27"
+                },
                 "Headsign": "火車站→荷蘭村",
                 "HeadsignEn": "Train Station→Helan Village",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "027001",
-                "SubRouteName": {
-                    "En": "27",
-                    "Zh_tw": "27"
-                },
-                "SubRouteUID": "HSZ027001"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27",
+            "En": "27"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "火車站",
+        "DestinationStopNameEn": "Train Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0270.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Train Station",
-        "DepartureStopNameZh": "火車站",
-        "DestinationStopNameEn": "Science 2nd Station",
-        "DestinationStopNameZh": "科學二站",
+        "RouteUID": "HSZ0310",
+        "RouteID": "0310",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0310",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0310.jpg",
-        "RouteName": {
-            "En": "31",
-            "Zh_tw": "31"
-        },
-        "RouteUID": "HSZ0310",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ031001",
+                "SubRouteID": "031001",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31",
+                    "En": "31"
+                },
                 "Headsign": "火車站→科園社區",
                 "HeadsignEn": "Train Station→Science Community",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "HSZ031002",
+                "SubRouteID": "031002",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "031001",
                 "SubRouteName": {
-                    "En": "31",
-                    "Zh_tw": "31"
+                    "Zh_tw": "31",
+                    "En": "31"
                 },
-                "SubRouteUID": "HSZ031001"
-            },
-            {
-                "Direction": 1,
                 "Headsign": "科園社區→火車站",
                 "HeadsignEn": "Train Station→Science Community",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "031002",
-                "SubRouteName": {
-                    "En": "31",
-                    "Zh_tw": "31"
-                },
-                "SubRouteUID": "HSZ031002"
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Train Station",
+        "DestinationStopNameZh": "科學二站",
+        "DestinationStopNameEn": "Science 2nd Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0310.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Xiangshan District Office",
-        "DepartureStopNameZh": "香山區公所",
-        "DestinationStopNameEn": "Xiangshan District Office",
-        "DestinationStopNameZh": "香山區公所",
+        "RouteUID": "HSZ0500",
+        "RouteID": "0500",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "ChampionBus",
                 "OperatorID": "67",
                 "OperatorName": {
-                    "En": "Champion Bus Co., Ltd.",
-                    "Zh_tw": "金牌客運"
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
                 },
+                "OperatorCode": "ChampionBus",
                 "OperatorNo": "0808"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0500",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0500.jpg",
-        "RouteName": {
-            "En": "50",
-            "Zh_tw": "50"
-        },
-        "RouteUID": "HSZ0500",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ0500A1",
+                "SubRouteID": "0500A1",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "50A",
+                    "En": "50A"
+                },
                 "Headsign": "香山區公所→火車站→香山區公所[先經中華路][繞大鵬新城]",
                 "HeadsignEn": "Hsiang shan District Office→Hsiang shan District Office[via Jung Hua Rd.]",
-                "OperatorIDs": [
-                    "67"
-                ],
-                "SubRouteID": "0500A1",
-                "SubRouteName": {
-                    "En": "50A",
-                    "Zh_tw": "50A"
-                },
-                "SubRouteUID": "HSZ0500A1"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "50",
+            "En": "50"
+        },
+        "DepartureStopNameZh": "香山區公所",
+        "DepartureStopNameEn": "Xiangshan District Office",
+        "DestinationStopNameZh": "香山區公所",
+        "DestinationStopNameEn": "Xiangshan District Office",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0500.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Xiangshan District Office",
-        "DepartureStopNameZh": "香山區公所",
-        "DestinationStopNameEn": "Xiangshan District Office",
-        "DestinationStopNameZh": "香山區公所",
+        "RouteUID": "HSZ0510",
+        "RouteID": "0510",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "ChampionBus",
                 "OperatorID": "67",
                 "OperatorName": {
-                    "En": "Champion Bus Co., Ltd.",
-                    "Zh_tw": "金牌客運"
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
                 },
+                "OperatorCode": "ChampionBus",
                 "OperatorNo": "0808"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0510",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0510.jpg",
-        "RouteName": {
-            "En": "51",
-            "Zh_tw": "51"
-        },
-        "RouteUID": "HSZ0510",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ0510A1",
+                "SubRouteID": "0510A1",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51A",
+                    "En": "51A"
+                },
                 "Headsign": "香山區公所→火車站→香山區公所[先經中山路][繞大鵬新村]",
                 "HeadsignEn": "Hsiang shan District Office→Hsiang shan District Office[via Jung Shan Rd.]",
-                "OperatorIDs": [
-                    "67"
-                ],
-                "SubRouteID": "0510A1",
-                "SubRouteName": {
-                    "En": "51A",
-                    "Zh_tw": "51A"
-                },
-                "SubRouteUID": "HSZ0510A1"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+        },
+        "DepartureStopNameZh": "香山區公所",
+        "DepartureStopNameEn": "Xiangshan District Office",
+        "DestinationStopNameZh": "香山區公所",
+        "DestinationStopNameEn": "Xiangshan District Office",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0510.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Xinzhuang Station",
-        "DepartureStopNameZh": "新莊車站",
-        "DestinationStopNameEn": "Xinzhuang Station",
-        "DestinationStopNameZh": "新莊車站",
+        "RouteUID": "HSZ0520",
+        "RouteID": "0520",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "ChampionBus",
                 "OperatorID": "67",
                 "OperatorName": {
-                    "En": "Champion Bus Co., Ltd.",
-                    "Zh_tw": "金牌客運"
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
                 },
+                "OperatorCode": "ChampionBus",
                 "OperatorNo": "0808"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0520",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0520.jpg",
-        "RouteName": {
-            "En": "52",
-            "Zh_tw": "52"
-        },
-        "RouteUID": "HSZ0520",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ052001",
+                "SubRouteID": "052001",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52",
+                    "En": "52"
+                },
                 "Headsign": "新莊車站→市政府[經建功路]",
                 "HeadsignEn": "Xinzhuang Station→NTUH HsinChu Branch(via Jiang Rd.)",
-                "OperatorIDs": [
-                    "67"
-                ],
-                "SubRouteID": "052001",
-                "SubRouteName": {
-                    "En": "52",
-                    "Zh_tw": "52"
-                },
-                "SubRouteUID": "HSZ052001"
+                "Direction": 0
             },
             {
-                "Direction": 0,
-                "Headsign": "新莊車站-市政府[經建功路]繞國軍新竹醫院",
-                "HeadsignEn": "Xinzhuang Station→Hsinchu Armed Force Hospital→City Hall→Xinzhuang Station(via Jian Gong Rd.)",
+                "SubRouteUID": "HSZ0520A1",
+                "SubRouteID": "0520A1",
                 "OperatorIDs": [
                     "67"
                 ],
-                "SubRouteID": "0520A1",
                 "SubRouteName": {
-                    "En": "52支A",
-                    "Zh_tw": "52支A"
+                    "Zh_tw": "52支A",
+                    "En": "52支A"
                 },
-                "SubRouteUID": "HSZ0520A1"
+                "Headsign": "新莊車站-市政府[經建功路]繞國軍新竹醫院",
+                "HeadsignEn": "Xinzhuang Station→Hsinchu Armed Force Hospital→City Hall→Xinzhuang Station(via Jian Gong Rd.)",
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "DepartureStopNameZh": "新莊車站",
+        "DepartureStopNameEn": "Xinzhuang Station",
+        "DestinationStopNameZh": "新莊車站",
+        "DestinationStopNameEn": "Xinzhuang Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0520.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Xinzhuang Station",
-        "DepartureStopNameZh": "新莊車站",
-        "DestinationStopNameEn": "Xinzhuang Station",
-        "DestinationStopNameZh": "新莊車站",
+        "RouteUID": "HSZ0530",
+        "RouteID": "0530",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "ChampionBus",
                 "OperatorID": "67",
                 "OperatorName": {
-                    "En": "Champion Bus Co., Ltd.",
-                    "Zh_tw": "金牌客運"
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
                 },
+                "OperatorCode": "ChampionBus",
                 "OperatorNo": "0808"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0530",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0530.jpg",
-        "RouteName": {
-            "En": "53",
-            "Zh_tw": "53"
-        },
-        "RouteUID": "HSZ0530",
         "SubRoutes": [
             {
-                "Direction": 0,
-                "Headsign": "新莊車站→市政府(經九甲埔)",
-                "HeadsignEn": "Xinzhuang Station→NTUN HsinChu Branch (via Jiou Jia Rd)",
+                "SubRouteUID": "HSZ053001",
+                "SubRouteID": "053001",
                 "OperatorIDs": [
                     "67"
                 ],
-                "SubRouteID": "053001",
                 "SubRouteName": {
-                    "En": "53",
-                    "Zh_tw": "53"
+                    "Zh_tw": "53",
+                    "En": "53"
                 },
-                "SubRouteUID": "HSZ053001"
+                "Headsign": "新莊車站→市政府(經九甲埔)",
+                "HeadsignEn": "Xinzhuang Station→NTUN HsinChu Branch (via Jiou Jia Rd)",
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "53",
+            "En": "53"
+        },
+        "DepartureStopNameZh": "新莊車站",
+        "DepartureStopNameEn": "Xinzhuang Station",
+        "DestinationStopNameZh": "新莊車站",
+        "DestinationStopNameEn": "Xinzhuang Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0530.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Rear Station",
-        "DepartureStopNameZh": "後站(公園路口)",
-        "DestinationStopNameEn": "Rear Station",
-        "DestinationStopNameZh": "後站(公園路口)",
+        "RouteUID": "HSZ0573",
+        "RouteID": "0573",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0573",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0573.jpg",
-        "RouteName": {
-            "En": "世博3號",
-            "Zh_tw": "世博3號"
-        },
-        "RouteUID": "HSZ0573",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ057301",
+                "SubRouteID": "057301",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "世博3號",
+                    "En": "世博3號"
+                },
                 "Headsign": "後站→世博台灣館→金山公園",
                 "HeadsignEn": "Rear Station→Hsinchu City World Expo—Taiwan Pavilion→Jin Shan Park",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "057301",
-                "SubRouteName": {
-                    "En": "世博3號",
-                    "Zh_tw": "世博3號"
-                },
-                "SubRouteUID": "HSZ057301"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "世博3號",
+            "En": "世博3號"
+        },
+        "DepartureStopNameZh": "後站(公園路口)",
+        "DepartureStopNameEn": "Rear Station",
+        "DestinationStopNameZh": "後站(公園路口)",
+        "DestinationStopNameEn": "Rear Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0573.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Shenggong Temple",
-        "DepartureStopNameZh": "聖公宮",
-        "DestinationStopNameEn": "Hsinchu Taiwan Pavilion Expo Park",
-        "DestinationStopNameZh": "世博台灣館",
+        "RouteUID": "HSZ0575",
+        "RouteID": "0575",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0575",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0575.jpg",
-        "RouteName": {
-            "En": "世博5號",
-            "Zh_tw": "世博5號"
-        },
-        "RouteUID": "HSZ0575",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ057501",
+                "SubRouteID": "057501",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "世博5號",
+                    "En": "世博5號"
+                },
                 "Headsign": "聖公宮→市區→世博台灣館",
                 "HeadsignEn": "Sheng Gung Temple→Downtown area→Hsinchu City World Expo—Taiwan Pavilion",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "057501",
-                "SubRouteName": {
-                    "En": "世博5號",
-                    "Zh_tw": "世博5號"
-                },
-                "SubRouteUID": "HSZ057501"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "世博台灣館→市區→聖公宮",
-                "HeadsignEn": "Hsinchu City World Expo—Taiwan Pavilion→Downtown area→Sheng Gung Temple",
+                "SubRouteUID": "HSZ057502",
+                "SubRouteID": "057502",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "057502",
                 "SubRouteName": {
-                    "En": "世博5號",
-                    "Zh_tw": "世博5號"
+                    "Zh_tw": "世博5號",
+                    "En": "世博5號"
                 },
-                "SubRouteUID": "HSZ057502"
+                "Headsign": "世博台灣館→市區→聖公宮",
+                "HeadsignEn": "Hsinchu City World Expo—Taiwan Pavilion→Downtown area→Sheng Gung Temple",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "世博5號",
+            "En": "世博5號"
+        },
+        "DepartureStopNameZh": "聖公宮",
+        "DepartureStopNameEn": "Shenggong Temple",
+        "DestinationStopNameZh": "世博台灣館",
+        "DestinationStopNameEn": "Hsinchu Taiwan Pavilion Expo Park",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0575.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "North Hsinchu Rear Station",
-        "DepartureStopNameZh": "北新竹後站",
-        "DestinationStopNameEn": "North Hsinchu Rear Station",
-        "DestinationStopNameZh": "北新竹後站",
+        "RouteUID": "HSZ0710",
+        "RouteID": "0710",
         "HasSubRoutes": false,
         "Operators": [
             {
-                "OperatorCode": "KJ-StarBus",
                 "OperatorID": "18",
                 "OperatorName": {
-                    "En": "KJ-Star Bus Co., Ltd.",
-                    "Zh_tw": "科技之星交通"
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
                 },
+                "OperatorCode": "KJ-StarBus",
                 "OperatorNo": "0909"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0710",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0710.jpg",
-        "RouteName": {
-            "En": "71",
-            "Zh_tw": "71"
-        },
-        "RouteUID": "HSZ0710",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ0710A1",
+                "SubRouteID": "0710A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "71A",
+                    "En": "71A"
+                },
                 "Headsign": "北新竹後站→財神廟",
                 "HeadsignEn": "RT—Mart 2nd Stop→Cai Shen Temple→RT—Mart 2nd Stop",
-                "OperatorIDs": [
-                    "18"
-                ],
-                "SubRouteID": "0710A1",
-                "SubRouteName": {
-                    "En": "71A",
-                    "Zh_tw": "71A"
-                },
-                "SubRouteUID": "HSZ0710A1"
+                "Direction": 0
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "71",
+            "En": "71"
+        },
+        "DepartureStopNameZh": "北新竹後站",
+        "DepartureStopNameEn": "North Hsinchu Rear Station",
+        "DestinationStopNameZh": "北新竹後站",
+        "DestinationStopNameEn": "North Hsinchu Rear Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0710.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "North Hsinchu Rear Station",
-        "DepartureStopNameZh": "北新竹後站",
-        "DestinationStopNameEn": "Yang Ming Qing Jing",
-        "DestinationStopNameZh": "陽明清境",
+        "RouteUID": "HSZ0720",
+        "RouteID": "0720",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "KJ-StarBus",
                 "OperatorID": "18",
                 "OperatorName": {
-                    "En": "KJ-Star Bus Co., Ltd.",
-                    "Zh_tw": "科技之星交通"
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
                 },
+                "OperatorCode": "KJ-StarBus",
                 "OperatorNo": "0909"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0720",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0720.jpg",
-        "RouteName": {
-            "En": "72",
-            "Zh_tw": "72"
-        },
-        "RouteUID": "HSZ0720",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ072001",
+                "SubRouteID": "072001",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "72",
+                    "En": "72"
+                },
                 "Headsign": "北新竹後站→陽明清境",
                 "HeadsignEn": "Rear Station→Yang Ming Qing Jing",
-                "OperatorIDs": [
-                    "18"
-                ],
-                "SubRouteID": "072001",
-                "SubRouteName": {
-                    "En": "72",
-                    "Zh_tw": "72"
-                },
-                "SubRouteUID": "HSZ072001"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "陽明清境→北新竹後站",
-                "HeadsignEn": "Yang Ming Qing Jing→Rear Station",
+                "SubRouteUID": "HSZ072002",
+                "SubRouteID": "072002",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "072002",
                 "SubRouteName": {
-                    "En": "72",
-                    "Zh_tw": "72"
+                    "Zh_tw": "72",
+                    "En": "72"
                 },
-                "SubRouteUID": "HSZ072002"
+                "Headsign": "陽明清境→北新竹後站",
+                "HeadsignEn": "Yang Ming Qing Jing→Rear Station",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "72",
+            "En": "72"
+        },
+        "DepartureStopNameZh": "北新竹後站",
+        "DepartureStopNameEn": "North Hsinchu Rear Station",
+        "DestinationStopNameZh": "陽明清境",
+        "DestinationStopNameEn": "Yang Ming Qing Jing",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0720.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "North Hsinchu Rear Station",
-        "DepartureStopNameZh": "北新竹後站",
-        "DestinationStopNameEn": "Garden Xin Cheng",
-        "DestinationStopNameZh": "花園新城",
+        "RouteUID": "HSZ0730",
+        "RouteID": "0730",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "KJ-StarBus",
                 "OperatorID": "18",
                 "OperatorName": {
-                    "En": "KJ-Star Bus Co., Ltd.",
-                    "Zh_tw": "科技之星交通"
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
                 },
+                "OperatorCode": "KJ-StarBus",
                 "OperatorNo": "0909"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0730",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0730.jpg",
-        "RouteName": {
-            "En": "73",
-            "Zh_tw": "73"
-        },
-        "RouteUID": "HSZ0730",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ073001",
+                "SubRouteID": "073001",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "73",
+                    "En": "73"
+                },
                 "Headsign": "北新竹後站→花園新城",
                 "HeadsignEn": "Rear Station→Garden Xin Cheng",
-                "OperatorIDs": [
-                    "18"
-                ],
-                "SubRouteID": "073001",
-                "SubRouteName": {
-                    "En": "73",
-                    "Zh_tw": "73"
-                },
-                "SubRouteUID": "HSZ073001"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "花園新城→北新竹後站",
-                "HeadsignEn": "Garden Xin Cheng→ Rear Station",
+                "SubRouteUID": "HSZ073002",
+                "SubRouteID": "073002",
                 "OperatorIDs": [
                     "18"
                 ],
-                "SubRouteID": "073002",
                 "SubRouteName": {
-                    "En": "73",
-                    "Zh_tw": "73"
+                    "Zh_tw": "73",
+                    "En": "73"
                 },
-                "SubRouteUID": "HSZ073002"
+                "Headsign": "花園新城→北新竹後站",
+                "HeadsignEn": "Garden Xin Cheng→ Rear Station",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "73",
+            "En": "73"
+        },
+        "DepartureStopNameZh": "北新竹後站",
+        "DepartureStopNameEn": "North Hsinchu Rear Station",
+        "DestinationStopNameZh": "花園新城",
+        "DestinationStopNameEn": "Garden Xin Cheng",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0730.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Jingguo Road Entrance",
-        "DepartureStopNameZh": "經國路口",
-        "DestinationStopNameEn": "Xiang Shan Bus Station",
-        "DestinationStopNameZh": "香山轉運站",
+        "RouteUID": "HSZ0739",
+        "RouteID": "0739",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "MiaoliBus",
                 "OperatorID": "14",
                 "OperatorName": {
-                    "En": "Miaoli Bus Co., Ltd.",
-                    "Zh_tw": "苗栗客運"
+                    "Zh_tw": "苗栗客運",
+                    "En": "Miaoli Bus Co., Ltd."
                 },
+                "OperatorCode": "MiaoliBus",
                 "OperatorNo": "0911"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0739",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0739.jpg",
-        "RouteName": {
-            "En": "綠線",
-            "Zh_tw": "綠線"
-        },
-        "RouteUID": "HSZ0739",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ073901",
+                "SubRouteID": "073901",
+                "OperatorIDs": [
+                    "14"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "綠線",
+                    "En": "綠線"
+                },
                 "Headsign": "經國路口→香山轉運站",
                 "HeadsignEn": "Jingguo Road Entrance→Xiang Shan Bus Station",
-                "OperatorIDs": [
-                    "14"
-                ],
-                "SubRouteID": "073901",
-                "SubRouteName": {
-                    "En": "綠線",
-                    "Zh_tw": "綠線"
-                },
-                "SubRouteUID": "HSZ073901"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "香山轉運站→經國路口",
-                "HeadsignEn": "Xiang Shan Bus Station→Jingguo Road Entrance",
+                "SubRouteUID": "HSZ073902",
+                "SubRouteID": "073902",
                 "OperatorIDs": [
                     "14"
                 ],
-                "SubRouteID": "073902",
                 "SubRouteName": {
-                    "En": "綠線",
-                    "Zh_tw": "綠線"
+                    "Zh_tw": "綠線",
+                    "En": "綠線"
                 },
-                "SubRouteUID": "HSZ073902"
+                "Headsign": "香山轉運站→經國路口",
+                "HeadsignEn": "Xiang Shan Bus Station→Jingguo Road Entrance",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "DepartureStopNameZh": "經國路口",
+        "DepartureStopNameEn": "Jingguo Road Entrance",
+        "DestinationStopNameZh": "香山轉運站",
+        "DestinationStopNameEn": "Xiang Shan Bus Station",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0739.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     },
     {
-        "AuthorityID": "012",
-        "BusRouteType": 11,
-        "City": "Hsinchu",
-        "CityCode": "HSZ",
-        "DepartureStopNameEn": "Hsinchu District Fisheries Association",
-        "DepartureStopNameZh": "新竹區漁會",
-        "DestinationStopNameEn": "Zhu Zhong",
-        "DestinationStopNameZh": "竹中",
+        "RouteUID": "HSZ0743",
+        "RouteID": "0743",
         "HasSubRoutes": true,
         "Operators": [
             {
-                "OperatorCode": "HsinchuBus",
                 "OperatorID": "13",
                 "OperatorName": {
-                    "En": "Hsinchu Bus Co., Ltd.",
-                    "Zh_tw": "新竹客運"
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
                 },
+                "OperatorCode": "HsinchuBus",
                 "OperatorNo": "1303"
             }
         ],
+        "AuthorityID": "012",
         "ProviderID": "010",
-        "RouteID": "0743",
-        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0743.jpg",
-        "RouteName": {
-            "En": "藍線",
-            "Zh_tw": "藍線"
-        },
-        "RouteUID": "HSZ0743",
         "SubRoutes": [
             {
-                "Direction": 0,
+                "SubRouteUID": "HSZ074301",
+                "SubRouteID": "074301",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍線",
+                    "En": "藍線"
+                },
                 "Headsign": "新竹區漁會→竹中",
                 "HeadsignEn": "Hsinchu District Fisheries Association→Zhu Zhong",
-                "OperatorIDs": [
-                    "13"
-                ],
-                "SubRouteID": "074301",
-                "SubRouteName": {
-                    "En": "藍線",
-                    "Zh_tw": "藍線"
-                },
-                "SubRouteUID": "HSZ074301"
+                "Direction": 0
             },
             {
-                "Direction": 1,
-                "Headsign": "竹中→新竹區漁會",
-                "HeadsignEn": "Zhu Zhong→Hsinchu District Fisheries Association",
+                "SubRouteUID": "HSZ074302",
+                "SubRouteID": "074302",
                 "OperatorIDs": [
                     "13"
                 ],
-                "SubRouteID": "074302",
                 "SubRouteName": {
-                    "En": "藍線",
-                    "Zh_tw": "藍線"
+                    "Zh_tw": "藍線",
+                    "En": "藍線"
                 },
-                "SubRouteUID": "HSZ074302"
+                "Headsign": "竹中→新竹區漁會",
+                "HeadsignEn": "Zhu Zhong→Hsinchu District Fisheries Association",
+                "Direction": 1
             }
         ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍線",
+            "En": "藍線"
+        },
+        "DepartureStopNameZh": "新竹區漁會",
+        "DepartureStopNameEn": "Hsinchu District Fisheries Association",
+        "DestinationStopNameZh": "竹中",
+        "DestinationStopNameEn": "Zhu Zhong",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0743.jpg",
+        "City": "Hsinchu",
+        "CityCode": "HSZ",
         "UpdateTime": "2023-12-14T03:43:28+08:00",
         "VersionID": 2120
     }

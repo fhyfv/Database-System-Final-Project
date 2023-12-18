@@ -6,7 +6,13 @@ app_id = 'yangzonghao910904.en10-c2d256a0-46c7-439f'
 app_key = '5e5ad39d-2f65-4dff-8e2c-10de5b3af97b'
 
 auth_url = "https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token"
-url = "https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/Streaming/City/Hsinchu?%24format=JSON"
+url = "https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/Hsinchu?%24format=JSON"
+
+# Route url : https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/Hsinchu?%24format=JSON
+# Stop Of Route url : https://tdx.transportdata.tw/api/basic/v2/Bus/StopOfRoute/City/Hsinchu?%24format=JSON
+# Stop url : https://tdx.transportdata.tw/api/basic/v2/Bus/Stop/City/Hsinchu?%24format=JSON
+# Staion url : https://tdx.transportdata.tw/api/basic/v2/Bus/Station/City/Hsinchu?%24format=JSON
+# Estimate Arrival Time url : https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/Hsinchu?%24format=JSON
 
 class Auth():
 
@@ -52,5 +58,5 @@ if __name__ == '__main__':
         data_response = requests.get(url, headers = d.get_data_header())    
 
     with open('Estimate_Arrival_Time.json', 'w') as file:
-        file.write(json.dumps(json.loads(data_response.text), indent = 4, sort_keys = True, ensure_ascii = False))
+        file.write(json.dumps(json.loads(data_response.text), indent = 4, ensure_ascii = False))
 
