@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(47, 47, 47);
+    color:white;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+#routeSearch, #stopSearch {
+    margin-bottom: 20px;
+}
+#results {
+    background-color: black;
+    margin-bottom: 20px;
+}
