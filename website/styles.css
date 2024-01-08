@@ -12,3 +12,29 @@ body {
     background-color: black;
     margin-bottom: 20px;
 }
+#register{
+    background-color: rgb(38, 157, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width:50px;
+    margin-bottom: 20px;
+    position: absolute;
+    top:5%;
+    right:25px;
+    cursor: pointer;
+}
+#login {
+    background-color: rgb(38, 157, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width:50px;
+    margin-bottom: 20px;
+    position: absolute;
+    top:5%;
+    right:100px;
+    cursor: pointer;
+}

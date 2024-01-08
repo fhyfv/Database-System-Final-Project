@@ -1,6 +1,9 @@
 const resultdiv=document.getElementById("results");
 const routebtn=document.getElementById("routebtn");
 const stopbtn=document.getElementById("stopbtn");
+const regbtn=document.getElementById("register");
+const logbtn=document.getElementById("login");
+
 
 var routes, stops, stations, stopOfRoutes, estimatedArrivalTimes;
 
@@ -9,7 +12,8 @@ stopbtn.disabled = true;
 
 routebtn.addEventListener("click", searchRoute);
 stopbtn.addEventListener("click", searchStop);
-
+regbtn.addEventListener("click", regi);
+logbtn.addEventListener("click", logi);
 
 
 loadData();
@@ -37,7 +41,7 @@ function loadData() {
         })
         .catch(error => console.error('Error:', error));
 
-    fetch('Stations.json')
+    fetch('Station.json')
         .then(response => response.json())
         .then(data => {
             stations = data;
@@ -71,16 +75,34 @@ function loadData() {
 
 function searchRoute() {
     var routeInput = document.getElementById('routeInput').value;
-    var route = routes.find(r => r.RouteID === routeInput);
-    if (route) {
-        var stopsOfRoute = stopOfRoutes.filter(s => s.RouteID === route.RouteID);
-        var stopDetails = stopsOfRoute.map(s => stops.find(stop => stop.StopID === s.StopID));
-        resultdiv.innerHTML=``;// Display the route and stop details in the 'results' div
+    // var route = routes.find(r => r.RouteID === routeInput);
+    // if (route) {
+    //     var stopsOfRoute = stopOfRoutes.filter(s => s.RouteID === route.RouteID);
+    //     var stopDetails = stopsOfRoute.map(s => stops.find(stop => stop.StopID === s.StopID));
+    //     console.log("bdbd");
+    //     console.log(stopDetails);
+    //     resultdiv.innerHTML=`${stopDetails}`;// Display the route and stop details in the 'results' div
+    // }
+    resultdiv.innerHTML=``;
+    let id=indexroute(routeInput);
+    console.log(routeInput)
+    console.log(id);
+    if(id!=null){
+        for(let j=0;j<stopOfRoutes[id].Stops.length;j++){
+            console.log(stopOfRoutes[id].Stops[j].StopName.Zh_tw);
+            resultdiv.innerHTML=resultdiv.innerHTML+`${stopOfRoutes[id].Stops[j].StopName.Zh_tw}<br/>`;
+        }
+        resultdiv.innerHTML=resultdiv.innerHTML+`---------------------------------------------------<br/>`;
+        console.log("----------------");
+        if(stopOfRoutes[id+1].Direction==1){
+            for(let j=0;j<stopOfRoutes[id+1].Stops.length;j++){
+                console.log(stopOfRoutes[id+1].Stops[j].StopName.Zh_tw);
+                resultdiv.innerHTML=resultdiv.innerHTML+`${stopOfRoutes[id+1].Stops[j].StopName.Zh_tw}<br/>`;
+            }
+        }
     }
 }
-
 function searchStop() {
-    console.log("stop");
     var stopInput = document.getElementById('stopInput').value;
     var stop = stops.find(s => s.StopID === stopInput);
     if (stop) {
@@ -95,4 +117,25 @@ function getEstimatedArrivalTime(routeID, stopID) {
     return estimatedArrivalTime ? estimatedArrivalTime.EstimateTime : 'N/A';
 }
 
+function regi(){
+    console.log(0);
+    prompt("使用者ID");
+    prompt("密碼");
+}
+function logi(){
+    console.log(1);
+    prompt("使用者ID");
+    prompt("密碼");
+}
 
+
+
+
+function indexroute(rid){
+    for (let i=0;i<stopOfRoutes.length;i++){
+        if(rid==stopOfRoutes[i].RouteID){
+            return i;
+        }
+    }
+    return null;
+}
