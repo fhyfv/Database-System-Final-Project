@@ -1,28 +1,20 @@
-create table route(
-    id int auto_increment,
-    route_info json,
-    primary key(id)
+CREATE TABLE IF NOT EXISTS Stops (
+    StopUID VARCHAR(20) PRIMARY KEY,
+    StopName VARCHAR(255),
+    StopPositionLon DOUBLE,
+    StopPositionLat DOUBLE,
+    StopAddress VARCHAR(255),
+    StationGroupID VARCHAR(20)
 );
 
-create table stop(
-    id int auto_increment,
-    stop_info json,
-    primary key(id)
-);
-
-create table station(
-    id int auto_increment,
-    station_info json,
-    primary key(id)
-);
-
-create table stop_of_route(
-    id int auto_increment,
-    stop_of_route_info json,
-    primary key(id)
-);
-
-util.importJson("Data/route.json", {schema: "project", table: "route", tableColumn: "route_info"})
-util.importJson("Data/stop.json", {schema: "project", table: "stop", tableColumn: "stop_info"})
-util.importJson("Data/station.json", {schema: "project", table: "station", tableColumn: "station_info"})
-util.importJson("Data/stop_of_route.json", {schema: "project", table: "stop_of_route", tableColumn: "stop_of_route_info"})
+LOAD DATA LOCAL INFILE 'Data/Stop.json' 
+    INTO TABLE Stops
+    LINES TERMINATED BY '\n'
+    (@json)
+    SET
+        StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID')),
+        StopName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopName')),
+        StopPositionLon = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopPositionLon')),
+        StopPositionLat = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopPositionLat')),
+        StopAddress = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopAddress')),
+        StationGroupID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StationGroupID'));
