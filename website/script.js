@@ -3,7 +3,7 @@ const routebtn=document.getElementById("routebtn");
 const stopbtn=document.getElementById("stopbtn");
 const regbtn=document.getElementById("register");
 const logbtn=document.getElementById("login");
-
+const favbtn=document.getElementById("fav");
 
 var routes, stops, stations, stopOfRoutes, estimatedArrivalTimes;
 
@@ -14,6 +14,7 @@ routebtn.addEventListener("click", searchRoute);
 stopbtn.addEventListener("click", searchStop);
 regbtn.addEventListener("click", regi);
 logbtn.addEventListener("click", logi);
+favbtn.addEventListener("click", showFav);
 
 
 loadData();
@@ -75,14 +76,6 @@ function loadData() {
 
 function searchRoute() {
     var routeInput = document.getElementById('routeInput').value;
-    // var route = routes.find(r => r.RouteID === routeInput);
-    // if (route) {
-    //     var stopsOfRoute = stopOfRoutes.filter(s => s.RouteID === route.RouteID);
-    //     var stopDetails = stopsOfRoute.map(s => stops.find(stop => stop.StopID === s.StopID));
-    //     console.log("bdbd");
-    //     console.log(stopDetails);
-    //     resultdiv.innerHTML=`${stopDetails}`;// Display the route and stop details in the 'results' div
-    // }
     resultdiv.innerHTML=``;
     let id=indexroute(routeInput);
     console.log(routeInput)
@@ -117,21 +110,35 @@ function getEstimatedArrivalTime(routeID, stopID) {
     return estimatedArrivalTime ? estimatedArrivalTime.EstimateTime : 'N/A';
 }
 
+
 function regi(){
     console.log(0);
-    prompt("使用者ID");
-    prompt("密碼");
+    let id=prompt("使用者ID");
+    while(id){                             //id 已被使用
+        id=prompt("使用者ID重複");
+    }
+    if(id){                             //成功取id
+        let passwd=prompt("密碼");
+        //註冊
+    }
 }
 function logi(){
     console.log(1);
-    prompt("使用者ID");
-    prompt("密碼");
+    let id=prompt("使用者ID");
+    if(id){                             //id 存在使用者
+        let passwd=prompt("密碼");
+        if(passwd){                     //password正確
+            //登入
+        }
+    }
+}
+
+function showFav(){
+
 }
 
 
-
-
-function indexroute(rid){
+function indexroute(rid){           //用sql這裡可以刪掉
     for (let i=0;i<stopOfRoutes.length;i++){
         if(rid==stopOfRoutes[i].RouteID){
             return i;
