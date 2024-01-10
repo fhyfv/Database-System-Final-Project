@@ -2,19 +2,30 @@
     $host= "localhost";
     $username = "root";
     $password = "";
+    $dbname = "Project";
 
     // Create connection
-    $conn = mysqli_connect($host, $username, $password);
+    $conn = mysqli_connect($host, $username, $password, $dbname);
 
     // Check connection
-    if (!$conn) {
-        die("Connection failed: " . mysqli_connect_error());
+    if ($conn){
+        echo "</br>Connect Success</br>";
     }
-        echo 'Connected successfully';
+    else{
+        echo "</br>Connect Fail</br>" . mysqli_connect_error();
+    }
 
-    $db_name = "Project";
-    mysqli_select_db($conn, $dbname) or 
-    die("Connect database failed: " . mysqli_error($conn));
+    $sql = "SELECT id, route_info FROM route";
+    $result = $conn->query($sql);
+    
+    if ($result->num_rows > 0) {
+        while($row = $result->fetch_assoc()) {
+            echo $row["route_info"];
+        }
+    }
+    else {
+        echo "0 results";
+    }
 
     mysqli_close($conn);
 ?>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>公車查詢</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>公車查詢</h1>
+    <div id="login">登入</div>
+    <div id="register">註冊</div>
+    <div id="fav">我的最愛</div>
+    <div id="routeSearch">
+        <input type="text" id="routeInput" placeholder="路線查詢">
+        <button id="routebtn">Search</button>
+    </div>
+    <div id="stopSearch">
+        <input type="text" id="stopInput" placeholder="站牌查詢">
+        <button id="stopbtn">Search</button>
+    </div>
+    <div id="results"></div>
+    <script src="script.js"></script>
+    
+    <h3>test query</h3>
+    <?php include "connect.php"; ?>
+    
+</body>
+</html>
