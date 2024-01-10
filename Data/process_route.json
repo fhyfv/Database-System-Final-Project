@@ -1,0 +1,184 @@
+[
+    {
+        "RouteUID": "HSZ0007",
+        "RouteName": "81",
+        "DepartureStopName": "古奇峰",
+        "DestinationStopName": "新莊車站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0007.jpg"
+    },
+    {
+        "RouteUID": "HSZ0008",
+        "RouteName": "83",
+        "DepartureStopName": "成德路",
+        "DestinationStopName": "北校門",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0008.jpg"
+    },
+    {
+        "RouteUID": "HSZ0010",
+        "RouteName": "藍線1區",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "火車站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0010.jpg"
+    },
+    {
+        "RouteUID": "HSZ0020",
+        "RouteName": "2",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "交大光復校區",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0020.jpg"
+    },
+    {
+        "RouteUID": "HSZ0100",
+        "RouteName": "10",
+        "DepartureStopName": "總站",
+        "DestinationStopName": "成德高中",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0100.jpg"
+    },
+    {
+        "RouteUID": "HSZ0110",
+        "RouteName": "11",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "順天宮",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0110.jpg"
+    },
+    {
+        "RouteUID": "HSZ0113",
+        "RouteName": "11甲",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "上寮",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0113.jpg"
+    },
+    {
+        "RouteUID": "HSZ0120",
+        "RouteName": "12",
+        "DepartureStopName": "總站",
+        "DestinationStopName": "莊厝",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0120.jpg"
+    },
+    {
+        "RouteUID": "HSZ0150",
+        "RouteName": "藍15區",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "南寮",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0150.jpg"
+    },
+    {
+        "RouteUID": "HSZ0160",
+        "RouteName": "16",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "台大醫院新竹分院",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0160.jpg"
+    },
+    {
+        "RouteUID": "HSZ0182",
+        "RouteName": "182",
+        "DepartureStopName": "北大橋",
+        "DestinationStopName": "高鐵新竹站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0182.jpg"
+    },
+    {
+        "RouteUID": "HSZ0200",
+        "RouteName": "20",
+        "DepartureStopName": "總站",
+        "DestinationStopName": "普天宮",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0200.jpg"
+    },
+    {
+        "RouteUID": "HSZ0230",
+        "RouteName": "23",
+        "DepartureStopName": "總站",
+        "DestinationStopName": "玄奘大學",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0230.jpg"
+    },
+    {
+        "RouteUID": "HSZ0270",
+        "RouteName": "27",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "火車站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0270.jpg"
+    },
+    {
+        "RouteUID": "HSZ0310",
+        "RouteName": "31",
+        "DepartureStopName": "火車站",
+        "DestinationStopName": "科學二站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0310.jpg"
+    },
+    {
+        "RouteUID": "HSZ0500",
+        "RouteName": "50",
+        "DepartureStopName": "香山區公所",
+        "DestinationStopName": "香山區公所",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0500.jpg"
+    },
+    {
+        "RouteUID": "HSZ0510",
+        "RouteName": "51",
+        "DepartureStopName": "香山區公所",
+        "DestinationStopName": "香山區公所",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0510.jpg"
+    },
+    {
+        "RouteUID": "HSZ0520",
+        "RouteName": "52",
+        "DepartureStopName": "新莊車站",
+        "DestinationStopName": "新莊車站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0520.jpg"
+    },
+    {
+        "RouteUID": "HSZ0530",
+        "RouteName": "53",
+        "DepartureStopName": "新莊車站",
+        "DestinationStopName": "新莊車站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0530.jpg"
+    },
+    {
+        "RouteUID": "HSZ0573",
+        "RouteName": "世博3號",
+        "DepartureStopName": "後站(公園路口)",
+        "DestinationStopName": "後站(公園路口)",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0573.jpg"
+    },
+    {
+        "RouteUID": "HSZ0575",
+        "RouteName": "世博5號",
+        "DepartureStopName": "聖公宮",
+        "DestinationStopName": "世博台灣館",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0575.jpg"
+    },
+    {
+        "RouteUID": "HSZ0710",
+        "RouteName": "71",
+        "DepartureStopName": "北新竹後站",
+        "DestinationStopName": "北新竹後站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0710.jpg"
+    },
+    {
+        "RouteUID": "HSZ0720",
+        "RouteName": "72",
+        "DepartureStopName": "北新竹後站",
+        "DestinationStopName": "陽明清境",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0720.jpg"
+    },
+    {
+        "RouteUID": "HSZ0730",
+        "RouteName": "73",
+        "DepartureStopName": "北新竹後站",
+        "DestinationStopName": "花園新城",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0730.jpg"
+    },
+    {
+        "RouteUID": "HSZ0739",
+        "RouteName": "綠線",
+        "DepartureStopName": "經國路口",
+        "DestinationStopName": "香山轉運站",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0739.jpg"
+    },
+    {
+        "RouteUID": "HSZ0743",
+        "RouteName": "藍線",
+        "DepartureStopName": "新竹區漁會",
+        "DestinationStopName": "竹中",
+        "RouteMapImageUrl": "http://web.taiwanbus.tw/TMSData/Schematic/file/0743.jpg"
+    }
+]

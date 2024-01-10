@@ -1,0 +1,272 @@
+[
+    {
+        "RouteUID": "HSZ0007",
+        "RouteName": "81",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0007",
+        "RouteName": "81",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0008",
+        "RouteName": "83",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0008",
+        "RouteName": "83",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0008",
+        "RouteName": "83",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0008",
+        "RouteName": "83",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0010",
+        "RouteName": "藍線1區",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0020",
+        "RouteName": "2",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0020",
+        "RouteName": "2",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0020",
+        "RouteName": "2",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0020",
+        "RouteName": "2",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0100",
+        "RouteName": "10",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0100",
+        "RouteName": "10",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0110",
+        "RouteName": "11",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0110",
+        "RouteName": "11",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0113",
+        "RouteName": "11甲",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0113",
+        "RouteName": "11甲",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0120",
+        "RouteName": "12",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0120",
+        "RouteName": "12",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0150",
+        "RouteName": "藍15區",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0150",
+        "RouteName": "藍15區",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0150",
+        "RouteName": "藍15區",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0150",
+        "RouteName": "藍15區",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0160",
+        "RouteName": "16",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0160",
+        "RouteName": "16",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0182",
+        "RouteName": "182",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0182",
+        "RouteName": "182",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0200",
+        "RouteName": "20",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0200",
+        "RouteName": "20",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0200",
+        "RouteName": "20",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0230",
+        "RouteName": "23",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0230",
+        "RouteName": "23",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0230",
+        "RouteName": "23",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0230",
+        "RouteName": "23",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0270",
+        "RouteName": "27",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0310",
+        "RouteName": "31",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0310",
+        "RouteName": "31",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0500",
+        "RouteName": "50",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0510",
+        "RouteName": "51",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0520",
+        "RouteName": "52",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0520",
+        "RouteName": "52",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0530",
+        "RouteName": "53",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0573",
+        "RouteName": "世博3號",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0575",
+        "RouteName": "世博5號",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0575",
+        "RouteName": "世博5號",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0710",
+        "RouteName": "71",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0720",
+        "RouteName": "72",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0720",
+        "RouteName": "72",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0730",
+        "RouteName": "73",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0730",
+        "RouteName": "73",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0739",
+        "RouteName": "綠線",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0739",
+        "RouteName": "綠線",
+        "Direction": 1
+    },
+    {
+        "RouteUID": "HSZ0743",
+        "RouteName": "藍線",
+        "Direction": 0
+    },
+    {
+        "RouteUID": "HSZ0743",
+        "RouteName": "藍線",
+        "Direction": 1
+    }
+]

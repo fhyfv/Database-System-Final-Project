@@ -1,0 +1,5245 @@
+[
+    {
+        "StationUID": "HSZ130080",
+        "StationName": "總站",
+        "StationGroupID": "300－155",
+        "StationPositionLon": 120.9705745,
+        "StationPositionLat": 24.80140496
+    },
+    {
+        "StationUID": "HSZ130081",
+        "StationName": "火車站",
+        "StationGroupID": "300－156",
+        "StationPositionLon": 120.9711722,
+        "StationPositionLat": 24.80333322
+    },
+    {
+        "StationUID": "HSZ130082",
+        "StationName": "東門市場",
+        "StationGroupID": "300－157",
+        "StationPositionLon": 120.96964,
+        "StationPositionLat": 24.80521
+    },
+    {
+        "StationUID": "HSZ130083",
+        "StationName": "城隍廟",
+        "StationGroupID": "300－158",
+        "StationPositionLon": 120.966176,
+        "StationPositionLat": 24.805088
+    },
+    {
+        "StationUID": "HSZ130084",
+        "StationName": "西門市場",
+        "StationGroupID": "300－159",
+        "StationPositionLon": 120.96385,
+        "StationPositionLat": 24.80438
+    },
+    {
+        "StationUID": "HSZ130085",
+        "StationName": "棒球場",
+        "StationGroupID": "300－160",
+        "StationPositionLon": 120.96201,
+        "StationPositionLat": 24.80601
+    },
+    {
+        "StationUID": "HSZ130086",
+        "StationName": "服務中心",
+        "StationGroupID": "300－161",
+        "StationPositionLon": 120.960665,
+        "StationPositionLat": 24.804115
+    },
+    {
+        "StationUID": "HSZ130087",
+        "StationName": "新竹監獄",
+        "StationGroupID": "300－162",
+        "StationPositionLon": 120.95898,
+        "StationPositionLat": 24.803827
+    },
+    {
+        "StationUID": "HSZ130088",
+        "StationName": "監獄邊",
+        "StationGroupID": "300－163",
+        "StationPositionLon": 120.95726,
+        "StationPositionLat": 24.804348
+    },
+    {
+        "StationUID": "HSZ130089",
+        "StationName": "三廠",
+        "StationGroupID": "300－164",
+        "StationPositionLon": 120.95534,
+        "StationPositionLat": 24.80461
+    },
+    {
+        "StationUID": "HSZ130090",
+        "StationName": "台貿四村",
+        "StationGroupID": "300－165",
+        "StationPositionLon": 120.95534,
+        "StationPositionLat": 24.80184
+    },
+    {
+        "StationUID": "HSZ130091",
+        "StationName": "中和路",
+        "StationGroupID": "300－166",
+        "StationPositionLon": 120.95647,
+        "StationPositionLat": 24.80135
+    },
+    {
+        "StationUID": "HSZ130092",
+        "StationName": "天公壇",
+        "StationGroupID": "300－167",
+        "StationPositionLon": 120.95779,
+        "StationPositionLat": 24.80005
+    },
+    {
+        "StationUID": "HSZ130093",
+        "StationName": "警光一村",
+        "StationGroupID": "300－168",
+        "StationPositionLon": 120.95605,
+        "StationPositionLat": 24.79733
+    },
+    {
+        "StationUID": "HSZ130094",
+        "StationName": "榮民之家",
+        "StationGroupID": "300－169",
+        "StationPositionLon": 120.95518,
+        "StationPositionLat": 24.7948
+    },
+    {
+        "StationUID": "HSZ130095",
+        "StationName": "成德高中",
+        "StationGroupID": "300－170",
+        "StationPositionLon": 120.9527688,
+        "StationPositionLat": 24.79319553
+    },
+    {
+        "StationUID": "HSZ130096",
+        "StationName": "榮民之家",
+        "StationGroupID": "300－169",
+        "StationPositionLon": 120.95525,
+        "StationPositionLat": 24.79472
+    },
+    {
+        "StationUID": "HSZ130097",
+        "StationName": "警光一村",
+        "StationGroupID": "300－168",
+        "StationPositionLon": 120.95615,
+        "StationPositionLat": 24.79743
+    },
+    {
+        "StationUID": "HSZ130098",
+        "StationName": "天公壇",
+        "StationGroupID": "300－167",
+        "StationPositionLon": 120.957524,
+        "StationPositionLat": 24.79957
+    },
+    {
+        "StationUID": "HSZ130099",
+        "StationName": "中和路",
+        "StationGroupID": "300－166",
+        "StationPositionLon": 120.956479,
+        "StationPositionLat": 24.801353
+    },
+    {
+        "StationUID": "HSZ130100",
+        "StationName": "台貿四村",
+        "StationGroupID": "300－165",
+        "StationPositionLon": 120.95549,
+        "StationPositionLat": 24.80192
+    },
+    {
+        "StationUID": "HSZ130101",
+        "StationName": "三廠",
+        "StationGroupID": "300－164",
+        "StationPositionLon": 120.95539,
+        "StationPositionLat": 24.80435
+    },
+    {
+        "StationUID": "HSZ130102",
+        "StationName": "監獄邊",
+        "StationGroupID": "300－163",
+        "StationPositionLon": 120.95727,
+        "StationPositionLat": 24.80424
+    },
+    {
+        "StationUID": "HSZ130103",
+        "StationName": "新竹監獄",
+        "StationGroupID": "300－162",
+        "StationPositionLon": 120.95928,
+        "StationPositionLat": 24.80359
+    },
+    {
+        "StationUID": "HSZ130104",
+        "StationName": "服務中心",
+        "StationGroupID": "300－161",
+        "StationPositionLon": 120.96084,
+        "StationPositionLat": 24.80441
+    },
+    {
+        "StationUID": "HSZ130105",
+        "StationName": "棒球場",
+        "StationGroupID": "300－160",
+        "StationPositionLon": 120.96172,
+        "StationPositionLat": 24.80623
+    },
+    {
+        "StationUID": "HSZ130106",
+        "StationName": "西門市場",
+        "StationGroupID": "300－159",
+        "StationPositionLon": 120.96402,
+        "StationPositionLat": 24.80415
+    },
+    {
+        "StationUID": "HSZ130107",
+        "StationName": "城隍廟",
+        "StationGroupID": "300－158",
+        "StationPositionLon": 120.96647,
+        "StationPositionLat": 24.80517
+    },
+    {
+        "StationUID": "HSZ130108",
+        "StationName": "東門市場",
+        "StationGroupID": "300－157",
+        "StationPositionLon": 120.9693399,
+        "StationPositionLat": 24.80548657
+    },
+    {
+        "StationUID": "HSZ130109",
+        "StationName": "火車站",
+        "StationGroupID": "300－156",
+        "StationPositionLon": 120.971034,
+        "StationPositionLat": 24.803483
+    },
+    {
+        "StationUID": "HSZ130112",
+        "StationName": "南門市場",
+        "StationGroupID": "300－140",
+        "StationPositionLon": 120.9677504,
+        "StationPositionLat": 24.79966583
+    },
+    {
+        "StationUID": "HSZ130113",
+        "StationName": "國泰醫院",
+        "StationGroupID": "300－171",
+        "StationPositionLon": 120.9650767,
+        "StationPositionLat": 24.79800148
+    },
+    {
+        "StationUID": "HSZ130114",
+        "StationName": "林森路口",
+        "StationGroupID": "300－172",
+        "StationPositionLon": 120.9614682,
+        "StationPositionLat": 24.79683479
+    },
+    {
+        "StationUID": "HSZ130115",
+        "StationName": "農會",
+        "StationGroupID": "300－173",
+        "StationPositionLon": 120.95457,
+        "StationPositionLat": 24.79668
+    },
+    {
+        "StationUID": "HSZ130116",
+        "StationName": "中埔",
+        "StationGroupID": "300－174",
+        "StationPositionLon": 120.9495149,
+        "StationPositionLat": 24.7955526
+    },
+    {
+        "StationUID": "HSZ130117",
+        "StationName": "中埔口",
+        "StationGroupID": "300－175",
+        "StationPositionLon": 120.94534,
+        "StationPositionLat": 24.7938
+    },
+    {
+        "StationUID": "HSZ130118",
+        "StationName": "牛埔口",
+        "StationGroupID": "300－176",
+        "StationPositionLon": 120.94212,
+        "StationPositionLat": 24.79255
+    },
+    {
+        "StationUID": "HSZ130119",
+        "StationName": "台灣玻璃",
+        "StationGroupID": "300－177",
+        "StationPositionLon": 120.9374,
+        "StationPositionLat": 24.79111
+    },
+    {
+        "StationUID": "HSZ130120",
+        "StationName": "金山園",
+        "StationGroupID": "300－178",
+        "StationPositionLon": 120.93392,
+        "StationPositionLat": 24.7905
+    },
+    {
+        "StationUID": "HSZ130121",
+        "StationName": "香山高中",
+        "StationGroupID": "300－179",
+        "StationPositionLon": 120.93074,
+        "StationPositionLat": 24.784828
+    },
+    {
+        "StationUID": "HSZ130122",
+        "StationName": "隘口",
+        "StationGroupID": "300－180",
+        "StationPositionLon": 120.93301,
+        "StationPositionLat": 24.782483
+    },
+    {
+        "StationUID": "HSZ130123",
+        "StationName": "土地公廟",
+        "StationGroupID": "300－181",
+        "StationPositionLon": 120.93593,
+        "StationPositionLat": 24.779328
+    },
+    {
+        "StationUID": "HSZ130124",
+        "StationName": "香山坑",
+        "StationGroupID": "300－182",
+        "StationPositionLon": 120.938117,
+        "StationPositionLat": 24.77837694
+    },
+    {
+        "StationUID": "HSZ130125",
+        "StationName": "元培科技大學",
+        "StationGroupID": "300－183",
+        "StationPositionLon": 120.94012,
+        "StationPositionLat": 24.77811
+    },
+    {
+        "StationUID": "HSZ130127",
+        "StationName": "玄奘大學",
+        "StationGroupID": "300－185",
+        "StationPositionLon": 120.94432,
+        "StationPositionLat": 24.77458
+    },
+    {
+        "StationUID": "HSZ130128",
+        "StationName": "玄奘大學",
+        "StationGroupID": "300－185",
+        "StationPositionLon": 120.94434,
+        "StationPositionLat": 24.7746
+    },
+    {
+        "StationUID": "HSZ130130",
+        "StationName": "元培科技大學",
+        "StationGroupID": "300－183",
+        "StationPositionLon": 120.94049,
+        "StationPositionLat": 24.778
+    },
+    {
+        "StationUID": "HSZ130131",
+        "StationName": "香山坑",
+        "StationGroupID": "300－182",
+        "StationPositionLon": 120.93811,
+        "StationPositionLat": 24.778494
+    },
+    {
+        "StationUID": "HSZ130132",
+        "StationName": "土地公廟",
+        "StationGroupID": "300－181",
+        "StationPositionLon": 120.93582,
+        "StationPositionLat": 24.77955
+    },
+    {
+        "StationUID": "HSZ130133",
+        "StationName": "隘口",
+        "StationGroupID": "300－180",
+        "StationPositionLon": 120.93298,
+        "StationPositionLat": 24.78274
+    },
+    {
+        "StationUID": "HSZ130134",
+        "StationName": "香山高中",
+        "StationGroupID": "300－179",
+        "StationPositionLon": 120.9306,
+        "StationPositionLat": 24.78518
+    },
+    {
+        "StationUID": "HSZ130135",
+        "StationName": "金山園",
+        "StationGroupID": "300－178",
+        "StationPositionLon": 120.93396,
+        "StationPositionLat": 24.790463
+    },
+    {
+        "StationUID": "HSZ130136",
+        "StationName": "台灣玻璃",
+        "StationGroupID": "300－177",
+        "StationPositionLon": 120.93825,
+        "StationPositionLat": 24.790908
+    },
+    {
+        "StationUID": "HSZ130137",
+        "StationName": "牛埔口",
+        "StationGroupID": "300－176",
+        "StationPositionLon": 120.94171,
+        "StationPositionLat": 24.79215
+    },
+    {
+        "StationUID": "HSZ130138",
+        "StationName": "中埔口",
+        "StationGroupID": "300－175",
+        "StationPositionLon": 120.94552,
+        "StationPositionLat": 24.79362
+    },
+    {
+        "StationUID": "HSZ130139",
+        "StationName": "中埔",
+        "StationGroupID": "300－174",
+        "StationPositionLon": 120.94953,
+        "StationPositionLat": 24.7954
+    },
+    {
+        "StationUID": "HSZ130140",
+        "StationName": "農會",
+        "StationGroupID": "300－173",
+        "StationPositionLon": 120.9545673,
+        "StationPositionLat": 24.79649721
+    },
+    {
+        "StationUID": "HSZ130141",
+        "StationName": "林森路口",
+        "StationGroupID": "300－172",
+        "StationPositionLon": 120.9618205,
+        "StationPositionLat": 24.79679712
+    },
+    {
+        "StationUID": "HSZ130142",
+        "StationName": "國泰醫院",
+        "StationGroupID": "300－171",
+        "StationPositionLon": 120.9651712,
+        "StationPositionLat": 24.79796304
+    },
+    {
+        "StationUID": "HSZ130143",
+        "StationName": "南門市場",
+        "StationGroupID": "300－140",
+        "StationPositionLon": 120.9676609,
+        "StationPositionLat": 24.79951774
+    },
+    {
+        "StationUID": "HSZ130144",
+        "StationName": "牛埔",
+        "StationGroupID": "300－186",
+        "StationPositionLon": 120.9421,
+        "StationPositionLat": 24.79716
+    },
+    {
+        "StationUID": "HSZ130146",
+        "StationName": "聖德宮",
+        "StationGroupID": "300－188",
+        "StationPositionLon": 120.94782,
+        "StationPositionLat": 24.79759
+    },
+    {
+        "StationUID": "HSZ130147",
+        "StationName": "頂埔社區",
+        "StationGroupID": "300－305",
+        "StationPositionLon": 120.9527,
+        "StationPositionLat": 24.79968
+    },
+    {
+        "StationUID": "HSZ130148",
+        "StationName": "信義幼稚園",
+        "StationGroupID": "300－190",
+        "StationPositionLon": 120.95499,
+        "StationPositionLat": 24.79859
+    },
+    {
+        "StationUID": "HSZ130149",
+        "StationName": "警光路",
+        "StationGroupID": "300－191",
+        "StationPositionLon": 120.95719,
+        "StationPositionLat": 24.79721
+    },
+    {
+        "StationUID": "HSZ130150",
+        "StationName": "火車站",
+        "StationGroupID": "300－192",
+        "StationPositionLon": 120.97239,
+        "StationPositionLat": 24.8024
+    },
+    {
+        "StationUID": "HSZ130151",
+        "StationName": "新竹女中",
+        "StationGroupID": "300－193",
+        "StationPositionLon": 120.97633,
+        "StationPositionLat": 24.80481
+    },
+    {
+        "StationUID": "HSZ130152",
+        "StationName": "國賓大飯店",
+        "StationGroupID": "300－194",
+        "StationPositionLon": 120.97866,
+        "StationPositionLat": 24.80627
+    },
+    {
+        "StationUID": "HSZ130153",
+        "StationName": "民生民族路口",
+        "StationGroupID": "300－195",
+        "StationPositionLon": 120.97815,
+        "StationPositionLat": 24.80881
+    },
+    {
+        "StationUID": "HSZ130154",
+        "StationName": "民生中央路口",
+        "StationGroupID": "300－196",
+        "StationPositionLon": 120.97708,
+        "StationPositionLat": 24.81017
+    },
+    {
+        "StationUID": "HSZ130155",
+        "StationName": "經國北大路口",
+        "StationGroupID": "300－197",
+        "StationPositionLon": 120.97486,
+        "StationPositionLat": 24.81418
+    },
+    {
+        "StationUID": "HSZ130156",
+        "StationName": "果菜市場",
+        "StationGroupID": "300－198",
+        "StationPositionLon": 120.97826,
+        "StationPositionLat": 24.81455
+    },
+    {
+        "StationUID": "HSZ130157",
+        "StationName": "台大新竹分院",
+        "StationGroupID": "300－199",
+        "StationPositionLon": 120.98003,
+        "StationPositionLat": 24.81568
+    },
+    {
+        "StationUID": "HSZ130158",
+        "StationName": "金華里",
+        "StationGroupID": "300－200",
+        "StationPositionLon": 120.97672,
+        "StationPositionLat": 24.81872
+    },
+    {
+        "StationUID": "HSZ130159",
+        "StationName": "光華國中",
+        "StationGroupID": "300－201",
+        "StationPositionLon": 120.97379,
+        "StationPositionLat": 24.81775
+    },
+    {
+        "StationUID": "HSZ130160",
+        "StationName": "湳雅公園(大潤發)",
+        "StationGroupID": "300－202",
+        "StationPositionLon": 120.9694255,
+        "StationPositionLat": 24.8191097
+    },
+    {
+        "StationUID": "HSZ130161",
+        "StationName": "湳中街口",
+        "StationGroupID": "300－203",
+        "StationPositionLon": 120.96719,
+        "StationPositionLat": 24.81989
+    },
+    {
+        "StationUID": "HSZ130162",
+        "StationName": "武陵社區",
+        "StationGroupID": "300－204",
+        "StationPositionLon": 120.96595,
+        "StationPositionLat": 24.81797
+    },
+    {
+        "StationUID": "HSZ130163",
+        "StationName": "國軍新竹地區醫院",
+        "StationGroupID": "300－205",
+        "StationPositionLon": 120.9629076,
+        "StationPositionLat": 24.81636243
+    },
+    {
+        "StationUID": "HSZ130165",
+        "StationName": "民富國小",
+        "StationGroupID": "300－207",
+        "StationPositionLon": 120.96069,
+        "StationPositionLat": 24.80817
+    },
+    {
+        "StationUID": "HSZ130166",
+        "StationName": "西門口",
+        "StationGroupID": "300－217",
+        "StationPositionLon": 120.9621313,
+        "StationPositionLat": 24.80237252
+    },
+    {
+        "StationUID": "HSZ130167",
+        "StationName": "中山路",
+        "StationGroupID": "300－209",
+        "StationPositionLon": 120.95938,
+        "StationPositionLat": 24.80095
+    },
+    {
+        "StationUID": "HSZ130168",
+        "StationName": "中和路",
+        "StationGroupID": "300－210",
+        "StationPositionLon": 120.9564865,
+        "StationPositionLat": 24.8013808
+    },
+    {
+        "StationUID": "HSZ130169",
+        "StationName": "大鵬新城",
+        "StationGroupID": "300－211",
+        "StationPositionLon": 120.9538,
+        "StationPositionLat": 24.80329
+    },
+    {
+        "StationUID": "HSZ130171",
+        "StationName": "聖德宮",
+        "StationGroupID": "300－213",
+        "StationPositionLon": 120.94778,
+        "StationPositionLat": 24.79771
+    },
+    {
+        "StationUID": "HSZ130173",
+        "StationName": "天公壇",
+        "StationGroupID": "300－215",
+        "StationPositionLon": 120.95755,
+        "StationPositionLat": 24.80053
+    },
+    {
+        "StationUID": "HSZ130174",
+        "StationName": "中山路",
+        "StationGroupID": "300－216",
+        "StationPositionLon": 120.95943,
+        "StationPositionLat": 24.80081
+    },
+    {
+        "StationUID": "HSZ130175",
+        "StationName": "西門口",
+        "StationGroupID": "300－217",
+        "StationPositionLon": 120.96213,
+        "StationPositionLat": 24.80242
+    },
+    {
+        "StationUID": "HSZ130176",
+        "StationName": "民富國小",
+        "StationGroupID": "300－218",
+        "StationPositionLon": 120.96079,
+        "StationPositionLat": 24.80828
+    },
+    {
+        "StationUID": "HSZ130178",
+        "StationName": "國軍新竹地區醫院",
+        "StationGroupID": "300－205",
+        "StationPositionLon": 120.9626256,
+        "StationPositionLat": 24.8156161
+    },
+    {
+        "StationUID": "HSZ130179",
+        "StationName": "武陵社區",
+        "StationGroupID": "300－204",
+        "StationPositionLon": 120.96565,
+        "StationPositionLat": 24.81794
+    },
+    {
+        "StationUID": "HSZ130180",
+        "StationName": "湳中街口",
+        "StationGroupID": "300－203",
+        "StationPositionLon": 120.96714,
+        "StationPositionLat": 24.81878
+    },
+    {
+        "StationUID": "HSZ130181",
+        "StationName": "湳雅公園(大潤發)",
+        "StationGroupID": "300－223",
+        "StationPositionLon": 120.97029,
+        "StationPositionLat": 24.81831
+    },
+    {
+        "StationUID": "HSZ130182",
+        "StationName": "光華國中",
+        "StationGroupID": "300－201",
+        "StationPositionLon": 120.97426,
+        "StationPositionLat": 24.81805
+    },
+    {
+        "StationUID": "HSZ130183",
+        "StationName": "金華里",
+        "StationGroupID": "300－225",
+        "StationPositionLon": 120.97668,
+        "StationPositionLat": 24.81863
+    },
+    {
+        "StationUID": "HSZ130184",
+        "StationName": "台大新竹分院",
+        "StationGroupID": "300－226",
+        "StationPositionLon": 120.97989,
+        "StationPositionLat": 24.81562
+    },
+    {
+        "StationUID": "HSZ130185",
+        "StationName": "果菜市場",
+        "StationGroupID": "300－227",
+        "StationPositionLon": 120.97886,
+        "StationPositionLat": 24.81469
+    },
+    {
+        "StationUID": "HSZ130186",
+        "StationName": "經國北大路口",
+        "StationGroupID": "300－228",
+        "StationPositionLon": 120.9748,
+        "StationPositionLat": 24.81435
+    },
+    {
+        "StationUID": "HSZ130187",
+        "StationName": "民生中央路口",
+        "StationGroupID": "300－229",
+        "StationPositionLon": 120.97691,
+        "StationPositionLat": 24.81048
+    },
+    {
+        "StationUID": "HSZ130188",
+        "StationName": "民生民族路口",
+        "StationGroupID": "300－230",
+        "StationPositionLon": 120.97834,
+        "StationPositionLat": 24.80838
+    },
+    {
+        "StationUID": "HSZ130189",
+        "StationName": "國賓大飯店",
+        "StationGroupID": "300－231",
+        "StationPositionLon": 120.97778,
+        "StationPositionLat": 24.80582
+    },
+    {
+        "StationUID": "HSZ130190",
+        "StationName": "新竹女中",
+        "StationGroupID": "300－232",
+        "StationPositionLon": 120.97631,
+        "StationPositionLat": 24.80514
+    },
+    {
+        "StationUID": "HSZ130191",
+        "StationName": "火車站",
+        "StationGroupID": "300－233",
+        "StationPositionLon": 120.97277,
+        "StationPositionLat": 24.80279
+    },
+    {
+        "StationUID": "HSZ130192",
+        "StationName": "警光路",
+        "StationGroupID": "300－234",
+        "StationPositionLon": 120.95713,
+        "StationPositionLat": 24.79751
+    },
+    {
+        "StationUID": "HSZ130193",
+        "StationName": "信義幼稚園",
+        "StationGroupID": "300－235",
+        "StationPositionLon": 120.95496,
+        "StationPositionLat": 24.79888
+    },
+    {
+        "StationUID": "HSZ130194",
+        "StationName": "香山國小",
+        "StationGroupID": "300－236",
+        "StationPositionLon": 120.94418,
+        "StationPositionLat": 24.79618
+    },
+    {
+        "StationUID": "HSZ130195",
+        "StationName": "火車站",
+        "StationGroupID": "300－156",
+        "StationPositionLon": 120.97176,
+        "StationPositionLat": 24.80314
+    },
+    {
+        "StationUID": "HSZ130196",
+        "StationName": "親仁里",
+        "StationGroupID": "300－237",
+        "StationPositionLon": 120.97154,
+        "StationPositionLat": 24.8075
+    },
+    {
+        "StationUID": "HSZ130197",
+        "StationName": "東門國小",
+        "StationGroupID": "300－238",
+        "StationPositionLon": 120.9733205,
+        "StationPositionLat": 24.8062327
+    },
+    {
+        "StationUID": "HSZ130198",
+        "StationName": "公園",
+        "StationGroupID": "300－239",
+        "StationPositionLon": 120.97654,
+        "StationPositionLat": 24.80104
+    },
+    {
+        "StationUID": "HSZ130199",
+        "StationName": "學園商場",
+        "StationGroupID": "300－240",
+        "StationPositionLon": 120.97773,
+        "StationPositionLat": 24.79862
+    },
+    {
+        "StationUID": "HSZ130200",
+        "StationName": "東山文教院",
+        "StationGroupID": "300－241",
+        "StationPositionLon": 120.9788372,
+        "StationPositionLat": 24.7974216
+    },
+    {
+        "StationUID": "HSZ130201",
+        "StationName": "新竹高中",
+        "StationGroupID": "300－242",
+        "StationPositionLon": 120.981185,
+        "StationPositionLat": 24.7956153
+    },
+    {
+        "StationUID": "HSZ130202",
+        "StationName": "新竹高商",
+        "StationGroupID": "300－243",
+        "StationPositionLon": 120.98453,
+        "StationPositionLat": 24.79691
+    },
+    {
+        "StationUID": "HSZ130203",
+        "StationName": "水源地",
+        "StationGroupID": "300－244",
+        "StationPositionLon": 120.9858361,
+        "StationPositionLat": 24.79784722
+    },
+    {
+        "StationUID": "HSZ130204",
+        "StationName": "學府路口",
+        "StationGroupID": "300－245",
+        "StationPositionLon": 120.9869173,
+        "StationPositionLat": 24.80044104
+    },
+    {
+        "StationUID": "HSZ130205",
+        "StationName": "工研院光復院區",
+        "StationGroupID": "300－246",
+        "StationPositionLon": 120.9887464,
+        "StationPositionLat": 24.80039182
+    },
+    {
+        "StationUID": "HSZ130206",
+        "StationName": "馬偕醫院",
+        "StationGroupID": "300－247",
+        "StationPositionLon": 120.9904029,
+        "StationPositionLat": 24.79981956
+    },
+    {
+        "StationUID": "HSZ130207",
+        "StationName": "海軍新村",
+        "StationGroupID": "300－248",
+        "StationPositionLon": 120.9921951,
+        "StationPositionLat": 24.79924913
+    },
+    {
+        "StationUID": "HSZ130208",
+        "StationName": "光復中學",
+        "StationGroupID": "300－249",
+        "StationPositionLon": 120.99456,
+        "StationPositionLat": 24.79824
+    },
+    {
+        "StationUID": "HSZ130209",
+        "StationName": "清華大學",
+        "StationGroupID": "300－250",
+        "StationPositionLon": 120.99747,
+        "StationPositionLat": 24.79626
+    },
+    {
+        "StationUID": "HSZ130210",
+        "StationName": "金城新村口",
+        "StationGroupID": "300－251",
+        "StationPositionLon": 121.0005388,
+        "StationPositionLat": 24.79371669
+    },
+    {
+        "StationUID": "HSZ130211",
+        "StationName": "過溝",
+        "StationGroupID": "300－252",
+        "StationPositionLon": 121.0032595,
+        "StationPositionLat": 24.79179192
+    },
+    {
+        "StationUID": "HSZ130212",
+        "StationName": "科學園區",
+        "StationGroupID": "300－253",
+        "StationPositionLon": 121.0083312,
+        "StationPositionLat": 24.78827896
+    },
+    {
+        "StationUID": "HSZ130213",
+        "StationName": "和平",
+        "StationGroupID": "300－254",
+        "StationPositionLon": 121.0107209,
+        "StationPositionLat": 24.78657602
+    },
+    {
+        "StationUID": "HSZ130214",
+        "StationName": "光武國中",
+        "StationGroupID": "300－255",
+        "StationPositionLon": 121.0120782,
+        "StationPositionLat": 24.78553661
+    },
+    {
+        "StationUID": "HSZ130215",
+        "StationName": "科學園區別墅",
+        "StationGroupID": "300－256",
+        "StationPositionLon": 121.01423,
+        "StationPositionLat": 24.784533
+    },
+    {
+        "StationUID": "HSZ130216",
+        "StationName": "日光燈",
+        "StationGroupID": "300－257",
+        "StationPositionLon": 121.0160677,
+        "StationPositionLat": 24.78385101
+    },
+    {
+        "StationUID": "HSZ130217",
+        "StationName": "仙水",
+        "StationGroupID": "300－258",
+        "StationPositionLon": 121.0185001,
+        "StationPositionLat": 24.78284215
+    },
+    {
+        "StationUID": "HSZ130218",
+        "StationName": "世界高中",
+        "StationGroupID": "300－259",
+        "StationPositionLon": 121.0200794,
+        "StationPositionLat": 24.78210329
+    },
+    {
+        "StationUID": "HSZ130219",
+        "StationName": "關東橋",
+        "StationGroupID": "300－260",
+        "StationPositionLon": 121.0229651,
+        "StationPositionLat": 24.78139049
+    },
+    {
+        "StationUID": "HSZ130220",
+        "StationName": "關東新村",
+        "StationGroupID": "300－261",
+        "StationPositionLon": 121.0255648,
+        "StationPositionLat": 24.78112138
+    },
+    {
+        "StationUID": "HSZ130221",
+        "StationName": "竹中口",
+        "StationGroupID": "310－096",
+        "StationPositionLon": 121.0285771,
+        "StationPositionLat": 24.7807872
+    },
+    {
+        "StationUID": "HSZ130222",
+        "StationName": "竹中",
+        "StationGroupID": "310－097",
+        "StationPositionLon": 121.031,
+        "StationPositionLat": 24.781215
+    },
+    {
+        "StationUID": "HSZ130223",
+        "StationName": "竹中口",
+        "StationGroupID": "310－096",
+        "StationPositionLon": 121.0284702,
+        "StationPositionLat": 24.78092052
+    },
+    {
+        "StationUID": "HSZ130224",
+        "StationName": "關東新村",
+        "StationGroupID": "300－261",
+        "StationPositionLon": 121.0255387,
+        "StationPositionLat": 24.78129513
+    },
+    {
+        "StationUID": "HSZ130225",
+        "StationName": "關東橋",
+        "StationGroupID": "300－260",
+        "StationPositionLon": 121.0231035,
+        "StationPositionLat": 24.78153688
+    },
+    {
+        "StationUID": "HSZ130226",
+        "StationName": "世界高中",
+        "StationGroupID": "300－259",
+        "StationPositionLon": 121.0201231,
+        "StationPositionLat": 24.78220824
+    },
+    {
+        "StationUID": "HSZ130227",
+        "StationName": "仙水",
+        "StationGroupID": "300－258",
+        "StationPositionLon": 121.0185503,
+        "StationPositionLat": 24.78290244
+    },
+    {
+        "StationUID": "HSZ130228",
+        "StationName": "日光燈",
+        "StationGroupID": "300－257",
+        "StationPositionLon": 121.015705,
+        "StationPositionLat": 24.784082
+    },
+    {
+        "StationUID": "HSZ130229",
+        "StationName": "科學園區別墅",
+        "StationGroupID": "300－256",
+        "StationPositionLon": 121.01401,
+        "StationPositionLat": 24.784735
+    },
+    {
+        "StationUID": "HSZ130230",
+        "StationName": "光武國中",
+        "StationGroupID": "300－255",
+        "StationPositionLon": 121.0120255,
+        "StationPositionLat": 24.78568086
+    },
+    {
+        "StationUID": "HSZ130231",
+        "StationName": "和平",
+        "StationGroupID": "300－254",
+        "StationPositionLon": 121.01083,
+        "StationPositionLat": 24.78664
+    },
+    {
+        "StationUID": "HSZ130232",
+        "StationName": "科學園區",
+        "StationGroupID": "300－253",
+        "StationPositionLon": 121.00802,
+        "StationPositionLat": 24.78877
+    },
+    {
+        "StationUID": "HSZ130233",
+        "StationName": "過溝",
+        "StationGroupID": "300－252",
+        "StationPositionLon": 121.0023861,
+        "StationPositionLat": 24.79269182
+    },
+    {
+        "StationUID": "HSZ130234",
+        "StationName": "金城新村口",
+        "StationGroupID": "300－251",
+        "StationPositionLon": 121.000974,
+        "StationPositionLat": 24.7936413
+    },
+    {
+        "StationUID": "HSZ130235",
+        "StationName": "文教新村",
+        "StationGroupID": "300－262",
+        "StationPositionLon": 120.9988371,
+        "StationPositionLat": 24.79532217
+    },
+    {
+        "StationUID": "HSZ130236",
+        "StationName": "清華大學",
+        "StationGroupID": "300－250",
+        "StationPositionLon": 120.9963586,
+        "StationPositionLat": 24.797301
+    },
+    {
+        "StationUID": "HSZ130237",
+        "StationName": "光復中學",
+        "StationGroupID": "300－249",
+        "StationPositionLon": 120.99484,
+        "StationPositionLat": 24.79834
+    },
+    {
+        "StationUID": "HSZ130238",
+        "StationName": "馬偕醫院",
+        "StationGroupID": "300－247",
+        "StationPositionLon": 120.9918559,
+        "StationPositionLat": 24.79961087
+    },
+    {
+        "StationUID": "HSZ130239",
+        "StationName": "工研院光復院區",
+        "StationGroupID": "300－246",
+        "StationPositionLon": 120.9892205,
+        "StationPositionLat": 24.80045948
+    },
+    {
+        "StationUID": "HSZ130240",
+        "StationName": "學府路口",
+        "StationGroupID": "300－245",
+        "StationPositionLon": 120.9866928,
+        "StationPositionLat": 24.80023153
+    },
+    {
+        "StationUID": "HSZ130241",
+        "StationName": "水源地",
+        "StationGroupID": "300－244",
+        "StationPositionLon": 120.985706,
+        "StationPositionLat": 24.797806
+    },
+    {
+        "StationUID": "HSZ130242",
+        "StationName": "新竹高商",
+        "StationGroupID": "300－243",
+        "StationPositionLon": 120.9841376,
+        "StationPositionLat": 24.79678504
+    },
+    {
+        "StationUID": "HSZ130243",
+        "StationName": "新竹高中",
+        "StationGroupID": "300－242",
+        "StationPositionLon": 120.9810005,
+        "StationPositionLat": 24.79563843
+    },
+    {
+        "StationUID": "HSZ130244",
+        "StationName": "東山文教院",
+        "StationGroupID": "300－241",
+        "StationPositionLon": 120.978937,
+        "StationPositionLat": 24.79740922
+    },
+    {
+        "StationUID": "HSZ130245",
+        "StationName": "學園商場",
+        "StationGroupID": "300－240",
+        "StationPositionLon": 120.97799,
+        "StationPositionLat": 24.79868
+    },
+    {
+        "StationUID": "HSZ130246",
+        "StationName": "公園",
+        "StationGroupID": "300－239",
+        "StationPositionLon": 120.97838,
+        "StationPositionLat": 24.80227
+    },
+    {
+        "StationUID": "HSZ130247",
+        "StationName": "老人大學",
+        "StationGroupID": "300－263",
+        "StationPositionLon": 120.97949,
+        "StationPositionLat": 24.80285
+    },
+    {
+        "StationUID": "HSZ130248",
+        "StationName": "東門國小",
+        "StationGroupID": "300－238",
+        "StationPositionLon": 120.973548,
+        "StationPositionLat": 24.806429
+    },
+    {
+        "StationUID": "HSZ130249",
+        "StationName": "親仁里",
+        "StationGroupID": "300－237",
+        "StationPositionLon": 120.97168,
+        "StationPositionLat": 24.80745
+    },
+    {
+        "StationUID": "HSZ130250",
+        "StationName": "博愛街口",
+        "StationGroupID": "300－264",
+        "StationPositionLon": 120.9812925,
+        "StationPositionLat": 24.79932982
+    },
+    {
+        "StationUID": "HSZ130251",
+        "StationName": "交大博愛校區",
+        "StationGroupID": "300－265",
+        "StationPositionLon": 120.98314,
+        "StationPositionLat": 24.79853
+    },
+    {
+        "StationUID": "HSZ130252",
+        "StationName": "神學院",
+        "StationGroupID": "300－266",
+        "StationPositionLon": 121.00266,
+        "StationPositionLat": 24.78907
+    },
+    {
+        "StationUID": "HSZ130253",
+        "StationName": "梅竹山莊",
+        "StationGroupID": "300－267",
+        "StationPositionLon": 121.00047,
+        "StationPositionLat": 24.78955
+    },
+    {
+        "StationUID": "HSZ130254",
+        "StationName": "交大光復校區",
+        "StationGroupID": "300－268",
+        "StationPositionLon": 120.999412,
+        "StationPositionLat": 24.78830452
+    },
+    {
+        "StationUID": "HSZ130255",
+        "StationName": "梅竹山莊",
+        "StationGroupID": "300－267",
+        "StationPositionLon": 121.0004212,
+        "StationPositionLat": 24.78933685
+    },
+    {
+        "StationUID": "HSZ130256",
+        "StationName": "神學院",
+        "StationGroupID": "300－266",
+        "StationPositionLon": 121.0025,
+        "StationPositionLat": 24.788901
+    },
+    {
+        "StationUID": "HSZ130257",
+        "StationName": "交大博愛校區",
+        "StationGroupID": "300－265",
+        "StationPositionLon": 120.98382,
+        "StationPositionLat": 24.79842
+    },
+    {
+        "StationUID": "HSZ130258",
+        "StationName": "博愛街口",
+        "StationGroupID": "300－264",
+        "StationPositionLon": 120.98119,
+        "StationPositionLat": 24.79949
+    },
+    {
+        "StationUID": "HSZ130259",
+        "StationName": "文教新村",
+        "StationGroupID": "300－451",
+        "StationPositionLon": 120.99953,
+        "StationPositionLat": 24.79667
+    },
+    {
+        "StationUID": "HSZ130263",
+        "StationName": "建功公園",
+        "StationGroupID": "300－450",
+        "StationPositionLon": 121.002559,
+        "StationPositionLat": 24.794108
+    },
+    {
+        "StationUID": "HSZ130265",
+        "StationName": "建功高中",
+        "StationGroupID": "300－445",
+        "StationPositionLon": 121.00127,
+        "StationPositionLat": 24.79696
+    },
+    {
+        "StationUID": "HSZ130266",
+        "StationName": "文教新村",
+        "StationGroupID": "300－269",
+        "StationPositionLon": 120.9992652,
+        "StationPositionLat": 24.79671122
+    },
+    {
+        "StationUID": "HSZ130307",
+        "StationName": "建功公園",
+        "StationGroupID": "300－272",
+        "StationPositionLon": 121.002632,
+        "StationPositionLat": 24.794147
+    },
+    {
+        "StationUID": "HSZ130308",
+        "StationName": "建功高中",
+        "StationGroupID": "300－270",
+        "StationPositionLon": 121.0017011,
+        "StationPositionLat": 24.79692191
+    },
+    {
+        "StationUID": "HSZ130309",
+        "StationName": "地方法院",
+        "StationGroupID": "300－273",
+        "StationPositionLon": 120.967959,
+        "StationPositionLat": 24.80750417
+    },
+    {
+        "StationUID": "HSZ130311",
+        "StationName": "北大橋",
+        "StationGroupID": "300－275",
+        "StationPositionLon": 120.96822,
+        "StationPositionLat": 24.809708
+    },
+    {
+        "StationUID": "HSZ130312",
+        "StationName": "水利局",
+        "StationGroupID": "300－276",
+        "StationPositionLon": 120.97047,
+        "StationPositionLat": 24.81124
+    },
+    {
+        "StationUID": "HSZ130313",
+        "StationName": "曙光女中",
+        "StationGroupID": "300－277",
+        "StationPositionLon": 120.97228,
+        "StationPositionLat": 24.81231
+    },
+    {
+        "StationUID": "HSZ130314",
+        "StationName": "田美一站",
+        "StationGroupID": "300－278",
+        "StationPositionLon": 120.9738772,
+        "StationPositionLat": 24.81326176
+    },
+    {
+        "StationUID": "HSZ130315",
+        "StationName": "田美二站",
+        "StationGroupID": "300－279",
+        "StationPositionLon": 120.97421,
+        "StationPositionLat": 24.81511
+    },
+    {
+        "StationUID": "HSZ130316",
+        "StationName": "金華大樓",
+        "StationGroupID": "300－280",
+        "StationPositionLon": 120.9729532,
+        "StationPositionLat": 24.81667912
+    },
+    {
+        "StationUID": "HSZ130317",
+        "StationName": "北區區公所",
+        "StationGroupID": "300－281",
+        "StationPositionLon": 120.9712383,
+        "StationPositionLat": 24.81686723
+    },
+    {
+        "StationUID": "HSZ130318",
+        "StationName": "地政事務所",
+        "StationGroupID": "300－282",
+        "StationPositionLon": 120.9761,
+        "StationPositionLat": 24.81705
+    },
+    {
+        "StationUID": "HSZ130319",
+        "StationName": "金華二站",
+        "StationGroupID": "300－283",
+        "StationPositionLon": 120.97886,
+        "StationPositionLat": 24.81649
+    },
+    {
+        "StationUID": "HSZ130320",
+        "StationName": "台大醫院新竹分院",
+        "StationGroupID": "300－284",
+        "StationPositionLon": 120.98053,
+        "StationPositionLat": 24.81566
+    },
+    {
+        "StationUID": "HSZ130321",
+        "StationName": "金華二站",
+        "StationGroupID": "300－283",
+        "StationPositionLon": 120.97944,
+        "StationPositionLat": 24.815673
+    },
+    {
+        "StationUID": "HSZ130322",
+        "StationName": "地政事務所",
+        "StationGroupID": "300－282",
+        "StationPositionLon": 120.97607,
+        "StationPositionLat": 24.8172
+    },
+    {
+        "StationUID": "HSZ130323",
+        "StationName": "北區區公所",
+        "StationGroupID": "300－281",
+        "StationPositionLon": 120.97164,
+        "StationPositionLat": 24.81726
+    },
+    {
+        "StationUID": "HSZ130324",
+        "StationName": "金華大樓",
+        "StationGroupID": "300－280",
+        "StationPositionLon": 120.972203,
+        "StationPositionLat": 24.816524
+    },
+    {
+        "StationUID": "HSZ130325",
+        "StationName": "田美二站",
+        "StationGroupID": "300－279",
+        "StationPositionLon": 120.97417,
+        "StationPositionLat": 24.81471
+    },
+    {
+        "StationUID": "HSZ130326",
+        "StationName": "田美一站",
+        "StationGroupID": "300－278",
+        "StationPositionLon": 120.97356,
+        "StationPositionLat": 24.81324
+    },
+    {
+        "StationUID": "HSZ130327",
+        "StationName": "曙光女中",
+        "StationGroupID": "300－277",
+        "StationPositionLon": 120.97247,
+        "StationPositionLat": 24.81265
+    },
+    {
+        "StationUID": "HSZ130328",
+        "StationName": "水利局",
+        "StationGroupID": "300－276",
+        "StationPositionLon": 120.97019,
+        "StationPositionLat": 24.81129
+    },
+    {
+        "StationUID": "HSZ130329",
+        "StationName": "北大橋",
+        "StationGroupID": "300－275",
+        "StationPositionLon": 120.96862,
+        "StationPositionLat": 24.81034
+    },
+    {
+        "StationUID": "HSZ130331",
+        "StationName": "地方法院",
+        "StationGroupID": "300－273",
+        "StationPositionLon": 120.9678188,
+        "StationPositionLat": 24.80752322
+    },
+    {
+        "StationUID": "HSZ130332",
+        "StationName": "和平橋",
+        "StationGroupID": "300－285",
+        "StationPositionLon": 120.9540314,
+        "StationPositionLat": 24.80112756
+    },
+    {
+        "StationUID": "HSZ130333",
+        "StationName": "埔羌圍",
+        "StationGroupID": "300－286",
+        "StationPositionLon": 120.95062,
+        "StationPositionLat": 24.80005
+    },
+    {
+        "StationUID": "HSZ130334",
+        "StationName": "新東藥廠",
+        "StationGroupID": "300－287",
+        "StationPositionLon": 120.9466173,
+        "StationPositionLat": 24.79998156
+    },
+    {
+        "StationUID": "HSZ130335",
+        "StationName": "明月香榭",
+        "StationGroupID": "300－288",
+        "StationPositionLon": 120.94476,
+        "StationPositionLat": 24.79896
+    },
+    {
+        "StationUID": "HSZ130336",
+        "StationName": "重義橋",
+        "StationGroupID": "300－289",
+        "StationPositionLon": 120.94368,
+        "StationPositionLat": 24.79795
+    },
+    {
+        "StationUID": "HSZ130337",
+        "StationName": "店子口",
+        "StationGroupID": "300－290",
+        "StationPositionLon": 120.9404642,
+        "StationPositionLat": 24.79626417
+    },
+    {
+        "StationUID": "HSZ130338",
+        "StationName": "埔前",
+        "StationGroupID": "300－291",
+        "StationPositionLon": 120.9376197,
+        "StationPositionLat": 24.79647312
+    },
+    {
+        "StationUID": "HSZ130339",
+        "StationName": "德和",
+        "StationGroupID": "300－292",
+        "StationPositionLon": 120.9345839,
+        "StationPositionLat": 24.79590312
+    },
+    {
+        "StationUID": "HSZ130340",
+        "StationName": "吉悌",
+        "StationGroupID": "300－293",
+        "StationPositionLon": 120.9324624,
+        "StationPositionLat": 24.79429426
+    },
+    {
+        "StationUID": "HSZ130341",
+        "StationName": "綜合運動場",
+        "StationGroupID": "300－294",
+        "StationPositionLon": 120.9301642,
+        "StationPositionLat": 24.79231799
+    },
+    {
+        "StationUID": "HSZ130342",
+        "StationName": "大庄里",
+        "StationGroupID": "300－295",
+        "StationPositionLon": 120.9270464,
+        "StationPositionLat": 24.79165721
+    },
+    {
+        "StationUID": "HSZ130343",
+        "StationName": "大同磁器",
+        "StationGroupID": "300－296",
+        "StationPositionLon": 120.9272521,
+        "StationPositionLat": 24.79012216
+    },
+    {
+        "StationUID": "HSZ130344",
+        "StationName": "三姓橋一站",
+        "StationGroupID": "300－297",
+        "StationPositionLon": 120.9282821,
+        "StationPositionLat": 24.78890773
+    },
+    {
+        "StationUID": "HSZ130345",
+        "StationName": "三姓橋一站",
+        "StationGroupID": "300－297",
+        "StationPositionLon": 120.92833,
+        "StationPositionLat": 24.78909
+    },
+    {
+        "StationUID": "HSZ130346",
+        "StationName": "大同磁器",
+        "StationGroupID": "300－296",
+        "StationPositionLon": 120.92719,
+        "StationPositionLat": 24.79042
+    },
+    {
+        "StationUID": "HSZ130347",
+        "StationName": "大庄里",
+        "StationGroupID": "300－295",
+        "StationPositionLon": 120.9268234,
+        "StationPositionLat": 24.79135848
+    },
+    {
+        "StationUID": "HSZ130348",
+        "StationName": "綜合運動場",
+        "StationGroupID": "300－294",
+        "StationPositionLon": 120.930111,
+        "StationPositionLat": 24.79222016
+    },
+    {
+        "StationUID": "HSZ130349",
+        "StationName": "吉悌",
+        "StationGroupID": "300－293",
+        "StationPositionLon": 120.9325336,
+        "StationPositionLat": 24.79429887
+    },
+    {
+        "StationUID": "HSZ130350",
+        "StationName": "德和",
+        "StationGroupID": "300－292",
+        "StationPositionLon": 120.9346256,
+        "StationPositionLat": 24.79584017
+    },
+    {
+        "StationUID": "HSZ130351",
+        "StationName": "埔前",
+        "StationGroupID": "300－291",
+        "StationPositionLon": 120.9378254,
+        "StationPositionLat": 24.79638426
+    },
+    {
+        "StationUID": "HSZ130352",
+        "StationName": "店子口",
+        "StationGroupID": "300－290",
+        "StationPositionLon": 120.9405754,
+        "StationPositionLat": 24.79619026
+    },
+    {
+        "StationUID": "HSZ130353",
+        "StationName": "牛埔",
+        "StationGroupID": "300－186",
+        "StationPositionLon": 120.9421919,
+        "StationPositionLat": 24.79700795
+    },
+    {
+        "StationUID": "HSZ130354",
+        "StationName": "重義橋",
+        "StationGroupID": "300－289",
+        "StationPositionLon": 120.9436523,
+        "StationPositionLat": 24.79777216
+    },
+    {
+        "StationUID": "HSZ130355",
+        "StationName": "明月香榭",
+        "StationGroupID": "300－288",
+        "StationPositionLon": 120.9448241,
+        "StationPositionLat": 24.79858599
+    },
+    {
+        "StationUID": "HSZ130356",
+        "StationName": "新東藥廠",
+        "StationGroupID": "300－287",
+        "StationPositionLon": 120.9467948,
+        "StationPositionLat": 24.79990521
+    },
+    {
+        "StationUID": "HSZ130357",
+        "StationName": "埔羌圍",
+        "StationGroupID": "300－286",
+        "StationPositionLon": 120.9508222,
+        "StationPositionLat": 24.79982965
+    },
+    {
+        "StationUID": "HSZ130358",
+        "StationName": "和平橋",
+        "StationGroupID": "300－285",
+        "StationPositionLon": 120.9544534,
+        "StationPositionLat": 24.80139009
+    },
+    {
+        "StationUID": "HSZ130359",
+        "StationName": "頂埔社區",
+        "StationGroupID": "300－189",
+        "StationPositionLon": 120.95265,
+        "StationPositionLat": 24.79939
+    },
+    {
+        "StationUID": "HSZ130360",
+        "StationName": "龍山社區口",
+        "StationGroupID": "300－298",
+        "StationPositionLon": 121.0100343,
+        "StationPositionLat": 24.78602451
+    },
+    {
+        "StationUID": "HSZ130361",
+        "StationName": "民享一站",
+        "StationGroupID": "300－299",
+        "StationPositionLon": 121.00893,
+        "StationPositionLat": 24.78496
+    },
+    {
+        "StationUID": "HSZ130362",
+        "StationName": "民享二站",
+        "StationGroupID": "300－300",
+        "StationPositionLon": 121.0093548,
+        "StationPositionLat": 24.78364858
+    },
+    {
+        "StationUID": "HSZ130363",
+        "StationName": "土地廟",
+        "StationGroupID": "300－301",
+        "StationPositionLon": 121.0094826,
+        "StationPositionLat": 24.78138155
+    },
+    {
+        "StationUID": "HSZ130364",
+        "StationName": "民有二街",
+        "StationGroupID": "300－302",
+        "StationPositionLon": 121.0097143,
+        "StationPositionLat": 24.78070928
+    },
+    {
+        "StationUID": "HSZ130365",
+        "StationName": "科學二站",
+        "StationGroupID": "300－303",
+        "StationPositionLon": 121.01154,
+        "StationPositionLat": 24.78338
+    },
+    {
+        "StationUID": "HSZ130366",
+        "StationName": "龍山社區口",
+        "StationGroupID": "300－298",
+        "StationPositionLon": 121.01011,
+        "StationPositionLat": 24.78666
+    },
+    {
+        "StationUID": "HSZ130369",
+        "StationName": "關埔公園",
+        "StationGroupID": "300－306",
+        "StationPositionLon": 121.01777,
+        "StationPositionLat": 24.7913
+    },
+    {
+        "StationUID": "HSZ130371",
+        "StationName": "交流道口",
+        "StationGroupID": "300－308",
+        "StationPositionLon": 121.00631,
+        "StationPositionLat": 24.79895
+    },
+    {
+        "StationUID": "HSZ130372",
+        "StationName": "東美路",
+        "StationGroupID": "300－309",
+        "StationPositionLon": 121.00307,
+        "StationPositionLat": 24.80162
+    },
+    {
+        "StationUID": "HSZ130373",
+        "StationName": "水利路",
+        "StationGroupID": "300－310",
+        "StationPositionLon": 121.00542,
+        "StationPositionLat": 24.80253
+    },
+    {
+        "StationUID": "HSZ130374",
+        "StationName": "旭家經貿",
+        "StationGroupID": "300－311",
+        "StationPositionLon": 121.00616,
+        "StationPositionLat": 24.80377
+    },
+    {
+        "StationUID": "HSZ130375",
+        "StationName": "九甲埔",
+        "StationGroupID": "300－312",
+        "StationPositionLon": 121.00814,
+        "StationPositionLat": 24.80723
+    },
+    {
+        "StationUID": "HSZ130376",
+        "StationName": "原興路口",
+        "StationGroupID": "300－313",
+        "StationPositionLon": 121.0052,
+        "StationPositionLat": 24.80782
+    },
+    {
+        "StationUID": "HSZ130377",
+        "StationName": "千甲車站",
+        "StationGroupID": "300－314",
+        "StationPositionLon": 121.00208,
+        "StationPositionLat": 24.80737
+    },
+    {
+        "StationUID": "HSZ130378",
+        "StationName": "水源",
+        "StationGroupID": "300－315",
+        "StationPositionLon": 120.99864,
+        "StationPositionLat": 24.80668
+    },
+    {
+        "StationUID": "HSZ130379",
+        "StationName": "愛買2站",
+        "StationGroupID": "300－316",
+        "StationPositionLon": 120.9935,
+        "StationPositionLat": 24.80417
+    },
+    {
+        "StationUID": "HSZ130381",
+        "StationName": "二分局",
+        "StationGroupID": "300－318",
+        "StationPositionLon": 120.98693,
+        "StationPositionLat": 24.80313
+    },
+    {
+        "StationUID": "HSZ130382",
+        "StationName": "東光忠孝路口",
+        "StationGroupID": "300－319",
+        "StationPositionLon": 120.986794,
+        "StationPositionLat": 24.804598
+    },
+    {
+        "StationUID": "HSZ130383",
+        "StationName": "監理站",
+        "StationGroupID": "300－320",
+        "StationPositionLon": 120.98225,
+        "StationPositionLat": 24.8114
+    },
+    {
+        "StationUID": "HSZ130384",
+        "StationName": "三民國中",
+        "StationGroupID": "300－321",
+        "StationPositionLon": 120.980237,
+        "StationPositionLat": 24.811661
+    },
+    {
+        "StationUID": "HSZ130385",
+        "StationName": "巨城購物",
+        "StationGroupID": "300－322",
+        "StationPositionLon": 120.97569,
+        "StationPositionLat": 24.80922
+    },
+    {
+        "StationUID": "HSZ130386",
+        "StationName": "美術館",
+        "StationGroupID": "300－323",
+        "StationPositionLon": 120.96984,
+        "StationPositionLat": 24.80638
+    },
+    {
+        "StationUID": "HSZ130388",
+        "StationName": "鄭氏家廟",
+        "StationGroupID": "300－325",
+        "StationPositionLon": 120.96584,
+        "StationPositionLat": 24.81023
+    },
+    {
+        "StationUID": "HSZ130389",
+        "StationName": "中正經國路口",
+        "StationGroupID": "300－326",
+        "StationPositionLon": 120.9648713,
+        "StationPositionLat": 24.81150034
+    },
+    {
+        "StationUID": "HSZ130390",
+        "StationName": "國華街口",
+        "StationGroupID": "300－327",
+        "StationPositionLon": 120.97038,
+        "StationPositionLat": 24.81406
+    },
+    {
+        "StationUID": "HSZ130391",
+        "StationName": "監理站",
+        "StationGroupID": "300－328",
+        "StationPositionLon": 120.98206,
+        "StationPositionLat": 24.81151
+    },
+    {
+        "StationUID": "HSZ130392",
+        "StationName": "東光忠孝路口",
+        "StationGroupID": "300－329",
+        "StationPositionLon": 120.98675,
+        "StationPositionLat": 24.8047
+    },
+    {
+        "StationUID": "HSZ130395",
+        "StationName": "愛買2站",
+        "StationGroupID": "300－332",
+        "StationPositionLon": 120.9936,
+        "StationPositionLat": 24.80404
+    },
+    {
+        "StationUID": "HSZ130396",
+        "StationName": "水源",
+        "StationGroupID": "300－333",
+        "StationPositionLon": 120.99865,
+        "StationPositionLat": 24.80665
+    },
+    {
+        "StationUID": "HSZ130397",
+        "StationName": "千甲車站",
+        "StationGroupID": "300－334",
+        "StationPositionLon": 121.00137,
+        "StationPositionLat": 24.8072
+    },
+    {
+        "StationUID": "HSZ130398",
+        "StationName": "原興路口",
+        "StationGroupID": "300－335",
+        "StationPositionLon": 121.00539,
+        "StationPositionLat": 24.80774
+    },
+    {
+        "StationUID": "HSZ130399",
+        "StationName": "九甲埔",
+        "StationGroupID": "300－336",
+        "StationPositionLon": 121.00798,
+        "StationPositionLat": 24.80724
+    },
+    {
+        "StationUID": "HSZ130400",
+        "StationName": "旭家經貿",
+        "StationGroupID": "300－337",
+        "StationPositionLon": 121.00623,
+        "StationPositionLat": 24.80416
+    },
+    {
+        "StationUID": "HSZ130401",
+        "StationName": "水利路",
+        "StationGroupID": "300－338",
+        "StationPositionLon": 121.00548,
+        "StationPositionLat": 24.80286
+    },
+    {
+        "StationUID": "HSZ130402",
+        "StationName": "東美路",
+        "StationGroupID": "300－339",
+        "StationPositionLon": 121.00353,
+        "StationPositionLat": 24.8016
+    },
+    {
+        "StationUID": "HSZ130404",
+        "StationName": "慈濟路口",
+        "StationGroupID": "300－341",
+        "StationPositionLon": 121.01519,
+        "StationPositionLat": 24.79331
+    },
+    {
+        "StationUID": "HSZ130406",
+        "StationName": "西門市場",
+        "StationGroupID": "300－343",
+        "StationPositionLon": 120.963874,
+        "StationPositionLat": 24.803594
+    },
+    {
+        "StationUID": "HSZ130407",
+        "StationName": "西門派出所",
+        "StationGroupID": "300－344",
+        "StationPositionLon": 120.960814,
+        "StationPositionLat": 24.801607
+    },
+    {
+        "StationUID": "HSZ130408",
+        "StationName": "西門國小",
+        "StationGroupID": "300－345",
+        "StationPositionLon": 120.960118,
+        "StationPositionLat": 24.802337
+    },
+    {
+        "StationUID": "HSZ130409",
+        "StationName": "太子宮",
+        "StationGroupID": "300－346",
+        "StationPositionLon": 120.95312,
+        "StationPositionLat": 24.80509
+    },
+    {
+        "StationUID": "HSZ130410",
+        "StationName": "南勢化工",
+        "StationGroupID": "300－347",
+        "StationPositionLon": 120.951453,
+        "StationPositionLat": 24.80509
+    },
+    {
+        "StationUID": "HSZ130411",
+        "StationName": "南勢",
+        "StationGroupID": "300－348",
+        "StationPositionLon": 120.947952,
+        "StationPositionLat": 24.805116
+    },
+    {
+        "StationUID": "HSZ130412",
+        "StationName": "大鵬二村",
+        "StationGroupID": "300－349",
+        "StationPositionLon": 120.946304,
+        "StationPositionLat": 24.805093
+    },
+    {
+        "StationUID": "HSZ130413",
+        "StationName": "實踐新村",
+        "StationGroupID": "300－350",
+        "StationPositionLon": 120.944299,
+        "StationPositionLat": 24.805106
+    },
+    {
+        "StationUID": "HSZ130414",
+        "StationName": "虎林新村",
+        "StationGroupID": "300－351",
+        "StationPositionLon": 120.942266,
+        "StationPositionLat": 24.805113
+    },
+    {
+        "StationUID": "HSZ130415",
+        "StationName": "虎林國小",
+        "StationGroupID": "300－352",
+        "StationPositionLon": 120.940758,
+        "StationPositionLat": 24.805138
+    },
+    {
+        "StationUID": "HSZ130416",
+        "StationName": "小南勢",
+        "StationGroupID": "300－353",
+        "StationPositionLon": 120.937632,
+        "StationPositionLat": 24.805602
+    },
+    {
+        "StationUID": "HSZ130417",
+        "StationName": "虎山",
+        "StationGroupID": "300－354",
+        "StationPositionLon": 120.93524,
+        "StationPositionLat": 24.80744
+    },
+    {
+        "StationUID": "HSZ130418",
+        "StationName": "中庄",
+        "StationGroupID": "300－355",
+        "StationPositionLon": 120.931798,
+        "StationPositionLat": 24.806962
+    },
+    {
+        "StationUID": "HSZ130419",
+        "StationName": "金廈園",
+        "StationGroupID": "300－356",
+        "StationPositionLon": 120.92915,
+        "StationPositionLat": 24.80627
+    },
+    {
+        "StationUID": "HSZ130420",
+        "StationName": "香雅橋",
+        "StationGroupID": "300－357",
+        "StationPositionLon": 120.925856,
+        "StationPositionLat": 24.804166
+    },
+    {
+        "StationUID": "HSZ130421",
+        "StationName": "罟寮",
+        "StationGroupID": "300－358",
+        "StationPositionLon": 120.9222,
+        "StationPositionLat": 24.80583
+    },
+    {
+        "StationUID": "HSZ130422",
+        "StationName": "罟寮一站",
+        "StationGroupID": "300－359",
+        "StationPositionLon": 120.921625,
+        "StationPositionLat": 24.806813
+    },
+    {
+        "StationUID": "HSZ130423",
+        "StationName": "金元寶",
+        "StationGroupID": "300－360",
+        "StationPositionLon": 120.922359,
+        "StationPositionLat": 24.808079
+    },
+    {
+        "StationUID": "HSZ130424",
+        "StationName": "瓦厝",
+        "StationGroupID": "300－361",
+        "StationPositionLon": 120.924267,
+        "StationPositionLat": 24.809824
+    },
+    {
+        "StationUID": "HSZ130425",
+        "StationName": "瓦厝",
+        "StationGroupID": "300－361",
+        "StationPositionLon": 120.924315,
+        "StationPositionLat": 24.810008
+    },
+    {
+        "StationUID": "HSZ130426",
+        "StationName": "金元寶",
+        "StationGroupID": "300－360",
+        "StationPositionLon": 120.92251,
+        "StationPositionLat": 24.80853
+    },
+    {
+        "StationUID": "HSZ130427",
+        "StationName": "罟寮一站",
+        "StationGroupID": "300－359",
+        "StationPositionLon": 120.92154,
+        "StationPositionLat": 24.80668
+    },
+    {
+        "StationUID": "HSZ130428",
+        "StationName": "罟寮",
+        "StationGroupID": "300－358",
+        "StationPositionLon": 120.92199,
+        "StationPositionLat": 24.80593
+    },
+    {
+        "StationUID": "HSZ130429",
+        "StationName": "香雅橋",
+        "StationGroupID": "300－357",
+        "StationPositionLon": 120.9259,
+        "StationPositionLat": 24.80406
+    },
+    {
+        "StationUID": "HSZ130430",
+        "StationName": "金廈園",
+        "StationGroupID": "300－356",
+        "StationPositionLon": 120.92911,
+        "StationPositionLat": 24.80611
+    },
+    {
+        "StationUID": "HSZ130431",
+        "StationName": "中庄",
+        "StationGroupID": "300－355",
+        "StationPositionLon": 120.93165,
+        "StationPositionLat": 24.80677
+    },
+    {
+        "StationUID": "HSZ130432",
+        "StationName": "虎山",
+        "StationGroupID": "300－354",
+        "StationPositionLon": 120.93502,
+        "StationPositionLat": 24.80752
+    },
+    {
+        "StationUID": "HSZ130433",
+        "StationName": "小南勢",
+        "StationGroupID": "300－353",
+        "StationPositionLon": 120.938394,
+        "StationPositionLat": 24.805213
+    },
+    {
+        "StationUID": "HSZ130434",
+        "StationName": "虎林國小",
+        "StationGroupID": "300－352",
+        "StationPositionLon": 120.94071,
+        "StationPositionLat": 24.80505
+    },
+    {
+        "StationUID": "HSZ130435",
+        "StationName": "虎林新村",
+        "StationGroupID": "300－351",
+        "StationPositionLon": 120.94218,
+        "StationPositionLat": 24.80507
+    },
+    {
+        "StationUID": "HSZ130436",
+        "StationName": "實踐新村",
+        "StationGroupID": "300－350",
+        "StationPositionLon": 120.94444,
+        "StationPositionLat": 24.80498
+    },
+    {
+        "StationUID": "HSZ130437",
+        "StationName": "大鵬二村",
+        "StationGroupID": "300－349",
+        "StationPositionLon": 120.94653,
+        "StationPositionLat": 24.80505
+    },
+    {
+        "StationUID": "HSZ130438",
+        "StationName": "南勢",
+        "StationGroupID": "300－348",
+        "StationPositionLon": 120.94991,
+        "StationPositionLat": 24.80505
+    },
+    {
+        "StationUID": "HSZ130439",
+        "StationName": "南勢化工",
+        "StationGroupID": "300－347",
+        "StationPositionLon": 120.95161,
+        "StationPositionLat": 24.80503
+    },
+    {
+        "StationUID": "HSZ130440",
+        "StationName": "太子宮",
+        "StationGroupID": "300－346",
+        "StationPositionLon": 120.95329,
+        "StationPositionLat": 24.80499
+    },
+    {
+        "StationUID": "HSZ130441",
+        "StationName": "西門國小",
+        "StationGroupID": "300－345",
+        "StationPositionLon": 120.96003,
+        "StationPositionLat": 24.80244
+    },
+    {
+        "StationUID": "HSZ130442",
+        "StationName": "西門派出所",
+        "StationGroupID": "300－344",
+        "StationPositionLon": 120.96103,
+        "StationPositionLat": 24.80168
+    },
+    {
+        "StationUID": "HSZ130443",
+        "StationName": "西門市場",
+        "StationGroupID": "300－343",
+        "StationPositionLon": 120.963813,
+        "StationPositionLat": 24.803465
+    },
+    {
+        "StationUID": "HSZ130444",
+        "StationName": "營房口",
+        "StationGroupID": "300－362",
+        "StationPositionLon": 120.928734,
+        "StationPositionLat": 24.813934
+    },
+    {
+        "StationUID": "HSZ130445",
+        "StationName": "海口",
+        "StationGroupID": "300－363",
+        "StationPositionLon": 120.928955,
+        "StationPositionLat": 24.815424
+    },
+    {
+        "StationUID": "HSZ130446",
+        "StationName": "海埔地",
+        "StationGroupID": "300－364",
+        "StationPositionLon": 120.929077,
+        "StationPositionLat": 24.818083
+    },
+    {
+        "StationUID": "HSZ130447",
+        "StationName": "南油車港",
+        "StationGroupID": "300－365",
+        "StationPositionLon": 120.927859,
+        "StationPositionLat": 24.820395
+    },
+    {
+        "StationUID": "HSZ130448",
+        "StationName": "港南",
+        "StationGroupID": "300－366",
+        "StationPositionLon": 120.927204,
+        "StationPositionLat": 24.822236
+    },
+    {
+        "StationUID": "HSZ130449",
+        "StationName": "冠軍廠",
+        "StationGroupID": "300－367",
+        "StationPositionLon": 120.927328,
+        "StationPositionLat": 24.824236
+    },
+    {
+        "StationUID": "HSZ130450",
+        "StationName": "港北橋",
+        "StationGroupID": "300－368",
+        "StationPositionLon": 120.927491,
+        "StationPositionLat": 24.825883
+    },
+    {
+        "StationUID": "HSZ130451",
+        "StationName": "外湖路口",
+        "StationGroupID": "300－369",
+        "StationPositionLon": 120.927902,
+        "StationPositionLat": 24.828174
+    },
+    {
+        "StationUID": "HSZ130452",
+        "StationName": "港北",
+        "StationGroupID": "300－370",
+        "StationPositionLon": 120.928325,
+        "StationPositionLat": 24.829653
+    },
+    {
+        "StationUID": "HSZ130453",
+        "StationName": "三德",
+        "StationGroupID": "300－371",
+        "StationPositionLon": 120.929057,
+        "StationPositionLat": 24.831691
+    },
+    {
+        "StationUID": "HSZ130454",
+        "StationName": "草厝",
+        "StationGroupID": "300－372",
+        "StationPositionLon": 120.929564,
+        "StationPositionLat": 24.833321
+    },
+    {
+        "StationUID": "HSZ130455",
+        "StationName": "海濱",
+        "StationGroupID": "300－373",
+        "StationPositionLon": 120.930872,
+        "StationPositionLat": 24.835985
+    },
+    {
+        "StationUID": "HSZ130456",
+        "StationName": "十塊寮",
+        "StationGroupID": "300－374",
+        "StationPositionLon": 120.931848,
+        "StationPositionLat": 24.837438
+    },
+    {
+        "StationUID": "HSZ130457",
+        "StationName": "中寮",
+        "StationGroupID": "300－375",
+        "StationPositionLon": 120.932893,
+        "StationPositionLat": 24.838557
+    },
+    {
+        "StationUID": "HSZ130458",
+        "StationName": "上寮",
+        "StationGroupID": "300－376",
+        "StationPositionLon": 120.934279,
+        "StationPositionLat": 24.838985
+    },
+    {
+        "StationUID": "HSZ130459",
+        "StationName": "上寮",
+        "StationGroupID": "300－376",
+        "StationPositionLon": 120.934493,
+        "StationPositionLat": 24.839108
+    },
+    {
+        "StationUID": "HSZ130460",
+        "StationName": "中寮",
+        "StationGroupID": "300－375",
+        "StationPositionLon": 120.932828,
+        "StationPositionLat": 24.83861
+    },
+    {
+        "StationUID": "HSZ130461",
+        "StationName": "十塊寮",
+        "StationGroupID": "300－374",
+        "StationPositionLon": 120.931784,
+        "StationPositionLat": 24.837474
+    },
+    {
+        "StationUID": "HSZ130462",
+        "StationName": "海濱",
+        "StationGroupID": "300－373",
+        "StationPositionLon": 120.930764,
+        "StationPositionLat": 24.835968
+    },
+    {
+        "StationUID": "HSZ130463",
+        "StationName": "草厝",
+        "StationGroupID": "300－372",
+        "StationPositionLon": 120.929514,
+        "StationPositionLat": 24.833432
+    },
+    {
+        "StationUID": "HSZ130464",
+        "StationName": "三德",
+        "StationGroupID": "300－371",
+        "StationPositionLon": 120.92897,
+        "StationPositionLat": 24.83166
+    },
+    {
+        "StationUID": "HSZ130465",
+        "StationName": "港北",
+        "StationGroupID": "300－370",
+        "StationPositionLon": 120.928237,
+        "StationPositionLat": 24.829641
+    },
+    {
+        "StationUID": "HSZ130466",
+        "StationName": "外湖路口",
+        "StationGroupID": "300－369",
+        "StationPositionLon": 120.927742,
+        "StationPositionLat": 24.827817
+    },
+    {
+        "StationUID": "HSZ130467",
+        "StationName": "港北橋",
+        "StationGroupID": "300－368",
+        "StationPositionLon": 120.927244,
+        "StationPositionLat": 24.825793
+    },
+    {
+        "StationUID": "HSZ130468",
+        "StationName": "冠軍廠",
+        "StationGroupID": "300－367",
+        "StationPositionLon": 120.92712,
+        "StationPositionLat": 24.82419
+    },
+    {
+        "StationUID": "HSZ130469",
+        "StationName": "港南",
+        "StationGroupID": "300－366",
+        "StationPositionLon": 120.926979,
+        "StationPositionLat": 24.822258
+    },
+    {
+        "StationUID": "HSZ130470",
+        "StationName": "南油車港",
+        "StationGroupID": "300－365",
+        "StationPositionLon": 120.92785,
+        "StationPositionLat": 24.820267
+    },
+    {
+        "StationUID": "HSZ130471",
+        "StationName": "海埔地",
+        "StationGroupID": "300－364",
+        "StationPositionLon": 120.928962,
+        "StationPositionLat": 24.817788
+    },
+    {
+        "StationUID": "HSZ130472",
+        "StationName": "海口",
+        "StationGroupID": "300－363",
+        "StationPositionLon": 120.92881,
+        "StationPositionLat": 24.81536
+    },
+    {
+        "StationUID": "HSZ130473",
+        "StationName": "營房口",
+        "StationGroupID": "300－362",
+        "StationPositionLon": 120.92827,
+        "StationPositionLat": 24.81376
+    },
+    {
+        "StationUID": "HSZ130476",
+        "StationName": "中正城北街口",
+        "StationGroupID": "300－377",
+        "StationPositionLon": 120.9633664,
+        "StationPositionLat": 24.81348217
+    },
+    {
+        "StationUID": "HSZ130477",
+        "StationName": "武陵路口",
+        "StationGroupID": "300－378",
+        "StationPositionLon": 120.96354,
+        "StationPositionLat": 24.81769
+    },
+    {
+        "StationUID": "HSZ130478",
+        "StationName": "載熙國小",
+        "StationGroupID": "300－379",
+        "StationPositionLon": 120.96243,
+        "StationPositionLat": 24.819214
+    },
+    {
+        "StationUID": "HSZ130479",
+        "StationName": "郵局",
+        "StationGroupID": "300－380",
+        "StationPositionLon": 120.960961,
+        "StationPositionLat": 24.820366
+    },
+    {
+        "StationUID": "HSZ130480",
+        "StationName": "樹林頭",
+        "StationGroupID": "300－381",
+        "StationPositionLon": 120.959868,
+        "StationPositionLat": 24.821468
+    },
+    {
+        "StationUID": "HSZ130481",
+        "StationName": "士林里",
+        "StationGroupID": "300－382",
+        "StationPositionLon": 120.95847,
+        "StationPositionLat": 24.822975
+    },
+    {
+        "StationUID": "HSZ130482",
+        "StationName": "吉羊路口",
+        "StationGroupID": "300－383",
+        "StationPositionLon": 120.95694,
+        "StationPositionLat": 24.82537
+    },
+    {
+        "StationUID": "HSZ130483",
+        "StationName": "烏瓦厝",
+        "StationGroupID": "300－384",
+        "StationPositionLon": 120.95551,
+        "StationPositionLat": 24.83043
+    },
+    {
+        "StationUID": "HSZ130484",
+        "StationName": "古賢里",
+        "StationGroupID": "300－385",
+        "StationPositionLon": 120.95252,
+        "StationPositionLat": 24.83253
+    },
+    {
+        "StationUID": "HSZ130485",
+        "StationName": "苦苓腳",
+        "StationGroupID": "300－386",
+        "StationPositionLon": 120.94769,
+        "StationPositionLat": 24.83368
+    },
+    {
+        "StationUID": "HSZ130486",
+        "StationName": "上糠榔",
+        "StationGroupID": "300－387",
+        "StationPositionLon": 120.94647,
+        "StationPositionLat": 24.83442
+    },
+    {
+        "StationUID": "HSZ130487",
+        "StationName": "糠榔",
+        "StationGroupID": "300－388",
+        "StationPositionLon": 120.94529,
+        "StationPositionLat": 24.83537
+    },
+    {
+        "StationUID": "HSZ130488",
+        "StationName": "輕便車站",
+        "StationGroupID": "300－389",
+        "StationPositionLon": 120.94368,
+        "StationPositionLat": 24.83651
+    },
+    {
+        "StationUID": "HSZ130489",
+        "StationName": "牛埔",
+        "StationGroupID": "300－390",
+        "StationPositionLon": 120.941511,
+        "StationPositionLat": 24.837927
+    },
+    {
+        "StationUID": "HSZ130490",
+        "StationName": "南寮國小",
+        "StationGroupID": "300－391",
+        "StationPositionLon": 120.939382,
+        "StationPositionLat": 24.839213
+    },
+    {
+        "StationUID": "HSZ130491",
+        "StationName": "富美宮",
+        "StationGroupID": "300－392",
+        "StationPositionLon": 120.93735,
+        "StationPositionLat": 24.84065
+    },
+    {
+        "StationUID": "HSZ130492",
+        "StationName": "里辦公處",
+        "StationGroupID": "300－393",
+        "StationPositionLon": 120.935702,
+        "StationPositionLat": 24.841581
+    },
+    {
+        "StationUID": "HSZ130493",
+        "StationName": "信義新村",
+        "StationGroupID": "300－394",
+        "StationPositionLon": 120.93349,
+        "StationPositionLat": 24.8427
+    },
+    {
+        "StationUID": "HSZ130494",
+        "StationName": "蝦仔埔",
+        "StationGroupID": "300－395",
+        "StationPositionLon": 120.932002,
+        "StationPositionLat": 24.843484
+    },
+    {
+        "StationUID": "HSZ130495",
+        "StationName": "上南寮",
+        "StationGroupID": "300－396",
+        "StationPositionLon": 120.930578,
+        "StationPositionLat": 24.844182
+    },
+    {
+        "StationUID": "HSZ130496",
+        "StationName": "漁港口",
+        "StationGroupID": "300－397",
+        "StationPositionLon": 120.929267,
+        "StationPositionLat": 24.844842
+    },
+    {
+        "StationUID": "HSZ130497",
+        "StationName": "冰廠",
+        "StationGroupID": "300－398",
+        "StationPositionLon": 120.928896,
+        "StationPositionLat": 24.846067
+    },
+    {
+        "StationUID": "HSZ130498",
+        "StationName": "南寮",
+        "StationGroupID": "300－399",
+        "StationPositionLon": 120.928818,
+        "StationPositionLat": 24.847096
+    },
+    {
+        "StationUID": "HSZ130499",
+        "StationName": "南寮",
+        "StationGroupID": "300－399",
+        "StationPositionLon": 120.928681,
+        "StationPositionLat": 24.84743
+    },
+    {
+        "StationUID": "HSZ130500",
+        "StationName": "冰廠",
+        "StationGroupID": "300－398",
+        "StationPositionLon": 120.928769,
+        "StationPositionLat": 24.84659
+    },
+    {
+        "StationUID": "HSZ130501",
+        "StationName": "漁港口",
+        "StationGroupID": "300－397",
+        "StationPositionLon": 120.92903,
+        "StationPositionLat": 24.84486
+    },
+    {
+        "StationUID": "HSZ130502",
+        "StationName": "上南寮",
+        "StationGroupID": "300－396",
+        "StationPositionLon": 120.930632711639,
+        "StationPositionLat": 24.8440715271364
+    },
+    {
+        "StationUID": "HSZ130503",
+        "StationName": "蝦仔埔",
+        "StationGroupID": "300－395",
+        "StationPositionLon": 120.9319638,
+        "StationPositionLat": 24.8434182
+    },
+    {
+        "StationUID": "HSZ130504",
+        "StationName": "信義新村",
+        "StationGroupID": "300－394",
+        "StationPositionLon": 120.93377,
+        "StationPositionLat": 24.842468
+    },
+    {
+        "StationUID": "HSZ130505",
+        "StationName": "里辦公處",
+        "StationGroupID": "300－393",
+        "StationPositionLon": 120.936121,
+        "StationPositionLat": 24.841265
+    },
+    {
+        "StationUID": "HSZ130506",
+        "StationName": "富美宮",
+        "StationGroupID": "300－392",
+        "StationPositionLon": 120.93764,
+        "StationPositionLat": 24.840298
+    },
+    {
+        "StationUID": "HSZ130507",
+        "StationName": "南寮國小",
+        "StationGroupID": "300－391",
+        "StationPositionLon": 120.9397168,
+        "StationPositionLat": 24.83885659
+    },
+    {
+        "StationUID": "HSZ130508",
+        "StationName": "牛埔",
+        "StationGroupID": "300－390",
+        "StationPositionLon": 120.9416512,
+        "StationPositionLat": 24.83770369
+    },
+    {
+        "StationUID": "HSZ130509",
+        "StationName": "輕便車站",
+        "StationGroupID": "300－389",
+        "StationPositionLon": 120.9440122,
+        "StationPositionLat": 24.83615375
+    },
+    {
+        "StationUID": "HSZ130510",
+        "StationName": "糠榔",
+        "StationGroupID": "300－388",
+        "StationPositionLon": 120.94515,
+        "StationPositionLat": 24.83534
+    },
+    {
+        "StationUID": "HSZ130511",
+        "StationName": "上糠榔",
+        "StationGroupID": "300－387",
+        "StationPositionLon": 120.9461951,
+        "StationPositionLat": 24.83446375
+    },
+    {
+        "StationUID": "HSZ130512",
+        "StationName": "苦苓腳",
+        "StationGroupID": "300－386",
+        "StationPositionLon": 120.94743,
+        "StationPositionLat": 24.83373
+    },
+    {
+        "StationUID": "HSZ130513",
+        "StationName": "古賢里",
+        "StationGroupID": "300－385",
+        "StationPositionLon": 120.95177,
+        "StationPositionLat": 24.83251
+    },
+    {
+        "StationUID": "HSZ130514",
+        "StationName": "烏瓦厝",
+        "StationGroupID": "300－384",
+        "StationPositionLon": 120.95508,
+        "StationPositionLat": 24.83015
+    },
+    {
+        "StationUID": "HSZ130515",
+        "StationName": "吉羊路口",
+        "StationGroupID": "300－383",
+        "StationPositionLon": 120.95712,
+        "StationPositionLat": 24.82492
+    },
+    {
+        "StationUID": "HSZ130516",
+        "StationName": "士林里",
+        "StationGroupID": "300－382",
+        "StationPositionLon": 120.9582239,
+        "StationPositionLat": 24.82318888
+    },
+    {
+        "StationUID": "HSZ130517",
+        "StationName": "樹林頭",
+        "StationGroupID": "300－381",
+        "StationPositionLon": 120.9599312,
+        "StationPositionLat": 24.82124169
+    },
+    {
+        "StationUID": "HSZ130518",
+        "StationName": "郵局",
+        "StationGroupID": "300－380",
+        "StationPositionLon": 120.9607554,
+        "StationPositionLat": 24.82040506
+    },
+    {
+        "StationUID": "HSZ130519",
+        "StationName": "載熙國小",
+        "StationGroupID": "300－379",
+        "StationPositionLon": 120.9617735,
+        "StationPositionLat": 24.81933524
+    },
+    {
+        "StationUID": "HSZ130520",
+        "StationName": "武陵路口",
+        "StationGroupID": "300－378",
+        "StationPositionLon": 120.9636124,
+        "StationPositionLat": 24.81751472
+    },
+    {
+        "StationUID": "HSZ130521",
+        "StationName": "竹光新村",
+        "StationGroupID": "300－400",
+        "StationPositionLon": 120.9621742,
+        "StationPositionLat": 24.81478548
+    },
+    {
+        "StationUID": "HSZ130522",
+        "StationName": "中正城北街口",
+        "StationGroupID": "300－377",
+        "StationPositionLon": 120.9633354,
+        "StationPositionLat": 24.81335123
+    },
+    {
+        "StationUID": "HSZ130523",
+        "StationName": "西門市場",
+        "StationGroupID": "300－401",
+        "StationPositionLon": 120.9645796,
+        "StationPositionLat": 24.80318348
+    },
+    {
+        "StationUID": "HSZ130524",
+        "StationName": "南門市場",
+        "StationGroupID": "300－402",
+        "StationPositionLon": 120.9664,
+        "StationPositionLat": 24.80114
+    },
+    {
+        "StationUID": "HSZ130525",
+        "StationName": "南大路口",
+        "StationGroupID": "300－403",
+        "StationPositionLon": 120.96955,
+        "StationPositionLat": 24.79714
+    },
+    {
+        "StationUID": "HSZ130526",
+        "StationName": "新竹青果",
+        "StationGroupID": "300－404",
+        "StationPositionLon": 120.9705,
+        "StationPositionLat": 24.79631
+    },
+    {
+        "StationUID": "HSZ130528",
+        "StationName": "高峰路口",
+        "StationGroupID": "300－406",
+        "StationPositionLon": 120.9730313,
+        "StationPositionLat": 24.79423182
+    },
+    {
+        "StationUID": "HSZ130529",
+        "StationName": "竹蓮市場",
+        "StationGroupID": "300－407",
+        "StationPositionLon": 120.9739038,
+        "StationPositionLat": 24.79344198
+    },
+    {
+        "StationUID": "HSZ130530",
+        "StationName": "介壽山口",
+        "StationGroupID": "300－408",
+        "StationPositionLon": 120.97547,
+        "StationPositionLat": 24.792084
+    },
+    {
+        "StationUID": "HSZ130531",
+        "StationName": "萬佛寺",
+        "StationGroupID": "300－409",
+        "StationPositionLon": 120.97728,
+        "StationPositionLat": 24.790132
+    },
+    {
+        "StationUID": "HSZ130532",
+        "StationName": "苗圃",
+        "StationGroupID": "300－410",
+        "StationPositionLon": 120.98195,
+        "StationPositionLat": 24.788346
+    },
+    {
+        "StationUID": "HSZ130533",
+        "StationName": "雞蛋面",
+        "StationGroupID": "300－411",
+        "StationPositionLon": 120.9863279,
+        "StationPositionLat": 24.78700765
+    },
+    {
+        "StationUID": "HSZ130534",
+        "StationName": "翠壁岩寺",
+        "StationGroupID": "300－412",
+        "StationPositionLon": 120.98804,
+        "StationPositionLat": 24.78569
+    },
+    {
+        "StationUID": "HSZ130535",
+        "StationName": "下路北",
+        "StationGroupID": "300－413",
+        "StationPositionLon": 120.98783,
+        "StationPositionLat": 24.78171
+    },
+    {
+        "StationUID": "HSZ130536",
+        "StationName": "高翠",
+        "StationGroupID": "300－414",
+        "StationPositionLon": 120.98713,
+        "StationPositionLat": 24.78032
+    },
+    {
+        "StationUID": "HSZ130537",
+        "StationName": "竹泰社區",
+        "StationGroupID": "300－415",
+        "StationPositionLon": 120.98534,
+        "StationPositionLat": 24.77883
+    },
+    {
+        "StationUID": "HSZ130538",
+        "StationName": "高峰",
+        "StationGroupID": "300－416",
+        "StationPositionLon": 120.98307,
+        "StationPositionLat": 24.77763
+    },
+    {
+        "StationUID": "HSZ130539",
+        "StationName": "土雞城",
+        "StationGroupID": "300－417",
+        "StationPositionLon": 120.98229,
+        "StationPositionLat": 24.77855
+    },
+    {
+        "StationUID": "HSZ130540",
+        "StationName": "青峰路口",
+        "StationGroupID": "300－418",
+        "StationPositionLon": 120.98144,
+        "StationPositionLat": 24.77958
+    },
+    {
+        "StationUID": "HSZ130541",
+        "StationName": "普天宮",
+        "StationGroupID": "300－419",
+        "StationPositionLon": 120.9805774,
+        "StationPositionLat": 24.78118501
+    },
+    {
+        "StationUID": "HSZ130542",
+        "StationName": "青峰路口",
+        "StationGroupID": "300－418",
+        "StationPositionLon": 120.98133,
+        "StationPositionLat": 24.77963731
+    },
+    {
+        "StationUID": "HSZ130543",
+        "StationName": "土雞城",
+        "StationGroupID": "300－417",
+        "StationPositionLon": 120.9821,
+        "StationPositionLat": 24.77859
+    },
+    {
+        "StationUID": "HSZ130544",
+        "StationName": "高峰",
+        "StationGroupID": "300－416",
+        "StationPositionLon": 120.9830463,
+        "StationPositionLat": 24.77738694
+    },
+    {
+        "StationUID": "HSZ130545",
+        "StationName": "竹泰社區",
+        "StationGroupID": "300－415",
+        "StationPositionLon": 120.98553,
+        "StationPositionLat": 24.77876
+    },
+    {
+        "StationUID": "HSZ130546",
+        "StationName": "高翠",
+        "StationGroupID": "300－414",
+        "StationPositionLon": 120.9869552,
+        "StationPositionLat": 24.77990935
+    },
+    {
+        "StationUID": "HSZ130547",
+        "StationName": "下路北",
+        "StationGroupID": "300－413",
+        "StationPositionLon": 120.98808,
+        "StationPositionLat": 24.78156
+    },
+    {
+        "StationUID": "HSZ130548",
+        "StationName": "翠壁岩寺",
+        "StationGroupID": "300－412",
+        "StationPositionLon": 120.98817,
+        "StationPositionLat": 24.78567
+    },
+    {
+        "StationUID": "HSZ130549",
+        "StationName": "雞蛋面",
+        "StationGroupID": "300－411",
+        "StationPositionLon": 120.98592,
+        "StationPositionLat": 24.78739
+    },
+    {
+        "StationUID": "HSZ130550",
+        "StationName": "苗圃",
+        "StationGroupID": "300－410",
+        "StationPositionLon": 120.98193,
+        "StationPositionLat": 24.78865
+    },
+    {
+        "StationUID": "HSZ130551",
+        "StationName": "萬佛寺",
+        "StationGroupID": "300－409",
+        "StationPositionLon": 120.97695,
+        "StationPositionLat": 24.79053
+    },
+    {
+        "StationUID": "HSZ130552",
+        "StationName": "介壽山口",
+        "StationGroupID": "300－408",
+        "StationPositionLon": 120.97562,
+        "StationPositionLat": 24.79218
+    },
+    {
+        "StationUID": "HSZ130553",
+        "StationName": "竹蓮市場",
+        "StationGroupID": "300－407",
+        "StationPositionLon": 120.97346,
+        "StationPositionLat": 24.79399
+    },
+    {
+        "StationUID": "HSZ130554",
+        "StationName": "高峰路口",
+        "StationGroupID": "300－406",
+        "StationPositionLon": 120.97231,
+        "StationPositionLat": 24.79506
+    },
+    {
+        "StationUID": "HSZ130555",
+        "StationName": "新竹青果",
+        "StationGroupID": "300－404",
+        "StationPositionLon": 120.97065,
+        "StationPositionLat": 24.79635
+    },
+    {
+        "StationUID": "HSZ130556",
+        "StationName": "南大路口",
+        "StationGroupID": "300－403",
+        "StationPositionLon": 120.96967,
+        "StationPositionLat": 24.79688
+    },
+    {
+        "StationUID": "HSZ130557",
+        "StationName": "南門市場",
+        "StationGroupID": "300－402",
+        "StationPositionLon": 120.96632,
+        "StationPositionLat": 24.80114
+    },
+    {
+        "StationUID": "HSZ130558",
+        "StationName": "西門市場",
+        "StationGroupID": "300－401",
+        "StationPositionLon": 120.96478,
+        "StationPositionLat": 24.8031
+    },
+    {
+        "StationUID": "HSZ130559",
+        "StationName": "建華國中",
+        "StationGroupID": "300－420",
+        "StationPositionLon": 120.976229,
+        "StationPositionLat": 24.794295
+    },
+    {
+        "StationUID": "HSZ130566",
+        "StationName": "文化中心",
+        "StationGroupID": "300－423",
+        "StationPositionLon": 120.9694061,
+        "StationPositionLat": 24.81193113
+    },
+    {
+        "StationUID": "HSZ130567",
+        "StationName": "北門國小",
+        "StationGroupID": "300－424",
+        "StationPositionLon": 120.96712,
+        "StationPositionLat": 24.81451
+    },
+    {
+        "StationUID": "HSZ130568",
+        "StationName": "水田",
+        "StationGroupID": "300－425",
+        "StationPositionLon": 120.967961,
+        "StationPositionLat": 24.81551812
+    },
+    {
+        "StationUID": "HSZ130569",
+        "StationName": "水田尾",
+        "StationGroupID": "300－426",
+        "StationPositionLon": 120.9691432,
+        "StationPositionLat": 24.81650062
+    },
+    {
+        "StationUID": "HSZ130570",
+        "StationName": "大潤發",
+        "StationGroupID": "300－427",
+        "StationPositionLon": 120.97054,
+        "StationPositionLat": 24.81761
+    },
+    {
+        "StationUID": "HSZ130571",
+        "StationName": "湳雅",
+        "StationGroupID": "300－428",
+        "StationPositionLon": 120.97261,
+        "StationPositionLat": 24.819369
+    },
+    {
+        "StationUID": "HSZ130572",
+        "StationName": "鄭厝",
+        "StationGroupID": "300－429",
+        "StationPositionLon": 120.97467,
+        "StationPositionLat": 24.821078
+    },
+    {
+        "StationUID": "HSZ130573",
+        "StationName": "土地廟",
+        "StationGroupID": "300－430",
+        "StationPositionLon": 120.9767806,
+        "StationPositionLat": 24.82277001
+    },
+    {
+        "StationUID": "HSZ130574",
+        "StationName": "舊社",
+        "StationGroupID": "300－431",
+        "StationPositionLon": 120.9776692,
+        "StationPositionLat": 24.82323984
+    },
+    {
+        "StationUID": "HSZ130575",
+        "StationName": "莊厝",
+        "StationGroupID": "300－432",
+        "StationPositionLon": 120.98147,
+        "StationPositionLat": 24.82976
+    },
+    {
+        "StationUID": "HSZ130576",
+        "StationName": "莊厝",
+        "StationGroupID": "300－432",
+        "StationPositionLon": 120.9822183,
+        "StationPositionLat": 24.83165914
+    },
+    {
+        "StationUID": "HSZ130577",
+        "StationName": "舊社",
+        "StationGroupID": "300－431",
+        "StationPositionLon": 120.97768,
+        "StationPositionLat": 24.82334
+    },
+    {
+        "StationUID": "HSZ130578",
+        "StationName": "土地廟",
+        "StationGroupID": "300－430",
+        "StationPositionLon": 120.97685,
+        "StationPositionLat": 24.82302
+    },
+    {
+        "StationUID": "HSZ130579",
+        "StationName": "鄭厝",
+        "StationGroupID": "300－429",
+        "StationPositionLon": 120.97455,
+        "StationPositionLat": 24.82114
+    },
+    {
+        "StationUID": "HSZ130580",
+        "StationName": "湳雅",
+        "StationGroupID": "300－428",
+        "StationPositionLon": 120.9723406,
+        "StationPositionLat": 24.81939756
+    },
+    {
+        "StationUID": "HSZ130581",
+        "StationName": "大潤發",
+        "StationGroupID": "300－427",
+        "StationPositionLon": 120.9704926,
+        "StationPositionLat": 24.81781294
+    },
+    {
+        "StationUID": "HSZ130582",
+        "StationName": "水田尾",
+        "StationGroupID": "300－426",
+        "StationPositionLon": 120.96871,
+        "StationPositionLat": 24.81632
+    },
+    {
+        "StationUID": "HSZ130583",
+        "StationName": "水田",
+        "StationGroupID": "300－425",
+        "StationPositionLon": 120.96779,
+        "StationPositionLat": 24.81581
+    },
+    {
+        "StationUID": "HSZ130584",
+        "StationName": "北門國小",
+        "StationGroupID": "300－424",
+        "StationPositionLon": 120.9668284,
+        "StationPositionLat": 24.81429548
+    },
+    {
+        "StationUID": "HSZ130585",
+        "StationName": "文化中心",
+        "StationGroupID": "300－423",
+        "StationPositionLon": 120.9690059,
+        "StationPositionLat": 24.81162922
+    },
+    {
+        "StationUID": "HSZ130587",
+        "StationName": "好市多",
+        "StationGroupID": "300－434",
+        "StationPositionLon": 121.01268,
+        "StationPositionLat": 24.7942
+    },
+    {
+        "StationUID": "HSZ130588",
+        "StationName": "埔頂庄",
+        "StationGroupID": "300－435",
+        "StationPositionLon": 121.00898,
+        "StationPositionLat": 24.79463
+    },
+    {
+        "StationUID": "HSZ130589",
+        "StationName": "華夏金城",
+        "StationGroupID": "300－436",
+        "StationPositionLon": 121.00412,
+        "StationPositionLat": 24.79499
+    },
+    {
+        "StationUID": "HSZ130590",
+        "StationName": "忠貞新村",
+        "StationGroupID": "300－437",
+        "StationPositionLon": 120.99823,
+        "StationPositionLat": 24.79696
+    },
+    {
+        "StationUID": "HSZ130591",
+        "StationName": "孟竹國宅",
+        "StationGroupID": "300－438",
+        "StationPositionLon": 120.9973916,
+        "StationPositionLat": 24.79993687
+    },
+    {
+        "StationUID": "HSZ130592",
+        "StationName": "公學新城",
+        "StationGroupID": "300－439",
+        "StationPositionLon": 120.9960005,
+        "StationPositionLat": 24.80184678
+    },
+    {
+        "StationUID": "HSZ130593",
+        "StationName": "愛買1站",
+        "StationGroupID": "300－440",
+        "StationPositionLon": 120.99388,
+        "StationPositionLat": 24.802916
+    },
+    {
+        "StationUID": "HSZ130594",
+        "StationName": "愛買1站",
+        "StationGroupID": "300－441",
+        "StationPositionLon": 120.99385,
+        "StationPositionLat": 24.802779
+    },
+    {
+        "StationUID": "HSZ130595",
+        "StationName": "公學新城",
+        "StationGroupID": "300－442",
+        "StationPositionLon": 120.99615,
+        "StationPositionLat": 24.80156
+    },
+    {
+        "StationUID": "HSZ130596",
+        "StationName": "孟竹國宅",
+        "StationGroupID": "300－443",
+        "StationPositionLon": 120.99739,
+        "StationPositionLat": 24.79953
+    },
+    {
+        "StationUID": "HSZ130597",
+        "StationName": "忠貞新村",
+        "StationGroupID": "300－444",
+        "StationPositionLon": 120.99817,
+        "StationPositionLat": 24.79701
+    },
+    {
+        "StationUID": "HSZ130598",
+        "StationName": "華夏金城",
+        "StationGroupID": "300－446",
+        "StationPositionLon": 121.00447,
+        "StationPositionLat": 24.79507
+    },
+    {
+        "StationUID": "HSZ130599",
+        "StationName": "埔頂庄",
+        "StationGroupID": "300－447",
+        "StationPositionLon": 121.00902,
+        "StationPositionLat": 24.79462
+    },
+    {
+        "StationUID": "HSZ130602",
+        "StationName": "鄭氏家廟",
+        "StationGroupID": "300－325",
+        "StationPositionLon": 120.96592,
+        "StationPositionLat": 24.81009
+    },
+    {
+        "StationUID": "HSZ130603",
+        "StationName": "中正經國路口",
+        "StationGroupID": "300－326",
+        "StationPositionLon": 120.9649,
+        "StationPositionLat": 24.81163
+    },
+    {
+        "StationUID": "HSZ130618",
+        "StationName": "湳雅公園(大潤發)",
+        "StationGroupID": "300－456",
+        "StationPositionLon": 120.9695141,
+        "StationPositionLat": 24.81893843
+    },
+    {
+        "StationUID": "HSZ130619",
+        "StationName": "舊社國小",
+        "StationGroupID": "300－457",
+        "StationPositionLon": 120.97482,
+        "StationPositionLat": 24.82233
+    },
+    {
+        "StationUID": "HSZ130620",
+        "StationName": "金竹路",
+        "StationGroupID": "300－458",
+        "StationPositionLon": 120.97213,
+        "StationPositionLat": 24.82401
+    },
+    {
+        "StationUID": "HSZ130621",
+        "StationName": "長壽會館",
+        "StationGroupID": "300－459",
+        "StationPositionLon": 120.97063,
+        "StationPositionLat": 24.8235
+    },
+    {
+        "StationUID": "HSZ130622",
+        "StationName": "荷蘭村",
+        "StationGroupID": "300－460",
+        "StationPositionLon": 120.96945,
+        "StationPositionLat": 24.82203
+    },
+    {
+        "StationUID": "HSZ130623",
+        "StationName": "變電所",
+        "StationGroupID": "300－461",
+        "StationPositionLon": 120.9608391,
+        "StationPositionLat": 24.81577402
+    },
+    {
+        "StationUID": "HSZ130624",
+        "StationName": "如意新村",
+        "StationGroupID": "300－462",
+        "StationPositionLon": 120.95913,
+        "StationPositionLat": 24.81609
+    },
+    {
+        "StationUID": "HSZ130625",
+        "StationName": "成功路口",
+        "StationGroupID": "300－463",
+        "StationPositionLon": 120.9557362,
+        "StationPositionLat": 24.81492445
+    },
+    {
+        "StationUID": "HSZ130626",
+        "StationName": "沙崙",
+        "StationGroupID": "300－464",
+        "StationPositionLon": 120.9541943,
+        "StationPositionLat": 24.81278637
+    },
+    {
+        "StationUID": "HSZ130627",
+        "StationName": "文雅新村",
+        "StationGroupID": "300－465",
+        "StationPositionLon": 120.9556672,
+        "StationPositionLat": 24.81166835
+    },
+    {
+        "StationUID": "HSZ130628",
+        "StationName": "竹光3站",
+        "StationGroupID": "300－466",
+        "StationPositionLon": 120.95774,
+        "StationPositionLat": 24.81149
+    },
+    {
+        "StationUID": "HSZ130629",
+        "StationName": "竹光2站",
+        "StationGroupID": "300－467",
+        "StationPositionLon": 120.95896,
+        "StationPositionLat": 24.812668
+    },
+    {
+        "StationUID": "HSZ130630",
+        "StationName": "竹光1站",
+        "StationGroupID": "300－468",
+        "StationPositionLon": 120.96067,
+        "StationPositionLat": 24.813972
+    },
+    {
+        "StationUID": "HSZ130672",
+        "StationName": "新莊車站",
+        "StationGroupID": "300－478",
+        "StationPositionLon": 121.02145,
+        "StationPositionLat": 24.78806
+    },
+    {
+        "StationUID": "HSZ130696",
+        "StationName": "交流道口",
+        "StationGroupID": "300－308",
+        "StationPositionLon": 121.0063,
+        "StationPositionLat": 24.79906
+    },
+    {
+        "StationUID": "HSZ130697",
+        "StationName": "慈濟路口",
+        "StationGroupID": "300－307",
+        "StationPositionLon": 121.01506,
+        "StationPositionLat": 24.79342
+    },
+    {
+        "StationUID": "HSZ130698",
+        "StationName": "關埔公園",
+        "StationGroupID": "300－306",
+        "StationPositionLon": 121.01785,
+        "StationPositionLat": 24.79127
+    },
+    {
+        "StationUID": "HSZ130747",
+        "StationName": "二分局",
+        "StationGroupID": "300－318",
+        "StationPositionLon": 120.98691,
+        "StationPositionLat": 24.80349
+    },
+    {
+        "StationUID": "HSZ130841",
+        "StationName": "好市多",
+        "StationGroupID": "300－495",
+        "StationPositionLon": 121.01267,
+        "StationPositionLat": 24.79337
+    },
+    {
+        "StationUID": "HSZ130842",
+        "StationName": "好市多",
+        "StationGroupID": "300－495",
+        "StationPositionLon": 121.01324,
+        "StationPositionLat": 24.7949
+    },
+    {
+        "StationUID": "HSZ130856",
+        "StationName": "文興嘉興路口",
+        "StationGroupID": "302－129",
+        "StationPositionLon": 121.02404,
+        "StationPositionLat": 24.8127
+    },
+    {
+        "StationUID": "HSZ130857",
+        "StationName": "文興嘉興路口",
+        "StationGroupID": "302－129",
+        "StationPositionLon": 121.02377,
+        "StationPositionLat": 24.81289
+    },
+    {
+        "StationUID": "HSZ130969",
+        "StationName": "高鐵新竹站",
+        "StationGroupID": "302－131",
+        "StationPositionLon": 121.040492,
+        "StationPositionLat": 24.807182
+    },
+    {
+        "StationUID": "HSZ131787",
+        "StationName": "世博台灣館",
+        "StationGroupID": "300－496",
+        "StationPositionLon": 120.99335,
+        "StationPositionLat": 24.80494
+    },
+    {
+        "StationUID": "HSZ131788",
+        "StationName": "新光路口",
+        "StationGroupID": "300－497",
+        "StationPositionLon": 120.9906701,
+        "StationPositionLat": 24.80435304
+    },
+    {
+        "StationUID": "HSZ131805",
+        "StationName": "新光路口",
+        "StationGroupID": "300－514",
+        "StationPositionLon": 120.9904059,
+        "StationPositionLat": 24.80442444
+    },
+    {
+        "StationUID": "HSZ131806",
+        "StationName": "明烈宮",
+        "StationGroupID": "300－515",
+        "StationPositionLon": 120.9230066,
+        "StationPositionLat": 24.79287163
+    },
+    {
+        "StationUID": "HSZ131807",
+        "StationName": "瑞光街口",
+        "StationGroupID": "300－516",
+        "StationPositionLon": 120.9235666,
+        "StationPositionLat": 24.79290565
+    },
+    {
+        "StationUID": "HSZ131808",
+        "StationName": "美森街口",
+        "StationGroupID": "300－517",
+        "StationPositionLon": 120.92574,
+        "StationPositionLat": 24.7919
+    },
+    {
+        "StationUID": "HSZ131815",
+        "StationName": "香山區公所",
+        "StationGroupID": "300－524",
+        "StationPositionLon": 120.9421624,
+        "StationPositionLat": 24.79701799
+    },
+    {
+        "StationUID": "HSZ131816",
+        "StationName": "中埔里",
+        "StationGroupID": "300－525",
+        "StationPositionLon": 120.9449132,
+        "StationPositionLat": 24.79758461
+    },
+    {
+        "StationUID": "HSZ131817",
+        "StationName": "東華路",
+        "StationGroupID": "300－526",
+        "StationPositionLon": 120.9453,
+        "StationPositionLat": 24.79442
+    },
+    {
+        "StationUID": "HSZ131824",
+        "StationName": "東區區公所",
+        "StationGroupID": "300－533",
+        "StationPositionLon": 120.9731224,
+        "StationPositionLat": 24.80525696
+    },
+    {
+        "StationUID": "HSZ131825",
+        "StationName": "公園",
+        "StationGroupID": "300－534",
+        "StationPositionLon": 120.978393,
+        "StationPositionLat": 24.802153
+    },
+    {
+        "StationUID": "HSZ131828",
+        "StationName": "馬偕醫院",
+        "StationGroupID": "300－097",
+        "StationPositionLon": 120.99141,
+        "StationPositionLat": 24.80043
+    },
+    {
+        "StationUID": "HSZ131831",
+        "StationName": "馬偕醫院",
+        "StationGroupID": "300－097",
+        "StationPositionLon": 120.99131,
+        "StationPositionLat": 24.80034
+    },
+    {
+        "StationUID": "HSZ131833",
+        "StationName": "東區區公所",
+        "StationGroupID": "300－533",
+        "StationPositionLon": 120.9729964,
+        "StationPositionLat": 24.80525139
+    },
+    {
+        "StationUID": "HSZ131834",
+        "StationName": "火車站",
+        "StationGroupID": "300－532",
+        "StationPositionLon": 120.971034,
+        "StationPositionLat": 24.803483
+    },
+    {
+        "StationUID": "HSZ131840",
+        "StationName": "東華路",
+        "StationGroupID": "300－526",
+        "StationPositionLon": 120.94536,
+        "StationPositionLat": 24.79448
+    },
+    {
+        "StationUID": "HSZ131841",
+        "StationName": "中埔里",
+        "StationGroupID": "300－525",
+        "StationPositionLon": 120.9449822,
+        "StationPositionLat": 24.79755522
+    },
+    {
+        "StationUID": "HSZ131842",
+        "StationName": "香山區公所",
+        "StationGroupID": "300－524",
+        "StationPositionLon": 120.9419954,
+        "StationPositionLat": 24.7970066
+    },
+    {
+        "StationUID": "HSZ131849",
+        "StationName": "美森街口",
+        "StationGroupID": "300－517",
+        "StationPositionLon": 120.925433,
+        "StationPositionLat": 24.79222906
+    },
+    {
+        "StationUID": "HSZ131850",
+        "StationName": "瑞光街口",
+        "StationGroupID": "300－516",
+        "StationPositionLon": 120.9233252,
+        "StationPositionLat": 24.7930473
+    },
+    {
+        "StationUID": "HSZ131851",
+        "StationName": "後站(公園路口)",
+        "StationGroupID": "300－540",
+        "StationPositionLon": 120.97575,
+        "StationPositionLat": 24.80146
+    },
+    {
+        "StationUID": "HSZ131852",
+        "StationName": "體育館",
+        "StationGroupID": "300－541",
+        "StationPositionLon": 120.97969,
+        "StationPositionLat": 24.79918
+    },
+    {
+        "StationUID": "HSZ131853",
+        "StationName": "體育場",
+        "StationGroupID": "300－542",
+        "StationPositionLon": 120.98286,
+        "StationPositionLat": 24.8014
+    },
+    {
+        "StationUID": "HSZ131854",
+        "StationName": "大潤發1站",
+        "StationGroupID": "300－543",
+        "StationPositionLon": 120.98455,
+        "StationPositionLat": 24.80419
+    },
+    {
+        "StationUID": "HSZ131857",
+        "StationName": "愛買2站",
+        "StationGroupID": "300－149",
+        "StationPositionLon": 120.9934554,
+        "StationPositionLat": 24.80408078
+    },
+    {
+        "StationUID": "HSZ131858",
+        "StationName": "愛買1站",
+        "StationGroupID": "300－546",
+        "StationPositionLon": 120.9938415,
+        "StationPositionLat": 24.802746
+    },
+    {
+        "StationUID": "HSZ131862",
+        "StationName": "文教新村",
+        "StationGroupID": "300－550",
+        "StationPositionLon": 120.9995979,
+        "StationPositionLat": 24.79661747
+    },
+    {
+        "StationUID": "HSZ131863",
+        "StationName": "建功高中",
+        "StationGroupID": "300－551",
+        "StationPositionLon": 121.0007952,
+        "StationPositionLat": 24.79685103
+    },
+    {
+        "StationUID": "HSZ131865",
+        "StationName": "科學園區",
+        "StationGroupID": "300－553",
+        "StationPositionLon": 121.008331,
+        "StationPositionLat": 24.788278
+    },
+    {
+        "StationUID": "HSZ131870",
+        "StationName": "金山八街",
+        "StationGroupID": "300－558",
+        "StationPositionLon": 121.0202193,
+        "StationPositionLat": 24.77801647
+    },
+    {
+        "StationUID": "HSZ131871",
+        "StationName": "集福宮",
+        "StationGroupID": "300－559",
+        "StationPositionLon": 121.0223693,
+        "StationPositionLat": 24.77755544
+    },
+    {
+        "StationUID": "HSZ131872",
+        "StationName": "金山公園",
+        "StationGroupID": "300－560",
+        "StationPositionLon": 121.0248372,
+        "StationPositionLat": 24.77637795
+    },
+    {
+        "StationUID": "HSZ131873",
+        "StationName": "華清社區",
+        "StationGroupID": "300－561",
+        "StationPositionLon": 121.0253622,
+        "StationPositionLat": 24.77809337
+    },
+    {
+        "StationUID": "HSZ131874",
+        "StationName": "新科國中",
+        "StationGroupID": "300－562",
+        "StationPositionLon": 121.0243492,
+        "StationPositionLat": 24.7803587
+    },
+    {
+        "StationUID": "HSZ131880",
+        "StationName": "過溝",
+        "StationGroupID": "300－568",
+        "StationPositionLon": 121.002386,
+        "StationPositionLat": 24.792691
+    },
+    {
+        "StationUID": "HSZ131887",
+        "StationName": "愛買2站",
+        "StationGroupID": "300－575",
+        "StationPositionLon": 120.9935595,
+        "StationPositionLat": 24.80394113
+    },
+    {
+        "StationUID": "HSZ131890",
+        "StationName": "大潤發1站",
+        "StationGroupID": "300－578",
+        "StationPositionLon": 120.984345,
+        "StationPositionLat": 24.80421583
+    },
+    {
+        "StationUID": "HSZ131891",
+        "StationName": "體育場",
+        "StationGroupID": "300－579",
+        "StationPositionLon": 120.98273,
+        "StationPositionLat": 24.80149
+    },
+    {
+        "StationUID": "HSZ131892",
+        "StationName": "體育館",
+        "StationGroupID": "300－580",
+        "StationPositionLon": 120.97952,
+        "StationPositionLat": 24.79922
+    },
+    {
+        "StationUID": "HSZ132232",
+        "StationName": "古奇峰",
+        "StationGroupID": "300－153",
+        "StationPositionLon": 120.97922,
+        "StationPositionLat": 24.77984
+    },
+    {
+        "StationUID": "HSZ132233",
+        "StationName": "青峰路口",
+        "StationGroupID": "300－187",
+        "StationPositionLon": 120.98144,
+        "StationPositionLat": 24.77962
+    },
+    {
+        "StationUID": "HSZ132234",
+        "StationName": "土雞城",
+        "StationGroupID": "300－220",
+        "StationPositionLon": 120.98174,
+        "StationPositionLat": 24.77914
+    },
+    {
+        "StationUID": "HSZ132235",
+        "StationName": "高峰",
+        "StationGroupID": "300－221",
+        "StationPositionLon": 120.98257,
+        "StationPositionLat": 24.77807
+    },
+    {
+        "StationUID": "HSZ132236",
+        "StationName": "竹泰社區",
+        "StationGroupID": "300－304",
+        "StationPositionLon": 120.98551,
+        "StationPositionLat": 24.77878
+    },
+    {
+        "StationUID": "HSZ132237",
+        "StationName": "高翠",
+        "StationGroupID": "300－317",
+        "StationPositionLon": 120.98696,
+        "StationPositionLat": 24.78002
+    },
+    {
+        "StationUID": "HSZ132238",
+        "StationName": "下路北",
+        "StationGroupID": "300－330",
+        "StationPositionLon": 120.98806,
+        "StationPositionLat": 24.78172
+    },
+    {
+        "StationUID": "HSZ132239",
+        "StationName": "仙宮里活動中心",
+        "StationGroupID": "300－331",
+        "StationPositionLon": 120.98964,
+        "StationPositionLat": 24.78348
+    },
+    {
+        "StationUID": "HSZ132240",
+        "StationName": "仙宮里",
+        "StationGroupID": "300－340",
+        "StationPositionLon": 120.99065,
+        "StationPositionLat": 24.78462
+    },
+    {
+        "StationUID": "HSZ132241",
+        "StationName": "同步輻射中心",
+        "StationGroupID": "300－342",
+        "StationPositionLon": 120.99451,
+        "StationPositionLat": 24.78347
+    },
+    {
+        "StationUID": "HSZ132242",
+        "StationName": "陽明交大光復南門",
+        "StationGroupID": "300－433",
+        "StationPositionLon": 120.99603,
+        "StationPositionLat": 24.78361
+    },
+    {
+        "StationUID": "HSZ132243",
+        "StationName": "漢威光電",
+        "StationGroupID": "300－449",
+        "StationPositionLon": 120.99984,
+        "StationPositionLat": 24.78354
+    },
+    {
+        "StationUID": "HSZ132244",
+        "StationName": "同業公會",
+        "StationGroupID": "300－452",
+        "StationPositionLon": 121.00195,
+        "StationPositionLat": 24.78243
+    },
+    {
+        "StationUID": "HSZ132245",
+        "StationName": "新安站",
+        "StationGroupID": "300－453",
+        "StationPositionLon": 121.00449,
+        "StationPositionLat": 24.7812
+    },
+    {
+        "StationUID": "HSZ132250",
+        "StationName": "仙水",
+        "StationGroupID": "300－501",
+        "StationPositionLon": 121.01865,
+        "StationPositionLat": 24.78277
+    },
+    {
+        "StationUID": "HSZ132251",
+        "StationName": "世界高中",
+        "StationGroupID": "300－502",
+        "StationPositionLon": 121.02023,
+        "StationPositionLat": 24.78209
+    },
+    {
+        "StationUID": "HSZ132253",
+        "StationName": "新莊車站",
+        "StationGroupID": "300－506",
+        "StationPositionLon": 121.02059,
+        "StationPositionLat": 24.78793
+    },
+    {
+        "StationUID": "HSZ132291",
+        "StationName": "竹光1站",
+        "StationGroupID": "300－468",
+        "StationPositionLon": 120.96033,
+        "StationPositionLat": 24.81406
+    },
+    {
+        "StationUID": "HSZ132292",
+        "StationName": "竹光2站",
+        "StationGroupID": "300－467",
+        "StationPositionLon": 120.9593,
+        "StationPositionLat": 24.81321
+    },
+    {
+        "StationUID": "HSZ132293",
+        "StationName": "竹光3站",
+        "StationGroupID": "300－466",
+        "StationPositionLon": 120.95808,
+        "StationPositionLat": 24.81229
+    },
+    {
+        "StationUID": "HSZ132312",
+        "StationName": "聖公宮",
+        "StationGroupID": "300－509",
+        "StationPositionLon": 120.91849,
+        "StationPositionLat": 24.785483
+    },
+    {
+        "StationUID": "HSZ132661",
+        "StationName": "後站",
+        "StationGroupID": "300－658",
+        "StationPositionLon": 120.97568,
+        "StationPositionLat": 24.80152
+    },
+    {
+        "StationUID": "HSZ132662",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－650",
+        "StationPositionLon": 120.9746245,
+        "StationPositionLat": 24.8007701
+    },
+    {
+        "StationUID": "HSZ132663",
+        "StationName": "東南街口",
+        "StationGroupID": "300－665",
+        "StationPositionLon": 120.97414,
+        "StationPositionLat": 24.79755
+    },
+    {
+        "StationUID": "HSZ132664",
+        "StationName": "竹蓮國小",
+        "StationGroupID": "300－666",
+        "StationPositionLon": 120.9745727,
+        "StationPositionLat": 24.79619852
+    },
+    {
+        "StationUID": "HSZ132665",
+        "StationName": "聖經書院",
+        "StationGroupID": "300－667",
+        "StationPositionLon": 120.9733959,
+        "StationPositionLat": 24.79267053
+    },
+    {
+        "StationUID": "HSZ132666",
+        "StationName": "高峰社區",
+        "StationGroupID": "300－668",
+        "StationPositionLon": 120.9754863,
+        "StationPositionLat": 24.79135781
+    },
+    {
+        "StationUID": "HSZ132667",
+        "StationName": "高峰植物園",
+        "StationGroupID": "300－669",
+        "StationPositionLon": 120.98204,
+        "StationPositionLat": 24.78839
+    },
+    {
+        "StationUID": "HSZ132668",
+        "StationName": "雞蛋面",
+        "StationGroupID": "300－670",
+        "StationPositionLon": 120.98641,
+        "StationPositionLat": 24.78706
+    },
+    {
+        "StationUID": "HSZ132669",
+        "StationName": "仙宮里活動中心",
+        "StationGroupID": "300－671",
+        "StationPositionLon": 120.98977,
+        "StationPositionLat": 24.78374
+    },
+    {
+        "StationUID": "HSZ132670",
+        "StationName": "下路北",
+        "StationGroupID": "300－672",
+        "StationPositionLon": 120.98783,
+        "StationPositionLat": 24.78171
+    },
+    {
+        "StationUID": "HSZ132671",
+        "StationName": "高翠",
+        "StationGroupID": "300－673",
+        "StationPositionLon": 120.98713,
+        "StationPositionLat": 24.78032
+    },
+    {
+        "StationUID": "HSZ132672",
+        "StationName": "竹泰社區",
+        "StationGroupID": "300－674",
+        "StationPositionLon": 120.98534,
+        "StationPositionLat": 24.77883
+    },
+    {
+        "StationUID": "HSZ132673",
+        "StationName": "高峰",
+        "StationGroupID": "300－675",
+        "StationPositionLon": 120.98307,
+        "StationPositionLat": 24.77763
+    },
+    {
+        "StationUID": "HSZ132674",
+        "StationName": "土雞城",
+        "StationGroupID": "300－676",
+        "StationPositionLon": 120.98229,
+        "StationPositionLat": 24.77855
+    },
+    {
+        "StationUID": "HSZ132675",
+        "StationName": "青峰路口",
+        "StationGroupID": "300－677",
+        "StationPositionLon": 120.98144,
+        "StationPositionLat": 24.77958
+    },
+    {
+        "StationUID": "HSZ132676",
+        "StationName": "普天宮",
+        "StationGroupID": "300－678",
+        "StationPositionLon": 120.98062,
+        "StationPositionLat": 24.78115
+    },
+    {
+        "StationUID": "HSZ132677",
+        "StationName": "財神廟",
+        "StationGroupID": "300－679",
+        "StationPositionLon": 120.97674,
+        "StationPositionLat": 24.78611
+    },
+    {
+        "StationUID": "HSZ132686",
+        "StationName": "雞蛋面",
+        "StationGroupID": "300－670",
+        "StationPositionLon": 120.98592,
+        "StationPositionLat": 24.78739
+    },
+    {
+        "StationUID": "HSZ132687",
+        "StationName": "高峰植物園",
+        "StationGroupID": "300－669",
+        "StationPositionLon": 120.98193,
+        "StationPositionLat": 24.78865
+    },
+    {
+        "StationUID": "HSZ132689",
+        "StationName": "聖經書院",
+        "StationGroupID": "300－667",
+        "StationPositionLon": 120.973449,
+        "StationPositionLat": 24.7927964
+    },
+    {
+        "StationUID": "HSZ132690",
+        "StationName": "竹蓮國小",
+        "StationGroupID": "300－666",
+        "StationPositionLon": 120.9747085,
+        "StationPositionLat": 24.79608207
+    },
+    {
+        "StationUID": "HSZ132691",
+        "StationName": "東南街口",
+        "StationGroupID": "300－665",
+        "StationPositionLon": 120.97405,
+        "StationPositionLat": 24.79752
+    },
+    {
+        "StationUID": "HSZ132692",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－650",
+        "StationPositionLon": 120.9744721,
+        "StationPositionLat": 24.80046252
+    },
+    {
+        "StationUID": "HSZ132693",
+        "StationName": "後站",
+        "StationGroupID": "300－658",
+        "StationPositionLon": 120.9758,
+        "StationPositionLat": 24.80141
+    },
+    {
+        "StationUID": "HSZ132694",
+        "StationName": "大潤發2站",
+        "StationGroupID": "300－647",
+        "StationPositionLon": 120.98412,
+        "StationPositionLat": 24.80612
+    },
+    {
+        "StationUID": "HSZ132697",
+        "StationName": "後站(公園路口)",
+        "StationGroupID": "300－680",
+        "StationPositionLon": 120.975777900629,
+        "StationPositionLat": 24.8014274768401
+    },
+    {
+        "StationUID": "HSZ132698",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－649",
+        "StationPositionLon": 120.973903,
+        "StationPositionLat": 24.800232
+    },
+    {
+        "StationUID": "HSZ132699",
+        "StationName": "東南街口",
+        "StationGroupID": "300－683",
+        "StationPositionLon": 120.97261,
+        "StationPositionLat": 24.79945
+    },
+    {
+        "StationUID": "HSZ132700",
+        "StationName": "竹蓮街",
+        "StationGroupID": "300－686",
+        "StationPositionLon": 120.970085860118,
+        "StationPositionLat": 24.7978793881934
+    },
+    {
+        "StationUID": "HSZ132701",
+        "StationName": "西大路口",
+        "StationGroupID": "300－687",
+        "StationPositionLon": 120.968576588954,
+        "StationPositionLat": 24.7969316465886
+    },
+    {
+        "StationUID": "HSZ132702",
+        "StationName": "新竹國小",
+        "StationGroupID": "300－688",
+        "StationPositionLon": 120.96593895568,
+        "StationPositionLat": 24.7953470574137
+    },
+    {
+        "StationUID": "HSZ132703",
+        "StationName": "清大南大校區",
+        "StationGroupID": "300－741",
+        "StationPositionLon": 120.963936046627,
+        "StationPositionLat": 24.7940248272816
+    },
+    {
+        "StationUID": "HSZ132704",
+        "StationName": "忠孝社區",
+        "StationGroupID": "300－691",
+        "StationPositionLon": 120.9640796,
+        "StationPositionLat": 24.79141227
+    },
+    {
+        "StationUID": "HSZ132705",
+        "StationName": "育賢國中",
+        "StationGroupID": "300－693",
+        "StationPositionLon": 120.966071,
+        "StationPositionLat": 24.789337
+    },
+    {
+        "StationUID": "HSZ132706",
+        "StationName": "南光新村",
+        "StationGroupID": "300－695",
+        "StationPositionLon": 120.967443703041,
+        "StationPositionLat": 24.787182447132
+    },
+    {
+        "StationUID": "HSZ132707",
+        "StationName": "御史崎",
+        "StationGroupID": "300－697",
+        "StationPositionLon": 120.967514169311,
+        "StationPositionLat": 24.7851323349623
+    },
+    {
+        "StationUID": "HSZ132708",
+        "StationName": "中興橋",
+        "StationGroupID": "300－699",
+        "StationPositionLon": 120.967161982803,
+        "StationPositionLat": 24.782730518498
+    },
+    {
+        "StationUID": "HSZ132709",
+        "StationName": "客運補習班",
+        "StationGroupID": "300－701",
+        "StationPositionLon": 120.967219533729,
+        "StationPositionLat": 24.7802739895816
+    },
+    {
+        "StationUID": "HSZ132710",
+        "StationName": "景湖別墅",
+        "StationGroupID": "300－703",
+        "StationPositionLon": 120.967322186508,
+        "StationPositionLat": 24.7770645057507
+    },
+    {
+        "StationUID": "HSZ132711",
+        "StationName": "柴橋",
+        "StationGroupID": "300－705",
+        "StationPositionLon": 120.966449504299,
+        "StationPositionLat": 24.7736460549254
+    },
+    {
+        "StationUID": "HSZ132712",
+        "StationName": "美麗家園",
+        "StationGroupID": "300－713",
+        "StationPositionLon": 120.968146355819,
+        "StationPositionLat": 24.7716132105364
+    },
+    {
+        "StationUID": "HSZ132713",
+        "StationName": "黃帝神宮",
+        "StationGroupID": "300－714",
+        "StationPositionLon": 120.971184635581,
+        "StationPositionLat": 24.7710369375012
+    },
+    {
+        "StationUID": "HSZ132714",
+        "StationName": "青草湖",
+        "StationGroupID": "300－715",
+        "StationPositionLon": 120.973185131282,
+        "StationPositionLat": 24.7706651291508
+    },
+    {
+        "StationUID": "HSZ132715",
+        "StationName": "亞美佳社區",
+        "StationGroupID": "300－716",
+        "StationPositionLon": 120.977220063476,
+        "StationPositionLat": 24.7689405416287
+    },
+    {
+        "StationUID": "HSZ132716",
+        "StationName": "花園新城",
+        "StationGroupID": "300－717",
+        "StationPositionLon": 120.978965889549,
+        "StationPositionLat": 24.7675637257848
+    },
+    {
+        "StationUID": "HSZ132717",
+        "StationName": "花園新城",
+        "StationGroupID": "300－717",
+        "StationPositionLon": 120.978727698078,
+        "StationPositionLat": 24.7679081610114
+    },
+    {
+        "StationUID": "HSZ132718",
+        "StationName": "亞美佳社區",
+        "StationGroupID": "300－716",
+        "StationPositionLon": 120.97729367361,
+        "StationPositionLat": 24.7690255335834
+    },
+    {
+        "StationUID": "HSZ132719",
+        "StationName": "青草湖",
+        "StationGroupID": "300－715",
+        "StationPositionLon": 120.973243906745,
+        "StationPositionLat": 24.7707325831056
+    },
+    {
+        "StationUID": "HSZ132720",
+        "StationName": "黃帝神宮",
+        "StationGroupID": "300－714",
+        "StationPositionLon": 120.97115046627,
+        "StationPositionLat": 24.771143210435
+    },
+    {
+        "StationUID": "HSZ132721",
+        "StationName": "美麗家園",
+        "StationGroupID": "300－713",
+        "StationPositionLon": 120.968081457672,
+        "StationPositionLat": 24.7717671963249
+    },
+    {
+        "StationUID": "HSZ132722",
+        "StationName": "柴橋",
+        "StationGroupID": "300－705",
+        "StationPositionLon": 120.9664957,
+        "StationPositionLat": 24.7735173
+    },
+    {
+        "StationUID": "HSZ132723",
+        "StationName": "景湖別墅",
+        "StationGroupID": "300－703",
+        "StationPositionLon": 120.96736682209,
+        "StationPositionLat": 24.7772282647205
+    },
+    {
+        "StationUID": "HSZ132724",
+        "StationName": "客運補習班",
+        "StationGroupID": "300－701",
+        "StationPositionLon": 120.967237784061,
+        "StationPositionLat": 24.7804156476688
+    },
+    {
+        "StationUID": "HSZ132725",
+        "StationName": "中興橋",
+        "StationGroupID": "300－699",
+        "StationPositionLon": 120.967284228172,
+        "StationPositionLat": 24.7827189277071
+    },
+    {
+        "StationUID": "HSZ132726",
+        "StationName": "御史崎",
+        "StationGroupID": "300－697",
+        "StationPositionLon": 120.967640203704,
+        "StationPositionLat": 24.785379310481
+    },
+    {
+        "StationUID": "HSZ132727",
+        "StationName": "南光新村",
+        "StationGroupID": "300－695",
+        "StationPositionLon": 120.967548017196,
+        "StationPositionLat": 24.787234610598
+    },
+    {
+        "StationUID": "HSZ132728",
+        "StationName": "育賢國中",
+        "StationGroupID": "300－693",
+        "StationPositionLon": 120.965793148479,
+        "StationPositionLat": 24.7897743504992
+    },
+    {
+        "StationUID": "HSZ132729",
+        "StationName": "忠孝社區",
+        "StationGroupID": "300－691",
+        "StationPositionLon": 120.9641762,
+        "StationPositionLat": 24.79150115
+    },
+    {
+        "StationUID": "HSZ132730",
+        "StationName": "清大南大校區",
+        "StationGroupID": "300－741",
+        "StationPositionLon": 120.963514,
+        "StationPositionLat": 24.79364
+    },
+    {
+        "StationUID": "HSZ132731",
+        "StationName": "新竹國小",
+        "StationGroupID": "300－688",
+        "StationPositionLon": 120.967016063823,
+        "StationPositionLat": 24.7958859866687
+    },
+    {
+        "StationUID": "HSZ132732",
+        "StationName": "西大路口",
+        "StationGroupID": "300－687",
+        "StationPositionLon": 120.968603061342,
+        "StationPositionLat": 24.796885643678
+    },
+    {
+        "StationUID": "HSZ132733",
+        "StationName": "竹蓮街",
+        "StationGroupID": "300－686",
+        "StationPositionLon": 120.969530233135,
+        "StationPositionLat": 24.7974145962166
+    },
+    {
+        "StationUID": "HSZ132734",
+        "StationName": "東南街口",
+        "StationGroupID": "300－683",
+        "StationPositionLon": 120.972656326389,
+        "StationPositionLat": 24.799351473527
+    },
+    {
+        "StationUID": "HSZ132735",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－649",
+        "StationPositionLon": 120.974456,
+        "StationPositionLat": 24.80051
+    },
+    {
+        "StationUID": "HSZ132736",
+        "StationName": "後站(公園路口)",
+        "StationGroupID": "300－680",
+        "StationPositionLon": 120.975793294477,
+        "StationPositionLat": 24.8013442598088
+    },
+    {
+        "StationUID": "HSZ132739",
+        "StationName": "大潤發2站",
+        "StationGroupID": "300－647",
+        "StationPositionLon": 120.983924,
+        "StationPositionLat": 24.805897
+    },
+    {
+        "StationUID": "HSZ132769",
+        "StationName": "經國路口",
+        "StationGroupID": "300－603",
+        "StationPositionLon": 120.99453,
+        "StationPositionLat": 24.81766
+    },
+    {
+        "StationUID": "HSZ132771",
+        "StationName": "前溪社區",
+        "StationGroupID": "300－601",
+        "StationPositionLon": 120.98657,
+        "StationPositionLat": 24.81521
+    },
+    {
+        "StationUID": "HSZ132774",
+        "StationName": "溪埔",
+        "StationGroupID": "300－600",
+        "StationPositionLon": 120.98987,
+        "StationPositionLat": 24.81527
+    },
+    {
+        "StationUID": "HSZ132791",
+        "StationName": "香山高中",
+        "StationGroupID": "300－612",
+        "StationPositionLon": 120.93081,
+        "StationPositionLat": 24.785
+    },
+    {
+        "StationUID": "HSZ132800",
+        "StationName": "茄苳湖",
+        "StationGroupID": "300－608",
+        "StationPositionLon": 120.94767,
+        "StationPositionLat": 24.75794
+    },
+    {
+        "StationUID": "HSZ132806",
+        "StationName": "獅頭橋",
+        "StationGroupID": "300－646",
+        "StationPositionLon": 120.94392,
+        "StationPositionLat": 24.77622
+    },
+    {
+        "StationUID": "HSZ132830",
+        "StationName": "香山坑",
+        "StationGroupID": "300－645",
+        "StationPositionLon": 120.93817,
+        "StationPositionLat": 24.77845
+    },
+    {
+        "StationUID": "HSZ132832",
+        "StationName": "獅頭橋",
+        "StationGroupID": "000－000",
+        "StationPositionLon": 120.94353,
+        "StationPositionLat": 24.776184
+    },
+    {
+        "StationUID": "HSZ132989",
+        "StationName": "後站(公園路口)",
+        "StationGroupID": "300－681",
+        "StationPositionLon": 120.97568,
+        "StationPositionLat": 24.80152
+    },
+    {
+        "StationUID": "HSZ132990",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－651",
+        "StationPositionLon": 120.973903,
+        "StationPositionLat": 24.800232
+    },
+    {
+        "StationUID": "HSZ132991",
+        "StationName": "東南街口",
+        "StationGroupID": "300－633",
+        "StationPositionLon": 120.97261,
+        "StationPositionLat": 24.79945
+    },
+    {
+        "StationUID": "HSZ132992",
+        "StationName": "竹蓮街",
+        "StationGroupID": "300－632",
+        "StationPositionLon": 120.97011,
+        "StationPositionLat": 24.79795
+    },
+    {
+        "StationUID": "HSZ132993",
+        "StationName": "西大路口",
+        "StationGroupID": "300－630",
+        "StationPositionLon": 120.96859,
+        "StationPositionLat": 24.79704
+    },
+    {
+        "StationUID": "HSZ132994",
+        "StationName": "新竹國小",
+        "StationGroupID": "300－629",
+        "StationPositionLon": 120.96503,
+        "StationPositionLat": 24.79487
+    },
+    {
+        "StationUID": "HSZ132996",
+        "StationName": "忠孝社區",
+        "StationGroupID": "300－692",
+        "StationPositionLon": 120.96599,
+        "StationPositionLat": 24.78955
+    },
+    {
+        "StationUID": "HSZ132997",
+        "StationName": "育賢國中",
+        "StationGroupID": "300－694",
+        "StationPositionLon": 120.966071,
+        "StationPositionLat": 24.789337
+    },
+    {
+        "StationUID": "HSZ132998",
+        "StationName": "南光新村",
+        "StationGroupID": "300－696",
+        "StationPositionLon": 120.96761,
+        "StationPositionLat": 24.78521
+    },
+    {
+        "StationUID": "HSZ132999",
+        "StationName": "御史崎",
+        "StationGroupID": "300－698",
+        "StationPositionLon": 120.9676,
+        "StationPositionLat": 24.78522
+    },
+    {
+        "StationUID": "HSZ133000",
+        "StationName": "中興橋",
+        "StationGroupID": "300－700",
+        "StationPositionLon": 120.967184781579,
+        "StationPositionLat": 24.7827378240616
+    },
+    {
+        "StationUID": "HSZ133001",
+        "StationName": "客運補習班",
+        "StationGroupID": "300－702",
+        "StationPositionLon": 120.9673,
+        "StationPositionLat": 24.78033
+    },
+    {
+        "StationUID": "HSZ133002",
+        "StationName": "景湖別墅",
+        "StationGroupID": "300－704",
+        "StationPositionLon": 120.96729,
+        "StationPositionLat": 24.77714
+    },
+    {
+        "StationUID": "HSZ133003",
+        "StationName": "柴橋",
+        "StationGroupID": "300－706",
+        "StationPositionLon": 120.96642,
+        "StationPositionLat": 24.77001
+    },
+    {
+        "StationUID": "HSZ133004",
+        "StationName": "深湖",
+        "StationGroupID": "300－707",
+        "StationPositionLon": 120.96642,
+        "StationPositionLat": 24.77001
+    },
+    {
+        "StationUID": "HSZ133005",
+        "StationName": "富群街口",
+        "StationGroupID": "300－708",
+        "StationPositionLon": 120.96084,
+        "StationPositionLat": 24.76747
+    },
+    {
+        "StationUID": "HSZ133006",
+        "StationName": "富群花園",
+        "StationGroupID": "300－709",
+        "StationPositionLon": 120.9582,
+        "StationPositionLat": 24.76878
+    },
+    {
+        "StationUID": "HSZ133007",
+        "StationName": "日月光飯店",
+        "StationGroupID": "300－710",
+        "StationPositionLon": 120.95681,
+        "StationPositionLat": 24.76935
+    },
+    {
+        "StationUID": "HSZ133008",
+        "StationName": "觀日大地",
+        "StationGroupID": "300－711",
+        "StationPositionLon": 120.96102,
+        "StationPositionLat": 24.77693
+    },
+    {
+        "StationUID": "HSZ133009",
+        "StationName": "陽明清境",
+        "StationGroupID": "300－712",
+        "StationPositionLon": 120.9596,
+        "StationPositionLat": 24.77945
+    },
+    {
+        "StationUID": "HSZ133010",
+        "StationName": "陽明清境",
+        "StationGroupID": "300－712",
+        "StationPositionLon": 120.95977,
+        "StationPositionLat": 24.77926
+    },
+    {
+        "StationUID": "HSZ133011",
+        "StationName": "觀日大地",
+        "StationGroupID": "300－711",
+        "StationPositionLon": 120.96102,
+        "StationPositionLat": 24.77688
+    },
+    {
+        "StationUID": "HSZ133012",
+        "StationName": "富群街口",
+        "StationGroupID": "300－708",
+        "StationPositionLon": 120.96073,
+        "StationPositionLat": 24.76743
+    },
+    {
+        "StationUID": "HSZ133013",
+        "StationName": "深湖",
+        "StationGroupID": "300－707",
+        "StationPositionLon": 120.96591,
+        "StationPositionLat": 24.77046
+    },
+    {
+        "StationUID": "HSZ133014",
+        "StationName": "柴橋",
+        "StationGroupID": "300－706",
+        "StationPositionLon": 120.9664957,
+        "StationPositionLat": 24.7735173
+    },
+    {
+        "StationUID": "HSZ133015",
+        "StationName": "景湖別墅",
+        "StationGroupID": "300－704",
+        "StationPositionLon": 120.96734,
+        "StationPositionLat": 24.77721
+    },
+    {
+        "StationUID": "HSZ133016",
+        "StationName": "客運補習班",
+        "StationGroupID": "300－702",
+        "StationPositionLon": 120.96716,
+        "StationPositionLat": 24.78044
+    },
+    {
+        "StationUID": "HSZ133017",
+        "StationName": "中興橋",
+        "StationGroupID": "300－700",
+        "StationPositionLon": 120.967274,
+        "StationPositionLat": 24.782734
+    },
+    {
+        "StationUID": "HSZ133018",
+        "StationName": "御史崎",
+        "StationGroupID": "300－698",
+        "StationPositionLon": 120.96749,
+        "StationPositionLat": 24.78723
+    },
+    {
+        "StationUID": "HSZ133019",
+        "StationName": "南光新村",
+        "StationGroupID": "300－696",
+        "StationPositionLon": 120.96743,
+        "StationPositionLat": 24.78722
+    },
+    {
+        "StationUID": "HSZ133020",
+        "StationName": "育賢國中",
+        "StationGroupID": "300－694",
+        "StationPositionLon": 120.96571,
+        "StationPositionLat": 24.78975
+    },
+    {
+        "StationUID": "HSZ133021",
+        "StationName": "忠孝社區",
+        "StationGroupID": "300－692",
+        "StationPositionLon": 120.96409,
+        "StationPositionLat": 24.79149
+    },
+    {
+        "StationUID": "HSZ133023",
+        "StationName": "新竹國小",
+        "StationGroupID": "300－629",
+        "StationPositionLon": 120.96689,
+        "StationPositionLat": 24.79611
+    },
+    {
+        "StationUID": "HSZ133024",
+        "StationName": "西大路口",
+        "StationGroupID": "300－630",
+        "StationPositionLon": 120.96865,
+        "StationPositionLat": 24.79705
+    },
+    {
+        "StationUID": "HSZ133025",
+        "StationName": "竹蓮街",
+        "StationGroupID": "300－632",
+        "StationPositionLon": 120.96949,
+        "StationPositionLat": 24.79768
+    },
+    {
+        "StationUID": "HSZ133026",
+        "StationName": "東南街口",
+        "StationGroupID": "300－633",
+        "StationPositionLon": 120.9726,
+        "StationPositionLat": 24.7995
+    },
+    {
+        "StationUID": "HSZ133027",
+        "StationName": "警察宿舍",
+        "StationGroupID": "300－651",
+        "StationPositionLon": 120.974456,
+        "StationPositionLat": 24.80051
+    },
+    {
+        "StationUID": "HSZ133028",
+        "StationName": "後站(公園路口)",
+        "StationGroupID": "300－681",
+        "StationPositionLon": 120.9758,
+        "StationPositionLat": 24.80141
+    },
+    {
+        "StationUID": "HSZ133052",
+        "StationName": "二分局",
+        "StationGroupID": "300－593",
+        "StationPositionLon": 120.98551,
+        "StationPositionLat": 24.80157
+    },
+    {
+        "StationUID": "HSZ133840",
+        "StationName": "北大橋",
+        "StationGroupID": "300－275",
+        "StationPositionLon": 120.96848,
+        "StationPositionLat": 24.80984
+    },
+    {
+        "StationUID": "HSZ133841",
+        "StationName": "地方法院",
+        "StationGroupID": "300－273",
+        "StationPositionLon": 120.96778,
+        "StationPositionLat": 24.80757
+    },
+    {
+        "StationUID": "HSZ133843",
+        "StationName": "二分局",
+        "StationGroupID": "300－593",
+        "StationPositionLon": 120.9859,
+        "StationPositionLat": 24.80127
+    },
+    {
+        "StationUID": "HSZ133848",
+        "StationName": "慈雲埔頂二路口",
+        "StationGroupID": "300－592",
+        "StationPositionLon": 121.0121,
+        "StationPositionLat": 24.7909
+    },
+    {
+        "StationUID": "HSZ133849",
+        "StationName": "慈雲埔頂二路口",
+        "StationGroupID": "300－592",
+        "StationPositionLon": 121.01186,
+        "StationPositionLat": 24.79111
+    },
+    {
+        "StationUID": "HSZ133850",
+        "StationName": "文教新村",
+        "StationGroupID": "300－262",
+        "StationPositionLon": 120.99878,
+        "StationPositionLat": 24.79542
+    },
+    {
+        "StationUID": "HSZ133851",
+        "StationName": "新瓦屋(文興路)",
+        "StationGroupID": "302－215",
+        "StationPositionLon": 121.02693,
+        "StationPositionLat": 24.81115
+    },
+    {
+        "StationUID": "HSZ133852",
+        "StationName": "新瓦屋(文興路)",
+        "StationGroupID": "302－215",
+        "StationPositionLon": 121.03195,
+        "StationPositionLat": 24.80953
+    },
+    {
+        "StationUID": "HSZ133853",
+        "StationName": "哈洛德(嘉豐十一路)",
+        "StationGroupID": "302－216",
+        "StationPositionLon": 121.035722,
+        "StationPositionLat": 24.808466
+    },
+    {
+        "StationUID": "HSZ133854",
+        "StationName": "哈洛德(文興路)",
+        "StationGroupID": "302－216",
+        "StationPositionLon": 121.03477,
+        "StationPositionLat": 24.8078
+    },
+    {
+        "StationUID": "HSZ133856",
+        "StationName": "文興嘉豐南路口",
+        "StationGroupID": "302－214",
+        "StationPositionLon": 121.03186,
+        "StationPositionLat": 24.80876
+    },
+    {
+        "StationUID": "HSZ133857",
+        "StationName": "文興嘉豐南路口",
+        "StationGroupID": "302－214",
+        "StationPositionLon": 121.03214,
+        "StationPositionLat": 24.808771
+    },
+    {
+        "StationUID": "HSZ135381",
+        "StationName": "經國路口",
+        "StationGroupID": "300－603",
+        "StationPositionLon": 120.99384,
+        "StationPositionLat": 24.81648
+    },
+    {
+        "StationUID": "HSZ135382",
+        "StationName": "溪埔",
+        "StationGroupID": "300－600",
+        "StationPositionLon": 120.98982,
+        "StationPositionLat": 24.81539
+    },
+    {
+        "StationUID": "HSZ135383",
+        "StationName": "前溪社區",
+        "StationGroupID": "300－601",
+        "StationPositionLon": 120.98695,
+        "StationPositionLat": 24.81514
+    },
+    {
+        "StationUID": "HSZ135384",
+        "StationName": "自由經國路口",
+        "StationGroupID": "300－602",
+        "StationPositionLon": 120.97989,
+        "StationPositionLat": 24.81407
+    },
+    {
+        "StationUID": "HSZ135385",
+        "StationName": "自由經國路口",
+        "StationGroupID": "300－602",
+        "StationPositionLon": 120.98008,
+        "StationPositionLat": 24.81405
+    },
+    {
+        "StationUID": "HSZ135386",
+        "StationName": "三民國中",
+        "StationGroupID": "300－321",
+        "StationPositionLon": 120.97955,
+        "StationPositionLat": 24.81141
+    },
+    {
+        "StationUID": "HSZ135387",
+        "StationName": "巨城購物",
+        "StationGroupID": "300－322",
+        "StationPositionLon": 120.97569,
+        "StationPositionLat": 24.80922
+    },
+    {
+        "StationUID": "HSZ135388",
+        "StationName": "美術館",
+        "StationGroupID": "300－323",
+        "StationPositionLon": 120.96984,
+        "StationPositionLat": 24.80638
+    },
+    {
+        "StationUID": "HSZ135391",
+        "StationName": "新竹車站",
+        "StationGroupID": "300－598",
+        "StationPositionLon": 120.97139,
+        "StationPositionLat": 24.80243
+    },
+    {
+        "StationUID": "HSZ135392",
+        "StationName": "新竹車站",
+        "StationGroupID": "300－598",
+        "StationPositionLon": 120.97107,
+        "StationPositionLat": 24.80377
+    },
+    {
+        "StationUID": "HSZ135393",
+        "StationName": "新竹下站",
+        "StationGroupID": "300－604",
+        "StationPositionLon": 120.96925,
+        "StationPositionLat": 24.80067
+    },
+    {
+        "StationUID": "HSZ135394",
+        "StationName": "新竹下站",
+        "StationGroupID": "300－604",
+        "StationPositionLon": 120.96938,
+        "StationPositionLat": 24.80047
+    },
+    {
+        "StationUID": "HSZ135396",
+        "StationName": "金正順診所",
+        "StationGroupID": "300－605",
+        "StationPositionLon": 120.931801,
+        "StationPositionLat": 24.789453
+    },
+    {
+        "StationUID": "HSZ135397",
+        "StationName": "金正順診所",
+        "StationGroupID": "300－605",
+        "StationPositionLon": 120.93201,
+        "StationPositionLat": 24.78944
+    },
+    {
+        "StationUID": "HSZ135398",
+        "StationName": "三姓橋火車站",
+        "StationGroupID": "300－606",
+        "StationPositionLon": 120.92926,
+        "StationPositionLat": 24.78633
+    },
+    {
+        "StationUID": "HSZ135399",
+        "StationName": "三姓橋火車站",
+        "StationGroupID": "300－606",
+        "StationPositionLon": 120.92948,
+        "StationPositionLat": 24.78656
+    },
+    {
+        "StationUID": "HSZ135400",
+        "StationName": "香山高中",
+        "StationGroupID": "300－612",
+        "StationPositionLon": 120.9306,
+        "StationPositionLat": 24.78518
+    },
+    {
+        "StationUID": "HSZ135401",
+        "StationName": "韭菜坑",
+        "StationGroupID": "300－607",
+        "StationPositionLon": 120.94722,
+        "StationPositionLat": 24.76978
+    },
+    {
+        "StationUID": "HSZ135402",
+        "StationName": "韭菜坑",
+        "StationGroupID": "300－607",
+        "StationPositionLon": 120.94731,
+        "StationPositionLat": 24.76978
+    },
+    {
+        "StationUID": "HSZ135403",
+        "StationName": "茄苳湖",
+        "StationGroupID": "300－608",
+        "StationPositionLon": 120.9482,
+        "StationPositionLat": 24.75783
+    },
+    {
+        "StationUID": "HSZ135404",
+        "StationName": "中華大學宿舍",
+        "StationGroupID": "300－609",
+        "StationPositionLon": 120.95015,
+        "StationPositionLat": 24.7579
+    },
+    {
+        "StationUID": "HSZ135405",
+        "StationName": "中華大學宿舍",
+        "StationGroupID": "300－609",
+        "StationPositionLon": 120.95015,
+        "StationPositionLat": 24.7579
+    },
+    {
+        "StationUID": "HSZ135407",
+        "StationName": "香山轉運站",
+        "StationGroupID": "300－610",
+        "StationPositionLon": 120.95331,
+        "StationPositionLat": 24.75611
+    },
+    {
+        "StationUID": "HSZ136095",
+        "StationName": "龍山里",
+        "StationGroupID": "300－625",
+        "StationPositionLon": 121.011831,
+        "StationPositionLat": 24.789028
+    },
+    {
+        "StationUID": "HSZ136269",
+        "StationName": "東香南街口",
+        "StationGroupID": "300－626",
+        "StationPositionLon": 120.949791,
+        "StationPositionLat": 24.7620792
+    },
+    {
+        "StationUID": "HSZ136270",
+        "StationName": "東香南街口",
+        "StationGroupID": "300－626",
+        "StationPositionLon": 120.949913,
+        "StationPositionLat": 24.7620068
+    },
+    {
+        "StationUID": "HSZ136360",
+        "StationName": "成德路",
+        "StationGroupID": "300－627",
+        "StationPositionLon": 120.95795,
+        "StationPositionLat": 24.79428
+    },
+    {
+        "StationUID": "HSZ136362",
+        "StationName": "成德路",
+        "StationGroupID": "300－627",
+        "StationPositionLon": 120.95817,
+        "StationPositionLat": 24.79425
+    },
+    {
+        "StationUID": "HSZ136405",
+        "StationName": "榕樹下",
+        "StationGroupID": "300－638",
+        "StationPositionLon": 120.94481,
+        "StationPositionLat": 24.77227
+    },
+    {
+        "StationUID": "HSZ136406",
+        "StationName": "榕樹下",
+        "StationGroupID": "300－638",
+        "StationPositionLon": 120.94478,
+        "StationPositionLat": 24.77261
+    },
+    {
+        "StationUID": "HSZ136417",
+        "StationName": "大庄里活動中心",
+        "StationGroupID": "300－642",
+        "StationPositionLon": 120.9209036,
+        "StationPositionLat": 24.79292674
+    },
+    {
+        "StationUID": "HSZ136418",
+        "StationName": "大庄里活動中心",
+        "StationGroupID": "300－642",
+        "StationPositionLon": 120.920968,
+        "StationPositionLat": 24.7929866
+    },
+    {
+        "StationUID": "HSZ136442",
+        "StationName": "香山坑",
+        "StationGroupID": "300－645",
+        "StationPositionLon": 120.9382,
+        "StationPositionLat": 24.77847
+    },
+    {
+        "StationUID": "HSZ136452",
+        "StationName": "仙宮里",
+        "StationGroupID": "300－340",
+        "StationPositionLon": 120.990582,
+        "StationPositionLat": 24.784273
+    },
+    {
+        "StationUID": "HSZ136534",
+        "StationName": "獅頭橋",
+        "StationGroupID": "300－646",
+        "StationPositionLon": 120.94333,
+        "StationPositionLat": 24.77628
+    },
+    {
+        "StationUID": "HSZ136596",
+        "StationName": "老人大學",
+        "StationGroupID": "300－263",
+        "StationPositionLon": 120.97889,
+        "StationPositionLat": 24.80255
+    },
+    {
+        "StationUID": "HSZ137273",
+        "StationName": "新竹轉運站",
+        "StationGroupID": "300－648",
+        "StationPositionLon": 120.972854,
+        "StationPositionLat": 24.801228
+    },
+    {
+        "StationUID": "HSZ137274",
+        "StationName": "新竹轉運站",
+        "StationGroupID": "300－648",
+        "StationPositionLon": 120.972854,
+        "StationPositionLat": 24.801228
+    },
+    {
+        "StationUID": "HSZ137568",
+        "StationName": "經國北大路口",
+        "StationGroupID": "300－228",
+        "StationPositionLon": 120.97478,
+        "StationPositionLat": 24.81288
+    },
+    {
+        "StationUID": "HSZ137585",
+        "StationName": "磐石高中",
+        "StationGroupID": "300－653",
+        "StationPositionLon": 120.95614,
+        "StationPositionLat": 24.81042
+    },
+    {
+        "StationUID": "HSZ137586",
+        "StationName": "竹光國中",
+        "StationGroupID": "300－654",
+        "StationPositionLon": 120.95562,
+        "StationPositionLat": 24.80756
+    },
+    {
+        "StationUID": "HSZ137587",
+        "StationName": "竹光國中",
+        "StationGroupID": "300－654",
+        "StationPositionLon": 120.95585,
+        "StationPositionLat": 24.80764
+    },
+    {
+        "StationUID": "HSZ137588",
+        "StationName": "經國西大路口",
+        "StationGroupID": "300－655",
+        "StationPositionLon": 120.95933,
+        "StationPositionLat": 24.80848
+    },
+    {
+        "StationUID": "HSZ137589",
+        "StationName": "經國西大路口",
+        "StationGroupID": "300－655",
+        "StationPositionLon": 120.95917,
+        "StationPositionLat": 24.80868
+    },
+    {
+        "StationUID": "HSZ137672",
+        "StationName": "煙波庭",
+        "StationGroupID": "300－656",
+        "StationPositionLon": 120.980323333333,
+        "StationPositionLat": 24.7848133333333
+    },
+    {
+        "StationUID": "HSZ137673",
+        "StationName": "建華社區",
+        "StationGroupID": "300－657",
+        "StationPositionLon": 120.975318333333,
+        "StationPositionLat": 24.7880766666667
+    },
+    {
+        "StationUID": "HSZ137881",
+        "StationName": "香山行政大樓",
+        "StationGroupID": "300－659",
+        "StationPositionLon": 120.94297,
+        "StationPositionLat": 24.79411
+    },
+    {
+        "StationUID": "HSZ137882",
+        "StationName": "香山行政大樓",
+        "StationGroupID": "300－659",
+        "StationPositionLon": 120.94293,
+        "StationPositionLat": 24.79421
+    },
+    {
+        "StationUID": "HSZ137967",
+        "StationName": "新竹區漁會",
+        "StationGroupID": "300－660",
+        "StationPositionLon": 120.9251656,
+        "StationPositionLat": 24.84640576
+    },
+    {
+        "StationUID": "HSZ138105",
+        "StationName": "千甲社區",
+        "StationGroupID": "300－662",
+        "StationPositionLon": 121.0069,
+        "StationPositionLat": 24.80762
+    },
+    {
+        "StationUID": "HSZ138106",
+        "StationName": "千甲社區",
+        "StationGroupID": "300－662",
+        "StationPositionLon": 121.00665,
+        "StationPositionLat": 24.80758
+    },
+    {
+        "StationUID": "HSZ138107",
+        "StationName": "北新竹後站",
+        "StationGroupID": "300－663",
+        "StationPositionLon": 120.984551,
+        "StationPositionLat": 24.807501
+    },
+    {
+        "StationUID": "HSZ138108",
+        "StationName": "金城一路站",
+        "StationGroupID": "300－664",
+        "StationPositionLon": 121.001952,
+        "StationPositionLat": 24.79501016
+    },
+    {
+        "StationUID": "HSZ138109",
+        "StationName": "金城一路站",
+        "StationGroupID": "300－664",
+        "StationPositionLon": 121.0020672,
+        "StationPositionLat": 24.79490297
+    },
+    {
+        "StationUID": "HSZ138612",
+        "StationName": "北校門",
+        "StationGroupID": "300－742",
+        "StationPositionLon": 120.99657,
+        "StationPositionLat": 24.796231
+    },
+    {
+        "StationUID": "HSZ138613",
+        "StationName": "第二綜合大樓",
+        "StationGroupID": "300－743",
+        "StationPositionLon": 120.993745,
+        "StationPositionLat": 24.794003
+    },
+    {
+        "StationUID": "HSZ138614",
+        "StationName": "第二綜合大樓",
+        "StationGroupID": "300－743",
+        "StationPositionLon": 120.993702,
+        "StationPositionLat": 24.794098
+    },
+    {
+        "StationUID": "HSZ138615",
+        "StationName": "生科館(人社院)",
+        "StationGroupID": "300－744",
+        "StationPositionLon": 120.989681,
+        "StationPositionLat": 24.789329
+    },
+    {
+        "StationUID": "HSZ138616",
+        "StationName": "生科館(人社院)",
+        "StationGroupID": "300－744",
+        "StationPositionLon": 120.989571,
+        "StationPositionLat": 24.789443
+    },
+    {
+        "StationUID": "HSZ138617",
+        "StationName": "台積館",
+        "StationGroupID": "300－745",
+        "StationPositionLon": 120.988559,
+        "StationPositionLat": 24.786945
+    },
+    {
+        "StationUID": "HSZ138618",
+        "StationName": "台積館",
+        "StationGroupID": "300－745",
+        "StationPositionLon": 120.988411,
+        "StationPositionLat": 24.786894
+    },
+    {
+        "StationUID": "HSZ138619",
+        "StationName": "介壽山口",
+        "StationGroupID": "300－408",
+        "StationPositionLon": 120.975638,
+        "StationPositionLat": 24.792088
+    },
+    {
+        "StationUID": "HSZ138620",
+        "StationName": "建華國中",
+        "StationGroupID": "300－420",
+        "StationPositionLon": 120.9758,
+        "StationPositionLat": 24.794028
+    },
+    {
+        "StationUID": "HSZ138776",
+        "StationName": "科技生活館",
+        "StationGroupID": "300－747",
+        "StationPositionLon": 121.0053519,
+        "StationPositionLat": 24.779873
+    },
+    {
+        "StationUID": "HSZ138777",
+        "StationName": "實驗中學",
+        "StationGroupID": "300－748",
+        "StationPositionLon": 121.017398,
+        "StationPositionLat": 24.776485
+    },
+    {
+        "StationUID": "HSZ138778",
+        "StationName": "金山街口",
+        "StationGroupID": "300－749",
+        "StationPositionLon": 121.019019,
+        "StationPositionLat": 24.778051
+    },
+    {
+        "StationUID": "HSZ138779",
+        "StationName": "世界高中",
+        "StationGroupID": "300－502",
+        "StationPositionLon": 121.020146,
+        "StationPositionLat": 24.782252
+    },
+    {
+        "StationUID": "HSZ138780",
+        "StationName": "仙水",
+        "StationGroupID": "300－501",
+        "StationPositionLon": 121.018562,
+        "StationPositionLat": 24.782939
+    },
+    {
+        "StationUID": "HSZ138781",
+        "StationName": "關新公園",
+        "StationGroupID": "300－750",
+        "StationPositionLon": 121.018911,
+        "StationPositionLat": 24.78579
+    },
+    {
+        "StationUID": "HSZ138782",
+        "StationName": "關新公園",
+        "StationGroupID": "300－750",
+        "StationPositionLon": 121.018707,
+        "StationPositionLat": 24.785827
+    },
+    {
+        "StationUID": "HSZ138783",
+        "StationName": "金山街口",
+        "StationGroupID": "300－749",
+        "StationPositionLon": 121.018622,
+        "StationPositionLat": 24.778178
+    },
+    {
+        "StationUID": "HSZ138784",
+        "StationName": "實驗中學",
+        "StationGroupID": "300－748",
+        "StationPositionLon": 121.016998,
+        "StationPositionLat": 24.776614
+    },
+    {
+        "StationUID": "HSZ138785",
+        "StationName": "科技生活館",
+        "StationGroupID": "300－747",
+        "StationPositionLon": 121.00537,
+        "StationPositionLat": 24.779819
+    },
+    {
+        "StationUID": "HSZ138786",
+        "StationName": "同業公會",
+        "StationGroupID": "300－452",
+        "StationPositionLon": 121.002049,
+        "StationPositionLat": 24.782379
+    },
+    {
+        "StationUID": "HSZ138787",
+        "StationName": "漢威光電",
+        "StationGroupID": "300－449",
+        "StationPositionLon": 120.99901,
+        "StationPositionLat": 24.783477
+    },
+    {
+        "StationUID": "HSZ138788",
+        "StationName": "陽明交大光復南門",
+        "StationGroupID": "300－433",
+        "StationPositionLon": 120.996392,
+        "StationPositionLat": 24.783541
+    },
+    {
+        "StationUID": "HSZ138789",
+        "StationName": "同步輻射中心",
+        "StationGroupID": "300－342",
+        "StationPositionLon": 120.994472,
+        "StationPositionLat": 24.783838
+    },
+    {
+        "StationUID": "HSZ138790",
+        "StationName": "仙宮里",
+        "StationGroupID": "300－340",
+        "StationPositionLon": 120.990529,
+        "StationPositionLat": 24.784273
+    },
+    {
+        "StationUID": "HSZ138791",
+        "StationName": "仙宮里活動中心",
+        "StationGroupID": "300－331",
+        "StationPositionLon": 120.989827,
+        "StationPositionLat": 24.783535
+    },
+    {
+        "StationUID": "HSZ138792",
+        "StationName": "下路北",
+        "StationGroupID": "300－330",
+        "StationPositionLon": 120.987838,
+        "StationPositionLat": 24.781686
+    },
+    {
+        "StationUID": "HSZ138793",
+        "StationName": "高翠",
+        "StationGroupID": "300－317",
+        "StationPositionLon": 120.986999,
+        "StationPositionLat": 24.780284
+    },
+    {
+        "StationUID": "HSZ138794",
+        "StationName": "竹泰社區",
+        "StationGroupID": "300－304",
+        "StationPositionLon": 120.985469,
+        "StationPositionLat": 24.778966
+    },
+    {
+        "StationUID": "HSZ138795",
+        "StationName": "高峰",
+        "StationGroupID": "300－221",
+        "StationPositionLon": 120.983096,
+        "StationPositionLat": 24.777612
+    },
+    {
+        "StationUID": "HSZ138796",
+        "StationName": "土雞城",
+        "StationGroupID": "300－220",
+        "StationPositionLon": 120.98222,
+        "StationPositionLat": 24.778569
+    },
+    {
+        "StationUID": "HSZ138797",
+        "StationName": "青峰路口",
+        "StationGroupID": "300－187",
+        "StationPositionLon": 120.981485,
+        "StationPositionLat": 24.779665
+    },
+    {
+        "StationUID": "HSZ139097",
+        "StationName": "南大食品路口",
+        "StationGroupID": "300－752",
+        "StationPositionLon": 120.965482,
+        "StationPositionLat": 24.794376
+    },
+    {
+        "StationUID": "HSZ139098",
+        "StationName": "清大北校門",
+        "StationGroupID": "300－742",
+        "StationPositionLon": 120.996544,
+        "StationPositionLat": 24.796095
+    },
+    {
+        "StationUID": "HSZ139101",
+        "StationName": "順天宮",
+        "StationGroupID": "300－753",
+        "StationPositionLon": 120.9278909,
+        "StationPositionLat": 24.818635
+    },
+    {
+        "StationUID": "HSZ139102",
+        "StationName": "順天宮",
+        "StationGroupID": "300－753",
+        "StationPositionLon": 120.927869,
+        "StationPositionLat": 24.81809
+    },
+    {
+        "StationUID": "HSZ139391",
+        "StationName": "好市多",
+        "StationGroupID": "300－434",
+        "StationPositionLon": 121.01199,
+        "StationPositionLat": 24.79418
+    },
+    {
+        "StationUID": "HSZ141862",
+        "StationName": "香山區公所",
+        "StationGroupID": "300－186",
+        "StationPositionLon": 120.94201,
+        "StationPositionLat": 24.79699
+    },
+    {
+        "StationUID": "HSZ141863",
+        "StationName": "果菜市場",
+        "StationGroupID": "300－198",
+        "StationPositionLon": 120.97887,
+        "StationPositionLat": 24.8147
+    },
+    {
+        "StationUID": "HSZ35049",
+        "StationName": "二分局",
+        "StationGroupID": "300－076",
+        "StationPositionLon": 120.9858828,
+        "StationPositionLat": 24.80133317
+    }
+]
