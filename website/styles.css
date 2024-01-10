@@ -38,3 +38,16 @@ body {
     right:100px;
     cursor: pointer;
 }
+#fav {
+    background-color: rgb(232, 38, 106);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width:100px;
+    margin-bottom: 20px;
+    position: absolute;
+    top:5%;
+    right:175px;
+    cursor: pointer;
+}
