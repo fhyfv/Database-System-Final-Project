@@ -10,8 +10,9 @@
     if (!$conn) {
         die("Connection failed: " . mysqli_connect_error());
     }
-    echo 'Connected successfully';
+        echo 'Connected successfully';
 
+    $db_name = "Project";
     mysqli_select_db($conn, $dbname) or 
     die("Connect database failed: " . mysqli_error($conn));
 

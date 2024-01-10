@@ -17,7 +17,7 @@ logbtn.addEventListener("click", logi);
 favbtn.addEventListener("click", showFav);
 
 
-loadData();
+//loadData();
 setInterval(loadData, 60000);
 
 
