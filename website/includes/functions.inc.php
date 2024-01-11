@@ -109,13 +109,18 @@
         mysqli_stmt_execute($stmt);
 
         $result = $stmt->get_result();
-        while ($row = $result->fetch_assoc()) {
-            $results[] = $row;
+        if ($row = $result->fetch_assoc() > 0){
+            while ($row = $result->fetch_assoc()) {
+                $results[] = $row;
+            }
+            return $result;
         }
-
+        else{
+            $row = $result->fetch_assoc();
+            return $row;
+        }
+        
         mysqli_stmt_close($stmt);
-
-        return $result;
     }
 
     function searchStop($conn, $stopName){
@@ -140,7 +145,9 @@
 
         return $result;
     }
+
     function getStops($conn, $routeUID) {
+
         $sql = "SELECT Stops.StopUID, StopName, Direction FROM Stop_Of_Routes JOIN Stops ON Stop_Of_Routes.StopUID=Stops.StopUID WHERE RouteUID LIKE ? GROUP BY StopUID, Direction ORDER BY Direction,StopUID";
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)) {
@@ -152,12 +159,78 @@
         mysqli_stmt_execute($stmt);
     
         $resultData = mysqli_stmt_get_result($stmt);
-    
         $results = mysqli_fetch_all($resultData, MYSQLI_ASSOC);
     
         mysqli_stmt_close($stmt);
     
         return $results;
     }
-    
+
+    function showFavorite($conn, $userName){
+        
+        $sql = "select u.RouteUID, r.RouteName 
+        from User_Favorite as u, Routes as r 
+        where u.UserName = ? AND u.RouteUID = r.RouteUID;";
+
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)){
+            header("location: ../website/favorite.php?error=stmtfailed");
+            exit();
+        } 
+        mysqli_stmt_bind_param($stmt, "s", $userName);
+        mysqli_stmt_execute($stmt);
+        $result = $stmt->get_result();
+        if ($row = $result->fetch_assoc() > 0){
+            while ($row = $result->fetch_assoc()) {
+                $results[] = $row;
+            }
+            return $result;
+        }
+        else{
+            $row = $result->fetch_assoc();
+            return $row;
+        }
+        mysqli_stmt_close($stmt);
+        header("location: ../website/favorite.php?error=none");
+        exit();
+    }
+
+    function addFavorite($conn, $routeUID){
+        $userName = $_SESSION["userName"];
+        $sql = "INSERT INTO User_Favorite (UserName, RouteUID) VALUES (?, ?)";
+
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)){
+            header("location: ../website/favorite.php?error=stmtfailed");
+            exit();
+        } 
+        mysqli_stmt_bind_param($stmt, "ss", $userName, $routeUID);
+        mysqli_stmt_execute($stmt);
+        mysqli_stmt_close($stmt);
+
+        header("location: ../website/favorite.php?error=none");
+        exit();
+    }
+
+    function deleteFavorite($conn, $routeName){
+
+        $userName = $_SESSION["userName"];
+        $sql = "DELETE FROM User_Favorite 
+        WHERE UserName = ? AND 
+        RouteUID in (select routeUid from (select r.RouteUID as routeUid
+                from User_Favorite as u, Routes as r 
+                where u.RouteUID = r.RouteUID AND r.RouteName = ?) as a);";
+
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)){
+            header("location: ../website/favorite.php?error=stmtfailed");
+            exit();
+        } 
+        mysqli_stmt_bind_param($stmt, "ss", $userName, $routeName);
+        mysqli_stmt_execute($stmt);
+        mysqli_stmt_close($stmt);
+
+        header("location: ../website/favorite.php?error=none");
+        exit();
+    }
 ?>
