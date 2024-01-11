@@ -73,3 +73,14 @@ LOAD DATA LOCAL INFILE 'Data/Stop_Of_Route.json'
         RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
         RouteName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteName')),
         Direction = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.Direction'));
+
+CREATE TABLE IF NOT EXISTS User (
+    UserID int auto_increment PRIMARY KEY,
+    UserName VARCHAR(255),
+    UserPassword VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS User_Favorite (
+    UserID int,
+    RouteName VARCHAR(255)
+);
