@@ -120,7 +120,9 @@
 
     function searchStop($conn, $stopName){
 
-        $sql = "SELECT * FROM Stop_Of_Routes WHERE StopUID LIKE ?";
+        $sql = "SELECT DISTINCT Routes.RouteUID, RouteName, Direction, Stop_Of_Routes.StopUID
+                FROM Stop_Of_Routes JOIN Routes ON Stop_Of_Routes.RouteUID=Routes.RouteUID
+                WHERE StopUID LIKE ?";
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)){
             header("location: ../index.php?error=stmtfailed");
