@@ -19,7 +19,7 @@
                     "<input type = 'text' name= 'routeUid'>" .
                     "<button type='submit' name='addFavorite'>Add Favorite</button>" .
                 "</div>";
-            echo "StopUID\tStopName\tDirection\t<br>"; 
+            echo "StopUID\tStopName\tDirection\tEstimate Time\t Plate Number<br>"; 
             foreach ($results as $row) {
                 echo $row['SubRouteUID'] . "\t" .$row["StopUID"] . "\t" .$row["StopName"] . "\t" . $row["Direction"] . "\t" . $row["EstimateTime"] . "\t" . $row["PlateNumb"] . "<br>" ;
             }

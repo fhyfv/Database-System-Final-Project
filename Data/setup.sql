@@ -89,8 +89,6 @@ CREATE TABLE IF NOT EXISTS User_Favorite (
     PRIMARY KEY (UserName, RouteUID)
 );
 
-DROP TABLE IF EXISTS EstimateTime;
-
 CREATE TABLE IF NOT EXISTS EstimateTime (
     RouteUID VARCHAR(20),
     SubRouteUID VARCHAR(20),
@@ -116,13 +114,3 @@ LOAD DATA LOCAL INFILE 'Data/Estimate_Arrival_Time.json'
         IsLastBus = if(JSON_UNQUOTE(JSON_EXTRACT(@json, '$.IsLastBus')) = 'true', 1, 0),
         PlateNumb = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.PlateNumb')),
         EstimateTime = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.EstimateTime'));
-
-select r.RouteName 
-from User_Favorite as u, Routes as r 
-where u.UserName = "fhyfv" AND u.RouteUID = r.RouteUID;
-
-DELETE FROM User_Favorite 
-WHERE UserName = "fhyfv" AND 
-RouteUID in (select routeUid from (select r.RouteUID as routeUid
-        from User_Favorite as u, Routes as r 
-        where u.RouteUID = r.RouteUID AND r.RouteName = "81") as a);
