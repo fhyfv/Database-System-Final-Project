@@ -16,7 +16,6 @@
             <a href = "index.php"></a>
             <ul>
                 <li><a href = "index.php">Home</a></li>
-
                 <?php
                     if (isset($_SESSION["userName"])){
                         echo "<li><a href = 'favorite.php'>My Favorite</a></li>";

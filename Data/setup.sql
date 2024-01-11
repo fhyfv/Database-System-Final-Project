@@ -60,19 +60,20 @@ LOAD DATA LOCAL INFILE 'Data/Station.json'
 
 CREATE TABLE IF NOT EXISTS Stop_Of_Routes (
     RouteUID VARCHAR(20),
-    RouteName VARCHAR(255),
+    SubRouteUID VARCHAR(255),
     Direction INT,
-    PRIMARY KEY (RouteUID, Direction)
+    StopUID VARCHAR(20),
+    PRIMARY KEY (RouteUID, SubRouteUID, Direction, StopUID)
 );
-
-LOAD DATA LOCAL INFILE 'Data/Stop_Of_Route.json' 
+LOAD DATA LOCAL INFILE 'Data/stop_of_route.json' 
     INTO TABLE Stop_Of_Routes
     LINES TERMINATED BY '\n'
     (@json)
     SET
         RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
-        RouteName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteName')),
-        Direction = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.Direction'));
+        SubRouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.SubRouteUID')),
+        Direction = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.Direction')),
+	    StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID'));
 
 CREATE TABLE IF NOT EXISTS User (
     UserID int auto_increment PRIMARY KEY,
@@ -84,3 +85,30 @@ CREATE TABLE IF NOT EXISTS User_Favorite (
     UserID int,
     RouteName VARCHAR(255)
 );
+
+DROP TABLE IF EXISTS EstimateTime;
+
+CREATE TABLE IF NOT EXISTS EstimateTime (
+    RouteUID VARCHAR(20),
+    SubRouteUID VARCHAR(20),
+    StopUID VARCHAR(20),
+    StopStatus INT,
+    IsLastBus BOOLEAN,
+    PlateNumb VARCHAR(10),
+    EstimateTime INT,
+    PRIMARY KEY (RouteUID, SubRouteUID, StopUID)
+);
+
+LOAD DATA LOCAL INFILE 'Data/Estimate_Arrival_Time.json'
+    INTO TABLE EstimateTime
+    LINES TERMINATED BY '\n'
+    (@json)
+    SET
+        RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
+        SubRouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.SubRouteUID')),
+        StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID')),
+        StopStatus = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopStatus')),
+        IsLastBus = if(JSON_UNQUOTE(JSON_EXTRACT(@json, '$.IsLastBus')) = 'true', 1, 0),
+        PlateNumb = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.PlateNumb')),
+        EstimateTime = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.EstimateTime'));
+

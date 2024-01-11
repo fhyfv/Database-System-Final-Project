@@ -1,15 +1,11 @@
 <?php
 
     function emptyInputSignup($userName, $pwd){
-
-        $result = true;
+        $result = false;
         if (empty($userName) || empty($pwd)){
-            $result = false;
+            $result = true;
         }
-        else{
-            $result = false;
-        }
-    
+
         return $result;
     }
     
@@ -57,15 +53,11 @@
     }
 
     function emptyInputLogin($userName, $pwd){
-
-        $result = true;
+        $result = false;
         if (empty($userName) || empty($pwd)){
-            $result = false;
+            $result = true;
         }
-        else{
-            $result = false;
-        }
-    
+        
         return $result;
     }
 
@@ -92,5 +84,60 @@
             header("location: ../index.php");
             exit();
         }
+    }
+
+    function emptyInputSearch($searchName){
+        $result = false;
+        if (empty($searchName)){
+            $result = false;
+        }
+    
+        return $result;
+    }
+
+    function searchRoute($conn, $routeName){
+
+        $sql = "SELECT RouteUID, RouteName FROM Routes WHERE RouteName LIKE ?";
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)){
+            header("location: ../index.php?error=stmtfailed");
+            exit();
+        } 
+
+        $searchParam = "%" . $routeName . "%";
+        mysqli_stmt_bind_param($stmt, "s", $searchParam);
+        mysqli_stmt_execute($stmt);
+
+        $result = $stmt->get_result();
+        while ($row = $result->fetch_assoc()) {
+            $results[] = $row;
+        }
+
+        mysqli_stmt_close($stmt);
+
+        return $result;
+    }
+
+    function searchStop($conn, $stopName){
+
+        $sql = "SELECT * FROM Stop_Of_Routes WHERE StopUID LIKE ?";
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)){
+            header("location: ../index.php?error=stmtfailed");
+            exit();
+        } 
+
+        $searchParam = "%" . $stopName . "%";
+        mysqli_stmt_bind_param($stmt, "s", $searchParam);
+        mysqli_stmt_execute($stmt);
+
+        $result = $stmt->get_result();
+        while ($row = $result->fetch_assoc()) {
+            $results[] = $row;
+        }
+
+        mysqli_stmt_close($stmt);
+
+        return $result;
     }
 ?>
