@@ -7,72 +7,13 @@ const favbtn=document.getElementById("fav");
 
 var routes, stops, stations, stopOfRoutes, estimatedArrivalTimes;
 
-routebtn.disabled = true;
-stopbtn.disabled = true;
+// routebtn.addEventListener("click", searchRoute);
+// stopbtn.addEventListener("click", searchStop);
+// regbtn.addEventListener("click", regi);
+// logbtn.addEventListener("click", logi);
+// favbtn.addEventListener("click", showFav);
 
-routebtn.addEventListener("click", searchRoute);
-stopbtn.addEventListener("click", searchStop);
-regbtn.addEventListener("click", regi);
-logbtn.addEventListener("click", logi);
-favbtn.addEventListener("click", showFav);
-
-
-//loadData();
-setInterval(loadData, 60000);
-
-
-function loadData() {
-    fetch('Route.json')
-        .then(response => response.json())
-        .then(data => {
-            routes = data;
-            // Enable the search buttons now that the data is loaded
-            routebtn.disabled = false;
-            stopbtn.disabled = false;
-        })
-        .catch(error => console.error('Error:', error));
-
-    fetch('Stop.json')
-        .then(response => response.json())
-        .then(data => {
-            stops = data;
-            // Enable the search buttons now that the data is loaded
-            routebtn.disabled = false;
-            stopbtn.disabled = false;
-        })
-        .catch(error => console.error('Error:', error));
-
-    fetch('Station.json')
-        .then(response => response.json())
-        .then(data => {
-            stations = data;
-            // Enable the search buttons now that the data is loaded
-            routebtn.disabled = false;
-            stopbtn.disabled = false;
-        })
-        .catch(error => console.error('Error:', error));
-
-    fetch('Stop_Of_Route.json')
-        .then(response => response.json())
-        .then(data => {
-            stopOfRoutes = data;
-            // Enable the search buttons now that the data is loaded
-            routebtn.disabled = false;
-            stopbtn.disabled = false;
-        })
-        .catch(error => console.error('Error:', error));
-    fetch('Estimate_Arrival_Time.json')
-        .then(response => response.json())
-        .then(data => {
-            estimatedArrivalTimes = data;
-            // Enable the search buttons now that the data is loaded
-            routebtn.disabled = false;
-            stopbtn.disabled = false;
-        })
-        .catch(error => console.error('Error:', error));
-}
-
-
+//setInterval(loadData, 60000);
 
 function searchRoute() {
     var routeInput = document.getElementById('routeInput').value;
@@ -139,10 +80,12 @@ function showFav(){
 
 
 function indexroute(rid){           //用sql這裡可以刪掉
-    for (let i=0;i<stopOfRoutes.length;i++){
-        if(rid==stopOfRoutes[i].RouteID){
+    for (let i = 0; i < stopOfRoutes.length; i++){
+        if(rid == stopOfRoutes[i].RouteID){
             return i;
         }
     }
     return null;
 }
+
+

@@ -1,3 +1,23 @@
+CREATE TABLE IF NOT EXISTS Routes  (
+    RouteUID VARCHAR(20) PRIMARY KEY,
+    RouteName VARCHAR(255),
+    DepartureStopName VARCHAR(255),
+    DestinationStopName VARCHAR(255),
+    RouteMapImageUrl VARCHAR(255)
+);
+
+LOAD DATA LOCAL INFILE 'Data/Route.json' 
+    INTO TABLE Routes 
+    LINES TERMINATED BY '\n'
+    (@json)
+    SET
+        RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
+        RouteName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteName')),
+        DepartureStopName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.DepartureStopName')),
+        DestinationStopName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.DestinationStopName')),
+        RouteMapImageUrl = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteMapImageUrl'));
+
+
 CREATE TABLE IF NOT EXISTS Stops (
     StopUID VARCHAR(20) PRIMARY KEY,
     StopName VARCHAR(255),
@@ -18,26 +38,6 @@ LOAD DATA LOCAL INFILE 'Data/Stop.json'
         StopPositionLat = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopPositionLat')),
         StopAddress = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopAddress')),
         StationGroupID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StationGroupID'));
-
-
-CREATE TABLE IF NOT EXISTS Routes  (
-    RouteUID VARCHAR(20) PRIMARY KEY,
-    RouteName VARCHAR(255),
-    DepartureStopName VARCHAR(255),
-    DestinationStopName VARCHAR(255),
-    RouteMapImageUrl VARCHAR(255)
-);
-
-LOAD DATA LOCAL INFILE 'Data/Route.json' 
-    INTO TABLE Routes 
-    LINES TERMINATED BY '\n'
-    (@json)
-    SET
-        RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
-        RouteName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteName')),
-        DepartureStopName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.DepartureStopName')),
-        DestinationStopName = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.DestinationStopName')),
-        RouteMapImageUrl = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteMapImageUrl'));
 
 CREATE TABLE IF NOT EXISTS Stations (
     StationUID VARCHAR(20) PRIMARY KEY,
