@@ -14,9 +14,9 @@
         }
         else{
             echo "Stops for route: " . $routeUID . "<br>";
-            echo "StopUID\tStopName\tDirection<br>";
+            echo "SubRouteUID\tStopUID\tStopName\tDirection\tEstimateTime\tPlateNumb<br>";
             foreach ($results as $row) {
-                echo $row["StopUID"] . "\t" .$row["StopName"] . "\t" . $row["Direction"] . "<br>";
+                echo $row['SubRouteUID'] . "\t" .$row["StopUID"] . "\t" .$row["StopName"] . "\t" . $row["Direction"] . "\t" . $row["EstimateTime"] . "\t" . $row["PlateNumb"] . "<br>" ;
             }
         }
     }

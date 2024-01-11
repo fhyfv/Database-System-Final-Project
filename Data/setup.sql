@@ -63,9 +63,10 @@ CREATE TABLE IF NOT EXISTS Stop_Of_Routes (
     SubRouteUID VARCHAR(255),
     Direction INT,
     StopUID VARCHAR(20),
+    StopSequence INT,
     PRIMARY KEY (RouteUID, SubRouteUID, Direction, StopUID)
 );
-LOAD DATA LOCAL INFILE 'Data/stop_of_route.json' 
+LOAD DATA LOCAL INFILE 'Data/Stop_Of_Route.json' 
     INTO TABLE Stop_Of_Routes
     LINES TERMINATED BY '\n'
     (@json)
@@ -73,7 +74,8 @@ LOAD DATA LOCAL INFILE 'Data/stop_of_route.json'
         RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
         SubRouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.SubRouteUID')),
         Direction = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.Direction')),
-	    StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID'));
+	    StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID')),
+        StopSequence = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopSequence'));
 
 CREATE TABLE IF NOT EXISTS User (
     UserID int auto_increment PRIMARY KEY,
@@ -92,11 +94,12 @@ CREATE TABLE IF NOT EXISTS EstimateTime (
     RouteUID VARCHAR(20),
     SubRouteUID VARCHAR(20),
     StopUID VARCHAR(20),
+    Direction INT,
     StopStatus INT,
     IsLastBus BOOLEAN,
     PlateNumb VARCHAR(10),
     EstimateTime INT,
-    PRIMARY KEY (RouteUID, SubRouteUID, StopUID)
+    PRIMARY KEY (RouteUID, SubRouteUID, StopUID, Direction)
 );
 
 LOAD DATA LOCAL INFILE 'Data/Estimate_Arrival_Time.json'
@@ -107,6 +110,7 @@ LOAD DATA LOCAL INFILE 'Data/Estimate_Arrival_Time.json'
         RouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.RouteUID')),
         SubRouteUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.SubRouteUID')),
         StopUID = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopUID')),
+        Direction = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.Direction')),
         StopStatus = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.StopStatus')),
         IsLastBus = if(JSON_UNQUOTE(JSON_EXTRACT(@json, '$.IsLastBus')) = 'true', 1, 0),
         PlateNumb = JSON_UNQUOTE(JSON_EXTRACT(@json, '$.PlateNumb')),
