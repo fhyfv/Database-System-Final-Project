@@ -83,4 +83,4 @@ for item in data:
 
     with open('Estimate_Arrival_Time.json', 'a', encoding='utf-8') as f:
         json.dump(new_item, f, ensure_ascii=False)
-        f.write('\n')  # 加入換行符號，使每個物件在檔案中獨自存在一行
+        f.write('\n')
