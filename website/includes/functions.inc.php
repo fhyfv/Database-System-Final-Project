@@ -140,4 +140,24 @@
 
         return $result;
     }
+    function getStops($conn, $routeUID) {
+        $sql = "SELECT Stops.StopUID, StopName, Direction FROM Stop_Of_Routes JOIN Stops ON Stop_Of_Routes.StopUID=Stops.StopUID WHERE RouteUID LIKE ? GROUP BY StopUID, Direction ORDER BY Direction,StopUID";
+        $stmt = mysqli_stmt_init($conn);
+        if (!mysqli_stmt_prepare($stmt, $sql)) {
+            header("location: ../index.php?error=stmtfailed");
+            exit();
+        }
+    
+        mysqli_stmt_bind_param($stmt, "s", $routeUID);
+        mysqli_stmt_execute($stmt);
+    
+        $resultData = mysqli_stmt_get_result($stmt);
+    
+        $results = mysqli_fetch_all($resultData, MYSQLI_ASSOC);
+    
+        mysqli_stmt_close($stmt);
+    
+        return $results;
+    }
+    
 ?>
