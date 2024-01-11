@@ -21,7 +21,7 @@
                 "</div>";
             echo "StopUID\tStopName\tDirection\t<br>"; 
             foreach ($results as $row) {
-                echo $row["StopUID"] . "\t" .$row["StopName"] . "\t" . $row["Direction"] . "<br>";
+                echo $row['SubRouteUID'] . "\t" .$row["StopUID"] . "\t" .$row["StopName"] . "\t" . $row["Direction"] . "\t" . $row["EstimateTime"] . "\t" . $row["PlateNumb"] . "<br>" ;
             }
         }
     }

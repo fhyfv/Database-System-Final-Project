@@ -125,7 +125,14 @@
 
     function searchStop($conn, $stopName){
 
-        $sql = "SELECT * FROM Stop_Of_Routes WHERE StopUID LIKE ?";
+        // $sql = "SELECT DISTINCT Routes.RouteUID, RouteName, Direction, Stop_Of_Routes.StopUID
+        //         FROM Stop_Of_Routes JOIN Routes ON Stop_Of_Routes.RouteUID=Routes.RouteUID
+        //         WHERE Stop_Of_Routes.StopUID LIKE ?";
+        $sql = "SELECT DISTINCT Routes.RouteUID, RouteName, Direction, Stop_Of_Routes.StopUID, Stops.StopName
+                FROM Stop_Of_Routes JOIN Routes ON Stop_Of_Routes.RouteUID=Routes.RouteUID
+                JOIN Stops ON Stop_Of_Routes.StopUID=Stops.StopUID
+                WHERE Stop_Of_Routes.StopUID LIKE ?";
+        
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)){
             header("location: ../index.php?error=stmtfailed");
@@ -147,8 +154,12 @@
     }
 
     function getStops($conn, $routeUID) {
-
-        $sql = "SELECT Stops.StopUID, StopName, Direction FROM Stop_Of_Routes JOIN Stops ON Stop_Of_Routes.StopUID=Stops.StopUID WHERE RouteUID LIKE ? GROUP BY StopUID, Direction ORDER BY Direction,StopUID";
+        $sql = "SELECT sr.SubRouteUID, sr.Direction, s.StopUID, s.StopName, e.EstimateTime, e.PlateNumb 
+                FROM Stop_Of_Routes sr
+                JOIN EstimateTime e ON (sr.StopUID=e.StopUID and sr.RouteUID=e.RouteUID and sr.Direction=e.Direction and sr.SubRouteUID=e.SubRouteUID)
+                JOIN Stops s ON s.StopUID=sr.StopUID
+                WHERE sr.RouteUID LIKE ? 
+                ORDER BY sr.SubRouteUID, sr.StopSequence";
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)) {
             header("location: ../index.php?error=stmtfailed");
