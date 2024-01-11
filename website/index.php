@@ -82,9 +82,17 @@
             }
             else{
                 echo "Result" . "<br>";
-                echo "RouteUID\tDirection<br>";
+                echo "RouteName\tDirection\tStopUID<br>";
                 foreach ($results as $row) {
-                    echo $row["RouteUID"] . "\t" .  $row["Direction"] ."<br>";
+                    echo "<div class='route-row'>";
+                    echo "<div class='route-info-button'>";
+                    echo "<span class='route-info'>".$row["RouteName"] . "\t" .  $row["Direction"] . "\t" .  $row["StopUID"]."</span>";
+                    echo "<form class='view-stops-form' action='stops.php' method='post'>";
+                    echo "<input type='hidden' name='routeUID' value='".$row["RouteUID"]."'>";
+                    echo "<button type='submit' name='viewStops'>View Stops Of Route</button>";
+                    echo "</form>";
+                    echo "</div>";
+                    echo "</div>";
                 }
             }
         }
