@@ -28578,6 +28578,6 @@ for i in data:
 print(d)
 with open("a.txt","w") as file:
     for i in d:
-        x='{"RouteUID":"'+ i["RouteUID"] +'","SubRouteUID":"'+ i["SubRouteUID"] + '","Direction":' + str(i["Direction"]) + ',"StopUID":"' + i["StopUID"] + ',"StopSequence":"'+ str(i["StopSequence"])+'"}\n'
+        x='{"RouteUID":"'+ i["RouteUID"] +'","SubRouteUID":"'+ i["SubRouteUID"] + '","Direction":' + str(i["Direction"]) + ',"StopUID":"' + i["StopUID"] + '","StopSequence":"'+ str(i["StopSequence"])+'"}\n'
         file.write(x)
 
