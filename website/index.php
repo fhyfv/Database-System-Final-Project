@@ -37,9 +37,18 @@
             }
             else{
                 echo "Result" . "<br>";
-                foreach ($results as $row) {
-                    echo "RouteUID: " . $row["RouteUID"] . "\t" .
-                    "RouteName: " . $row["RouteName"] . "<br>";
+                echo "RouteUID" . "\t" . "RouteName" . "<br>";
+                foreach ($results as $row){
+                    echo "<div class='route-row'>";
+                    echo "<div class='route-info-button'>";
+                    echo "<span class='route-info'>".$row["RouteUID"]."\t".$row["RouteName"]."</span>";
+                    echo "<form class='view-stops-form' action='stops.php' method='post'>";
+                    echo "<input type='hidden' name='routeUID' value='".$row["RouteUID"]."'>";
+                    echo "<button type='submit' name='viewStops'>View Stops</button>";
+                    echo "</form>";
+                    echo "</div>";
+                    echo "</div>";
+
                 }
             }
         }
@@ -73,10 +82,9 @@
             }
             else{
                 echo "Result" . "<br>";
+                echo "RouteUID\tDirection<br>";
                 foreach ($results as $row) {
-                    echo "RouteUID: " . $row["RouteUID"] . "\t" . "SubRouteUID: " .
-                         $row["SubRouteUID"] . "\t" ."Direction: " . $row["Direction"] .
-                         "\t" ."\t" ."StopUID: " . $row["StopUID"] ."<br>";
+                    echo $row["RouteUID"] . "\t" .  $row["Direction"] ."<br>";
                 }
             }
         }
